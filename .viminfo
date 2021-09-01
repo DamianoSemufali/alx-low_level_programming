@@ -15,7 +15,9 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1630367327,,"wq"
+|2,0,1630540286,,"wq"
+:q
+|2,0,1630535571,,"q"
 
 # Search String History (newest to oldest):
 ?/bin/bash
@@ -30,275 +32,293 @@
 # Registers:
 
 # File marks:
-'0  1  3  ~/.git/COMMIT_EDITMSG
-|4,48,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
-'1  13  4  ~/0x00-hello_world/4-puts.c
-|4,49,13,4,1630367145,"~/0x00-hello_world/4-puts.c"
-'2  1  3  ~/.git/COMMIT_EDITMSG
-|4,50,1,3,1630366791,"~/.git/COMMIT_EDITMSG"
-'3  11  12  ~/0x00-hello_world/4-puts.c
-|4,51,11,12,1630366633,"~/0x00-hello_world/4-puts.c"
-'4  11  12  ~/0x00-hello_world/4-puts.c
-|4,52,11,12,1630366633,"~/0x00-hello_world/4-puts.c"
-'5  11  12  ~/0x00-hello_world/4-puts.c
-|4,53,11,12,1630366610,"~/0x00-hello_world/4-puts.c"
-'6  11  12  ~/0x00-hello_world/4-puts.c
-|4,54,11,12,1630366610,"~/0x00-hello_world/4-puts.c"
-'7  13  96  ~/0x00-hello_world/4-puts.c
-|4,55,13,96,1630366287,"~/0x00-hello_world/4-puts.c"
-'8  13  19  ~/0x00-hello_world/4-puts.c
-|4,56,13,19,1630366287,"~/0x00-hello_world/4-puts.c"
-'9  13  96  ~/0x00-hello_world/4-puts.c
-|4,57,13,96,1630366287,"~/0x00-hello_world/4-puts.c"
+'0  5  0  ~/0x00-hello_world/4-put.c
+|4,48,5,0,1630540286,"~/0x00-hello_world/4-put.c"
+'1  1  0  ~/0x00-hello_world/4-puts.c
+|4,49,1,0,1630539938,"~/0x00-hello_world/4-puts.c"
+'2  1  0  ~/0x00-hello_world/4-puts.c
+|4,50,1,0,1630539916,"~/0x00-hello_world/4-puts.c"
+'3  9  0  ~/0x00-hello_world/4-puts.c
+|4,51,9,0,1630539859,"~/0x00-hello_world/4-puts.c"
+'4  9  0  ~/0x00-hello_world/4-puts.c
+|4,52,9,0,1630539859,"~/0x00-hello_world/4-puts.c"
+'5  9  0  ~/0x00-hello_world/4-puts.c
+|4,53,9,0,1630539859,"~/0x00-hello_world/4-puts.c"
+'6  9  0  ~/0x00-hello_world/4-puts.c
+|4,54,9,0,1630539859,"~/0x00-hello_world/4-puts.c"
+'7  1  0  ~/0x00-hello_world/puts.c
+|4,55,1,0,1630535571,"~/0x00-hello_world/puts.c"
+'8  1  3  ~/.git/COMMIT_EDITMSG
+|4,56,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+'9  1  3  ~/.git/COMMIT_EDITMSG
+|4,57,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  5  0  ~/0x00-hello_world/4-put.c
+|4,39,5,0,1630540286,"~/0x00-hello_world/4-put.c"
+-'  1  0  ~/0x00-hello_world/4-put.c
+|4,39,1,0,1630539946,"~/0x00-hello_world/4-put.c"
+-'  1  0  ~/0x00-hello_world/4-puts.c
+|4,39,1,0,1630539938,"~/0x00-hello_world/4-puts.c"
+-'  1  0  ~/0x00-hello_world/4-puts.c
+|4,39,1,0,1630539938,"~/0x00-hello_world/4-puts.c"
+-'  1  0  ~/0x00-hello_world/4-puts.c
+|4,39,1,0,1630539916,"~/0x00-hello_world/4-puts.c"
+-'  1  0  ~/0x00-hello_world/4-puts.c
+|4,39,1,0,1630539916,"~/0x00-hello_world/4-puts.c"
+-'  9  0  ~/0x00-hello_world/4-puts.c
+|4,39,9,0,1630539859,"~/0x00-hello_world/4-puts.c"
+-'  9  0  ~/0x00-hello_world/4-puts.c
+|4,39,9,0,1630539859,"~/0x00-hello_world/4-puts.c"
+-'  9  0  ~/0x00-hello_world/4-puts.c
+|4,39,9,0,1630539859,"~/0x00-hello_world/4-puts.c"
+-'  9  0  ~/0x00-hello_world/4-puts.c
+|4,39,9,0,1630539859,"~/0x00-hello_world/4-puts.c"
+-'  9  0  ~/0x00-hello_world/4-puts.c
+|4,39,9,0,1630539859,"~/0x00-hello_world/4-puts.c"
+-'  9  0  ~/0x00-hello_world/4-puts.c
+|4,39,9,0,1630539859,"~/0x00-hello_world/4-puts.c"
+-'  11  4  ~/0x00-hello_world/4-puts.c
+|4,39,11,4,1630539822,"~/0x00-hello_world/4-puts.c"
+-'  11  4  ~/0x00-hello_world/4-puts.c
+|4,39,11,4,1630539822,"~/0x00-hello_world/4-puts.c"
+-'  11  4  ~/0x00-hello_world/4-puts.c
+|4,39,11,4,1630539822,"~/0x00-hello_world/4-puts.c"
+-'  11  4  ~/0x00-hello_world/4-puts.c
+|4,39,11,4,1630539822,"~/0x00-hello_world/4-puts.c"
+-'  11  4  ~/0x00-hello_world/4-puts.c
+|4,39,11,4,1630539822,"~/0x00-hello_world/4-puts.c"
+-'  11  4  ~/0x00-hello_world/4-puts.c
+|4,39,11,4,1630539822,"~/0x00-hello_world/4-puts.c"
+-'  1  0  ~/0x00-hello_world/puts.c
+|4,39,1,0,1630535571,"~/0x00-hello_world/puts.c"
+-'  1  0  ~/0x00-hello_world/puts.c
+|4,39,1,0,1630535571,"~/0x00-hello_world/puts.c"
+-'  1  0  ~/0x00-hello_world/puts.c
+|4,39,1,0,1630535571,"~/0x00-hello_world/puts.c"
+-'  1  0  ~/0x00-hello_world/puts.c
+|4,39,1,0,1630535571,"~/0x00-hello_world/puts.c"
+-'  1  0  ~/0x00-hello_world/puts.c
+|4,39,1,0,1630535571,"~/0x00-hello_world/puts.c"
+-'  1  0  ~/0x00-hello_world/puts.c
+|4,39,1,0,1630535571,"~/0x00-hello_world/puts.c"
+-'  1  0  ~/0x00-hello_world/puts.c
+|4,39,1,0,1630535571,"~/0x00-hello_world/puts.c"
+-'  1  0  ~/0x00-hello_world/puts.c
+|4,39,1,0,1630535571,"~/0x00-hello_world/puts.c"
+-'  1  0  ~/0x00-hello_world/puts.c
+|4,39,1,0,1630535571,"~/0x00-hello_world/puts.c"
+-'  1  0  ~/0x00-hello_world/puts.c
+|4,39,1,0,1630535571,"~/0x00-hello_world/puts.c"
+-'  1  0  ~/0x00-hello_world/puts.c
+|4,39,1,0,1630535571,"~/0x00-hello_world/puts.c"
+-'  1  0  ~/0x00-hello_world/puts.c
+|4,39,1,0,1630535571,"~/0x00-hello_world/puts.c"
+-'  1  0  ~/0x00-hello_world/puts.c
+|4,39,1,0,1630535571,"~/0x00-hello_world/puts.c"
+-'  1  0  ~/0x00-hello_world/puts.c
+|4,39,1,0,1630535571,"~/0x00-hello_world/puts.c"
+-'  1  0  ~/0x00-hello_world/puts.c
+|4,39,1,0,1630535571,"~/0x00-hello_world/puts.c"
+-'  1  0  ~/0x00-hello_world/puts.c
+|4,39,1,0,1630535571,"~/0x00-hello_world/puts.c"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630368247,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
+-'  1  3  ~/.git/COMMIT_EDITMSG
+|4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
 -'  1  3  ~/.git/COMMIT_EDITMSG
 |4,39,1,3,1630367327,"~/.git/COMMIT_EDITMSG"
 -'  13  4  ~/0x00-hello_world/4-puts.c
 |4,39,13,4,1630367145,"~/0x00-hello_world/4-puts.c"
 -'  13  4  ~/0x00-hello_world/4-puts.c
 |4,39,13,4,1630367145,"~/0x00-hello_world/4-puts.c"
--'  11  12  ~/0x00-hello_world/4-puts.c
-|4,39,11,12,1630367018,"~/0x00-hello_world/4-puts.c"
--'  11  12  ~/0x00-hello_world/4-puts.c
-|4,39,11,12,1630367018,"~/0x00-hello_world/4-puts.c"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630366791,"~/.git/COMMIT_EDITMSG"
--'  1  3  ~/.git/COMMIT_EDITMSG
-|4,39,1,3,1630366791,"~/.git/COMMIT_EDITMSG"
--'  11  12  ~/0x00-hello_world/4-puts.c
-|4,39,11,12,1630366633,"~/0x00-hello_world/4-puts.c"
--'  11  12  ~/0x00-hello_world/4-puts.c
-|4,39,11,12,1630366633,"~/0x00-hello_world/4-puts.c"
--'  11  12  ~/0x00-hello_world/4-puts.c
-|4,39,11,12,1630366633,"~/0x00-hello_world/4-puts.c"
--'  11  12  ~/0x00-hello_world/4-puts.c
-|4,39,11,12,1630366633,"~/0x00-hello_world/4-puts.c"
--'  11  12  ~/0x00-hello_world/4-puts.c
-|4,39,11,12,1630366610,"~/0x00-hello_world/4-puts.c"
--'  11  12  ~/0x00-hello_world/4-puts.c
-|4,39,11,12,1630366610,"~/0x00-hello_world/4-puts.c"
--'  11  12  ~/0x00-hello_world/4-puts.c
-|4,39,11,12,1630366610,"~/0x00-hello_world/4-puts.c"
--'  11  12  ~/0x00-hello_world/4-puts.c
-|4,39,11,12,1630366610,"~/0x00-hello_world/4-puts.c"
--'  13  19  ~/0x00-hello_world/4-puts.c
-|4,39,13,19,1630366325,"~/0x00-hello_world/4-puts.c"
--'  13  19  ~/0x00-hello_world/4-puts.c
-|4,39,13,19,1630366325,"~/0x00-hello_world/4-puts.c"
--'  13  19  ~/0x00-hello_world/4-puts.c
-|4,39,13,19,1630366325,"~/0x00-hello_world/4-puts.c"
--'  13  19  ~/0x00-hello_world/4-puts.c
-|4,39,13,19,1630366325,"~/0x00-hello_world/4-puts.c"
--'  13  19  ~/0x00-hello_world/4-puts.c
-|4,39,13,19,1630366325,"~/0x00-hello_world/4-puts.c"
--'  13  19  ~/0x00-hello_world/4-puts.c
-|4,39,13,19,1630366325,"~/0x00-hello_world/4-puts.c"
--'  13  19  ~/0x00-hello_world/4-puts.c
-|4,39,13,19,1630366325,"~/0x00-hello_world/4-puts.c"
--'  13  19  ~/0x00-hello_world/4-puts.c
-|4,39,13,19,1630366325,"~/0x00-hello_world/4-puts.c"
--'  14  19  ~/0x00-hello_world/4-puts.c
-|4,39,14,19,1630366287,"~/0x00-hello_world/4-puts.c"
--'  14  19  ~/0x00-hello_world/4-puts.c
-|4,39,14,19,1630366287,"~/0x00-hello_world/4-puts.c"
--'  14  19  ~/0x00-hello_world/4-puts.c
-|4,39,14,19,1630366287,"~/0x00-hello_world/4-puts.c"
--'  14  19  ~/0x00-hello_world/4-puts.c
-|4,39,14,19,1630366287,"~/0x00-hello_world/4-puts.c"
--'  14  19  ~/0x00-hello_world/4-puts.c
-|4,39,14,19,1630366287,"~/0x00-hello_world/4-puts.c"
--'  14  19  ~/0x00-hello_world/4-puts.c
-|4,39,14,19,1630366287,"~/0x00-hello_world/4-puts.c"
--'  14  19  ~/0x00-hello_world/4-puts.c
-|4,39,14,19,1630366287,"~/0x00-hello_world/4-puts.c"
--'  14  19  ~/0x00-hello_world/4-puts.c
-|4,39,14,19,1630366287,"~/0x00-hello_world/4-puts.c"
--'  14  16  ~/0x00-hello_world/4-puts.c
-|4,39,14,16,1630366216,"~/0x00-hello_world/4-puts.c"
--'  15  16  ~/0x00-hello_world/4-puts.c
-|4,39,15,16,1630366216,"~/0x00-hello_world/4-puts.c"
--'  14  16  ~/0x00-hello_world/4-puts.c
-|4,39,14,16,1630366216,"~/0x00-hello_world/4-puts.c"
--'  15  16  ~/0x00-hello_world/4-puts.c
-|4,39,15,16,1630366216,"~/0x00-hello_world/4-puts.c"
--'  15  16  ~/0x00-hello_world/4-puts.c
-|4,39,15,16,1630366216,"~/0x00-hello_world/4-puts.c"
--'  14  16  ~/0x00-hello_world/4-puts.c
-|4,39,14,16,1630366216,"~/0x00-hello_world/4-puts.c"
--'  15  16  ~/0x00-hello_world/4-puts.c
-|4,39,15,16,1630366216,"~/0x00-hello_world/4-puts.c"
--'  14  16  ~/0x00-hello_world/4-puts.c
-|4,39,14,16,1630366216,"~/0x00-hello_world/4-puts.c"
--'  15  16  ~/0x00-hello_world/4-puts.c
-|4,39,15,16,1630366216,"~/0x00-hello_world/4-puts.c"
--'  14  16  ~/0x00-hello_world/4-puts.c
-|4,39,14,16,1630366216,"~/0x00-hello_world/4-puts.c"
--'  15  16  ~/0x00-hello_world/4-puts.c
-|4,39,15,16,1630366216,"~/0x00-hello_world/4-puts.c"
--'  15  16  ~/0x00-hello_world/4-puts.c
-|4,39,15,16,1630366216,"~/0x00-hello_world/4-puts.c"
--'  14  16  ~/0x00-hello_world/4-puts.c
-|4,39,14,16,1630366216,"~/0x00-hello_world/4-puts.c"
--'  15  16  ~/0x00-hello_world/4-puts.c
-|4,39,15,16,1630366216,"~/0x00-hello_world/4-puts.c"
--'  15  16  ~/0x00-hello_world/4-puts.c
-|4,39,15,16,1630366076,"~/0x00-hello_world/4-puts.c"
--'  15  16  ~/0x00-hello_world/4-puts.c
-|4,39,15,16,1630366076,"~/0x00-hello_world/4-puts.c"
--'  15  16  ~/0x00-hello_world/4-puts.c
-|4,39,15,16,1630366076,"~/0x00-hello_world/4-puts.c"
--'  15  16  ~/0x00-hello_world/4-puts.c
-|4,39,15,16,1630366076,"~/0x00-hello_world/4-puts.c"
--'  15  16  ~/0x00-hello_world/4-puts.c
-|4,39,15,16,1630365987,"~/0x00-hello_world/4-puts.c"
--'  15  16  ~/0x00-hello_world/4-puts.c
-|4,39,15,16,1630365987,"~/0x00-hello_world/4-puts.c"
--'  15  16  ~/0x00-hello_world/4-puts.c
-|4,39,15,16,1630365987,"~/0x00-hello_world/4-puts.c"
--'  15  16  ~/0x00-hello_world/4-puts.c
-|4,39,15,16,1630365987,"~/0x00-hello_world/4-puts.c"
--'  14  6  ~/0x00-hello_world/4-puts.c
-|4,39,14,6,1630365680,"~/0x00-hello_world/4-puts.c"
--'  14  6  ~/0x00-hello_world/4-puts.c
-|4,39,14,6,1630365680,"~/0x00-hello_world/4-puts.c"
--'  14  6  ~/0x00-hello_world/4-puts.c
-|4,39,14,6,1630365680,"~/0x00-hello_world/4-puts.c"
--'  14  6  ~/0x00-hello_world/4-puts.c
-|4,39,14,6,1630365680,"~/0x00-hello_world/4-puts.c"
--'  14  6  ~/0x00-hello_world/4-puts.c
-|4,39,14,6,1630365680,"~/0x00-hello_world/4-puts.c"
--'  14  6  ~/0x00-hello_world/4-puts.c
-|4,39,14,6,1630365680,"~/0x00-hello_world/4-puts.c"
--'  14  6  ~/0x00-hello_world/4-puts.c
-|4,39,14,6,1630365680,"~/0x00-hello_world/4-puts.c"
--'  14  6  ~/0x00-hello_world/4-puts.c
-|4,39,14,6,1630365680,"~/0x00-hello_world/4-puts.c"
--'  8  6  ~/0x00-hello_world/4-puts.c
-|4,39,8,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  8  6  ~/0x00-hello_world/4-puts.c
-|4,39,8,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  8  6  ~/0x00-hello_world/4-puts.c
-|4,39,8,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  8  6  ~/0x00-hello_world/4-puts.c
-|4,39,8,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  8  6  ~/0x00-hello_world/4-puts.c
-|4,39,8,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  8  6  ~/0x00-hello_world/4-puts.c
-|4,39,8,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  8  6  ~/0x00-hello_world/4-puts.c
-|4,39,8,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  8  6  ~/0x00-hello_world/4-puts.c
-|4,39,8,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  8  6  ~/0x00-hello_world/4-puts.c
-|4,39,8,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  8  6  ~/0x00-hello_world/4-puts.c
-|4,39,8,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  10  6  ~/0x00-hello_world/4-puts.c
-|4,39,10,6,1630365189,"~/0x00-hello_world/4-puts.c"
--'  1  0  ~/0x00-hello_world/4-puts.c
-|4,39,1,0,1630364554,"~/0x00-hello_world/4-puts.c"
--'  1  0  ~/0x00-hello_world/4-puts.c
-|4,39,1,0,1630364554,"~/0x00-hello_world/4-puts.c"
--'  1  0  ~/0x00-hello_world/4-puts.c
-|4,39,1,0,1630364554,"~/0x00-hello_world/4-puts.c"
--'  1  0  ~/0x00-hello_world/4-puts.c
-|4,39,1,0,1630364554,"~/0x00-hello_world/4-puts.c"
--'  1  0  ~/0x00-hello_world/4-puts.c
-|4,39,1,0,1630364554,"~/0x00-hello_world/4-puts.c"
--'  1  0  ~/0x00-hello_world/4-puts.c
-|4,39,1,0,1630364554,"~/0x00-hello_world/4-puts.c"
--'  1  0  ~/0x00-hello_world/4-puts.c
-|4,39,1,0,1630364554,"~/0x00-hello_world/4-puts.c"
--'  1  0  ~/0x00-hello_world/4-puts.c
-|4,39,1,0,1630364554,"~/0x00-hello_world/4-puts.c"
--'  1  0  ~/0x00-hello_world/4-puts.c
-|4,39,1,0,1630364554,"~/0x00-hello_world/4-puts.c"
--'  1  0  ~/0x00-hello_world/4-puts.c
-|4,39,1,0,1630364554,"~/0x00-hello_world/4-puts.c"
--'  1  0  ~/0x00-hello_world/4-puts.c
-|4,39,1,0,1630364554,"~/0x00-hello_world/4-puts.c"
 
 # History of marks within files (newest to oldest):
 
-> ~/.git/COMMIT_EDITMSG
-	*	1630367326	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
+> ~/0x00-hello_world/4-put.c
+	*	1630540281	0
+	"	5	0
+	^	5	0
+	.	3	12
+	+	1	16
+	+	2	0
+	+	4	1
+	+	8	0
+	+	5	62
+	+	6	7
+	+	3	12
 
 > ~/0x00-hello_world/4-puts.c
-	*	1630367143	0
-	"	13	4
-	^	13	5
-	.	13	4
+	*	1630539858	0
+	"	9	0
+	^	9	1
+	.	10	0
 	+	1	18
 	+	6	29
 	+	8	13
-	+	15	1
+	+	13	1
 	+	8	14
-	+	15	0
-	+	13	64
-	+	13	88
-	+	13	7
+	+	13	0
+	+	11	64
+	+	11	88
+	+	11	7
 	+	3	0
 	+	2	17
 	+	6	28
 	+	8	8
-	+	11	19
-	+	13	16
+	+	9	20
+	+	11	16
+	+	10	0
+	+	11	20
 	+	12	0
-	+	13	20
-	+	14	0
-	+	13	93
+	+	11	93
 	+	1	1
-	+	13	20
+	+	11	20
 	+	1	0
 	+	2	0
-	+	16	0
+	+	14	0
 	+	4	1
 	+	7	2
 	+	4	1
 	+	8	0
+	+	9	1
+	+	11	4
+	+	12	0
+	+	11	4
 	+	10	0
-	+	13	4
-	+	14	0
-	+	13	4
+
+> ~/0x00-hello_world/puts.c
+	*	1630535569	0
+	"	1	0
+
+> ~/.git/COMMIT_EDITMSG
+	*	1630368243	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
 
 > ~/0x00-hello_world/3-name
 	*	1630364147	0

@@ -8,8 +8,6 @@
 int main(void)
 {
 
-	char displayed[52];
-
 	puts("\"Programming is like a building a multilingual puzzle");
 	return (0);
 }
