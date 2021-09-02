@@ -15,13 +15,13 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1630546717,,"wq"
+|2,0,1630547733,,"wq"
+:q
+|2,0,1630547670,,"q"
+:Wq
+|2,0,1630547534,,"Wq"
 :wNextq
 |2,0,1630543131,,"wNextq"
-:Wq
-|2,0,1630542850,,"Wq"
-:q
-|2,0,1630540730,,"q"
 
 # Search String History (newest to oldest):
 ?/ii
@@ -38,248 +38,253 @@
 # Registers:
 
 # File marks:
-'0  11  47  ~/0x00-hello_world/101-quote.c
-|4,48,11,47,1630546717,"~/0x00-hello_world/101-quote.c"
-'1  1  4  ~/.git/COMMIT_EDITMSG
-|4,49,1,4,1630546498,"~/.git/COMMIT_EDITMSG"
-'2  13  0  ~/0x00-hello_world/101-quote.c
-|4,50,13,0,1630546446,"~/0x00-hello_world/101-quote.c"
-'3  13  0  ~/0x00-hello_world/101-quote.c
-|4,51,13,0,1630546446,"~/0x00-hello_world/101-quote.c"
-'4  1  4  ~/.git/COMMIT_EDITMSG
-|4,52,1,4,1630545405,"~/.git/COMMIT_EDITMSG"
-'5  2  57  ~/0x00-hello_world/100-intel
-|4,53,2,57,1630545343,"~/0x00-hello_world/100-intel"
-'6  1  4  ~/.git/COMMIT_EDITMSG
-|4,54,1,4,1630544808,"~/.git/COMMIT_EDITMSG"
-'7  1  4  ~/.git/COMMIT_EDITMSG
-|4,55,1,4,1630544808,"~/.git/COMMIT_EDITMSG"
-'8  2  24  ~/0x00-hello_world/100-intel
-|4,56,2,24,1630544783,"~/0x00-hello_world/100-intel"
-'9  1  5  ~/.git/COMMIT_EDITMSG
-|4,57,1,5,1630544532,"~/.git/COMMIT_EDITMSG"
+'0  2  17  ~/0x00-hello_world/101-quote.c
+|4,48,2,17,1630547733,"~/0x00-hello_world/101-quote.c"
+'1  1  0  ~/0x00-hello_world/101-quote
+|4,49,1,0,1630547670,"~/0x00-hello_world/101-quote"
+'2  10  6  ~/0x00-hello_world/101-quote.c
+|4,50,10,6,1630547550,"~/0x00-hello_world/101-quote.c"
+'3  9  6  ~/0x00-hello_world/101-quote.c
+|4,51,9,6,1630547550,"~/0x00-hello_world/101-quote.c"
+'4  12  10  ~/0x00-hello_world/101-quote.c
+|4,52,12,10,1630547372,"~/0x00-hello_world/101-quote.c"
+'5  12  10  ~/0x00-hello_world/101-quote.c
+|4,53,12,10,1630547372,"~/0x00-hello_world/101-quote.c"
+'6  11  10  ~/0x00-hello_world/101-quote.c
+|4,54,11,10,1630547372,"~/0x00-hello_world/101-quote.c"
+'7  11  10  ~/0x00-hello_world/101-quote.c
+|4,55,11,10,1630547372,"~/0x00-hello_world/101-quote.c"
+'8  12  0  ~/0x00-hello_world/101-quote.c
+|4,56,12,0,1630547033,"~/0x00-hello_world/101-quote.c"
+'9  12  0  ~/0x00-hello_world/101-quote.c
+|4,57,12,0,1630547033,"~/0x00-hello_world/101-quote.c"
 
 # Jumplist (newest first):
+-'  2  17  ~/0x00-hello_world/101-quote.c
+|4,39,2,17,1630547733,"~/0x00-hello_world/101-quote.c"
+-'  10  6  ~/0x00-hello_world/101-quote.c
+|4,39,10,6,1630547680,"~/0x00-hello_world/101-quote.c"
+-'  1  0  ~/0x00-hello_world/101-quote
+|4,39,1,0,1630547670,"~/0x00-hello_world/101-quote"
+-'  1  0  ~/0x00-hello_world/101-quote
+|4,39,1,0,1630547670,"~/0x00-hello_world/101-quote"
+-'  9  6  ~/0x00-hello_world/101-quote.c
+|4,39,9,6,1630547550,"~/0x00-hello_world/101-quote.c"
+-'  9  6  ~/0x00-hello_world/101-quote.c
+|4,39,9,6,1630547550,"~/0x00-hello_world/101-quote.c"
+-'  12  10  ~/0x00-hello_world/101-quote.c
+|4,39,12,10,1630547513,"~/0x00-hello_world/101-quote.c"
+-'  11  10  ~/0x00-hello_world/101-quote.c
+|4,39,11,10,1630547513,"~/0x00-hello_world/101-quote.c"
+-'  11  10  ~/0x00-hello_world/101-quote.c
+|4,39,11,10,1630547513,"~/0x00-hello_world/101-quote.c"
+-'  11  10  ~/0x00-hello_world/101-quote.c
+|4,39,11,10,1630547372,"~/0x00-hello_world/101-quote.c"
+-'  11  10  ~/0x00-hello_world/101-quote.c
+|4,39,11,10,1630547372,"~/0x00-hello_world/101-quote.c"
+-'  11  0  ~/0x00-hello_world/101-quote.c
+|4,39,11,0,1630547033,"~/0x00-hello_world/101-quote.c"
+-'  11  0  ~/0x00-hello_world/101-quote.c
+|4,39,11,0,1630547033,"~/0x00-hello_world/101-quote.c"
+-'  11  7  ~/0x00-hello_world/101-quote.c
+|4,39,11,7,1630546974,"~/0x00-hello_world/101-quote.c"
+-'  11  7  ~/0x00-hello_world/101-quote.c
+|4,39,11,7,1630546974,"~/0x00-hello_world/101-quote.c"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
 -'  11  47  ~/0x00-hello_world/101-quote.c
 |4,39,11,47,1630546717,"~/0x00-hello_world/101-quote.c"
+-'  11  47  ~/0x00-hello_world/101-quote.c
+|4,39,11,47,1630546717,"~/0x00-hello_world/101-quote.c"
+-'  11  47  ~/0x00-hello_world/101-quote.c
+|4,39,11,47,1630546717,"~/0x00-hello_world/101-quote.c"
+-'  11  47  ~/0x00-hello_world/101-quote.c
+|4,39,11,47,1630546717,"~/0x00-hello_world/101-quote.c"
+-'  14  0  ~/0x00-hello_world/101-quote.c
+|4,39,14,0,1630546638,"~/0x00-hello_world/101-quote.c"
+-'  13  0  ~/0x00-hello_world/101-quote.c
+|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
+-'  13  0  ~/0x00-hello_world/101-quote.c
+|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
+-'  13  0  ~/0x00-hello_world/101-quote.c
+|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
+-'  13  0  ~/0x00-hello_world/101-quote.c
+|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
+-'  13  0  ~/0x00-hello_world/101-quote.c
+|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
+-'  13  0  ~/0x00-hello_world/101-quote.c
+|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
+-'  13  0  ~/0x00-hello_world/101-quote.c
+|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
+-'  13  0  ~/0x00-hello_world/101-quote.c
+|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
+-'  13  0  ~/0x00-hello_world/101-quote.c
+|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
+-'  13  0  ~/0x00-hello_world/101-quote.c
+|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
+-'  13  0  ~/0x00-hello_world/101-quote.c
+|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
 -'  13  0  ~/0x00-hello_world/101-quote.c
 |4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
 -'  1  4  ~/.git/COMMIT_EDITMSG
 |4,39,1,4,1630546498,"~/.git/COMMIT_EDITMSG"
 -'  1  4  ~/.git/COMMIT_EDITMSG
 |4,39,1,4,1630546498,"~/.git/COMMIT_EDITMSG"
--'  13  0  ~/0x00-hello_world/101-quote.c
-|4,39,13,0,1630546446,"~/0x00-hello_world/101-quote.c"
--'  13  0  ~/0x00-hello_world/101-quote.c
-|4,39,13,0,1630546446,"~/0x00-hello_world/101-quote.c"
--'  1  0  ~/0x00-hello_world/101-quote.c
-|4,39,1,0,1630546146,"~/0x00-hello_world/101-quote.c"
--'  1  0  ~/0x00-hello_world/101-quote.c
-|4,39,1,0,1630546146,"~/0x00-hello_world/101-quote.c"
--'  1  0  ~/0x00-hello_world/101-quote.c
-|4,39,1,0,1630546146,"~/0x00-hello_world/101-quote.c"
 -'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630545405,"~/.git/COMMIT_EDITMSG"
+|4,39,1,4,1630546498,"~/.git/COMMIT_EDITMSG"
 -'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630545405,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630545405,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630545405,"~/.git/COMMIT_EDITMSG"
--'  2  57  ~/0x00-hello_world/100-intel
-|4,39,2,57,1630545343,"~/0x00-hello_world/100-intel"
--'  2  57  ~/0x00-hello_world/100-intel
-|4,39,2,57,1630545343,"~/0x00-hello_world/100-intel"
--'  2  57  ~/0x00-hello_world/100-intel
-|4,39,2,57,1630545343,"~/0x00-hello_world/100-intel"
--'  2  57  ~/0x00-hello_world/100-intel
-|4,39,2,57,1630545343,"~/0x00-hello_world/100-intel"
--'  2  57  ~/0x00-hello_world/100-intel
-|4,39,2,57,1630545343,"~/0x00-hello_world/100-intel"
--'  2  57  ~/0x00-hello_world/100-intel
-|4,39,2,57,1630545343,"~/0x00-hello_world/100-intel"
--'  2  57  ~/0x00-hello_world/100-intel
-|4,39,2,57,1630545343,"~/0x00-hello_world/100-intel"
--'  2  57  ~/0x00-hello_world/100-intel
-|4,39,2,57,1630545343,"~/0x00-hello_world/100-intel"
--'  2  57  ~/0x00-hello_world/100-intel
-|4,39,2,57,1630545343,"~/0x00-hello_world/100-intel"
--'  2  57  ~/0x00-hello_world/100-intel
-|4,39,2,57,1630545343,"~/0x00-hello_world/100-intel"
--'  2  57  ~/0x00-hello_world/100-intel
-|4,39,2,57,1630545343,"~/0x00-hello_world/100-intel"
--'  2  57  ~/0x00-hello_world/100-intel
-|4,39,2,57,1630545343,"~/0x00-hello_world/100-intel"
--'  2  57  ~/0x00-hello_world/100-intel
-|4,39,2,57,1630545343,"~/0x00-hello_world/100-intel"
--'  2  57  ~/0x00-hello_world/100-intel
-|4,39,2,57,1630545343,"~/0x00-hello_world/100-intel"
--'  2  57  ~/0x00-hello_world/100-intel
-|4,39,2,57,1630545343,"~/0x00-hello_world/100-intel"
--'  2  57  ~/0x00-hello_world/100-intel
-|4,39,2,57,1630545343,"~/0x00-hello_world/100-intel"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630544808,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630544808,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630544808,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630544808,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630544808,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630544808,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630544808,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630544808,"~/.git/COMMIT_EDITMSG"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  2  24  ~/0x00-hello_world/100-intel
-|4,39,2,24,1630544783,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
--'  1  0  ~/0x00-hello_world/100-intel
-|4,39,1,0,1630544735,"~/0x00-hello_world/100-intel"
+|4,39,1,4,1630546498,"~/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
 
 > ~/0x00-hello_world/101-quote.c
-	*	1630546715	0
-	"	11	47
-	^	11	48
-	.	11	47
+	*	1630547732	0
+	"	2	17
+	^	2	18
+	.	2	17
 	+	1	18
-	+	9	14
-	+	10	1
-	+	12	12
-	+	11	78
-	+	12	11
-	+	12	13
-	+	12	12
-	+	11	47
+	+	10	14
+	+	11	1
+	+	13	12
+	+	12	78
+	+	13	11
+	+	13	13
+	+	13	12
+	+	12	1
+	+	2	17
+
+> ~/0x00-hello_world/101-quote
+	*	1630547668	0
+	"	1	0
 
 > ~/.git/COMMIT_EDITMSG
-	*	1630546497	0
+	*	1630546745	0
 	"	1	4
 	^	1	5
 	.	1	4
