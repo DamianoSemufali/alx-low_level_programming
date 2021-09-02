@@ -15,9 +15,11 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1630542823,,"wq"
+|2,0,1630543135,,"wq"
+:wNextq
+|2,0,1630543131,,"wNextq"
 :Wq
-|2,0,1630541216,,"Wq"
+|2,0,1630542850,,"Wq"
 :q
 |2,0,1630540730,,"q"
 
@@ -36,36 +38,58 @@
 # Registers:
 
 # File marks:
-'0  8  8  ~/0x00-hello_world/5-printf.c
-|4,48,8,8,1630542823,"~/0x00-hello_world/5-printf.c"
+'0  10  63  ~/0x00-hello_world/5-printf.c
+|4,48,10,63,1630543135,"~/0x00-hello_world/5-printf.c"
 '1  1  5  ~/.git/COMMIT_EDITMSG
-|4,49,1,5,1630542490,"~/.git/COMMIT_EDITMSG"
-'2  2  0  ~/0x00-hello_world/5-printf.c
-|4,50,2,0,1630542463,"~/0x00-hello_world/5-printf.c"
-'3  2  0  ~/0x00-hello_world/5-printf.c
-|4,51,2,0,1630542463,"~/0x00-hello_world/5-printf.c"
+|4,49,1,5,1630542855,"~/.git/COMMIT_EDITMSG"
+'2  8  8  ~/0x00-hello_world/5-printf.c
+|4,50,8,8,1630542823,"~/0x00-hello_world/5-printf.c"
+'3  8  8  ~/0x00-hello_world/5-printf.c
+|4,51,8,8,1630542823,"~/0x00-hello_world/5-printf.c"
 '4  1  5  ~/.git/COMMIT_EDITMSG
-|4,52,1,5,1630542328,"~/.git/COMMIT_EDITMSG"
-'5  10  65  ~/0x00-hello_world/5-printf.c
-|4,53,10,65,1630542301,"~/0x00-hello_world/5-printf.c"
-'6  9  65  ~/0x00-hello_world/5-printf.c
-|4,54,9,65,1630542301,"~/0x00-hello_world/5-printf.c"
-'7  10  65  ~/0x00-hello_world/5-printf.c
-|4,55,10,65,1630542301,"~/0x00-hello_world/5-printf.c"
-'8  9  65  ~/0x00-hello_world/5-printf.c
-|4,56,9,65,1630542301,"~/0x00-hello_world/5-printf.c"
+|4,52,1,5,1630542490,"~/.git/COMMIT_EDITMSG"
+'5  2  0  ~/0x00-hello_world/5-printf.c
+|4,53,2,0,1630542463,"~/0x00-hello_world/5-printf.c"
+'6  2  0  ~/0x00-hello_world/5-printf.c
+|4,54,2,0,1630542463,"~/0x00-hello_world/5-printf.c"
+'7  2  0  ~/0x00-hello_world/5-printf.c
+|4,55,2,0,1630542463,"~/0x00-hello_world/5-printf.c"
+'8  2  0  ~/0x00-hello_world/5-printf.c
+|4,56,2,0,1630542463,"~/0x00-hello_world/5-printf.c"
 '9  1  5  ~/.git/COMMIT_EDITMSG
-|4,57,1,5,1630542073,"~/.git/COMMIT_EDITMSG"
+|4,57,1,5,1630542328,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  10  63  ~/0x00-hello_world/5-printf.c
+|4,39,10,63,1630543135,"~/0x00-hello_world/5-printf.c"
+-'  8  8  ~/0x00-hello_world/5-printf.c
+|4,39,8,8,1630542949,"~/0x00-hello_world/5-printf.c"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630542855,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630542855,"~/.git/COMMIT_EDITMSG"
 -'  8  8  ~/0x00-hello_world/5-printf.c
 |4,39,8,8,1630542823,"~/0x00-hello_world/5-printf.c"
+-'  8  8  ~/0x00-hello_world/5-printf.c
+|4,39,8,8,1630542823,"~/0x00-hello_world/5-printf.c"
+-'  2  0  ~/0x00-hello_world/5-printf.c
+|4,39,2,0,1630542604,"~/0x00-hello_world/5-printf.c"
+-'  2  0  ~/0x00-hello_world/5-printf.c
+|4,39,2,0,1630542604,"~/0x00-hello_world/5-printf.c"
 -'  2  0  ~/0x00-hello_world/5-printf.c
 |4,39,2,0,1630542604,"~/0x00-hello_world/5-printf.c"
 -'  1  5  ~/.git/COMMIT_EDITMSG
 |4,39,1,5,1630542490,"~/.git/COMMIT_EDITMSG"
 -'  1  5  ~/.git/COMMIT_EDITMSG
 |4,39,1,5,1630542490,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630542490,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630542490,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/0x00-hello_world/5-printf.c
+|4,39,2,0,1630542463,"~/0x00-hello_world/5-printf.c"
+-'  2  0  ~/0x00-hello_world/5-printf.c
+|4,39,2,0,1630542463,"~/0x00-hello_world/5-printf.c"
 -'  2  0  ~/0x00-hello_world/5-printf.c
 |4,39,2,0,1630542463,"~/0x00-hello_world/5-printf.c"
 -'  2  0  ~/0x00-hello_world/5-printf.c
@@ -76,6 +100,20 @@
 |4,39,10,65,1630542423,"~/0x00-hello_world/5-printf.c"
 -'  10  65  ~/0x00-hello_world/5-printf.c
 |4,39,10,65,1630542423,"~/0x00-hello_world/5-printf.c"
+-'  10  65  ~/0x00-hello_world/5-printf.c
+|4,39,10,65,1630542423,"~/0x00-hello_world/5-printf.c"
+-'  10  65  ~/0x00-hello_world/5-printf.c
+|4,39,10,65,1630542423,"~/0x00-hello_world/5-printf.c"
+-'  10  65  ~/0x00-hello_world/5-printf.c
+|4,39,10,65,1630542423,"~/0x00-hello_world/5-printf.c"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630542328,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630542328,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630542328,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630542328,"~/.git/COMMIT_EDITMSG"
 -'  1  5  ~/.git/COMMIT_EDITMSG
 |4,39,1,5,1630542328,"~/.git/COMMIT_EDITMSG"
 -'  1  5  ~/.git/COMMIT_EDITMSG
@@ -94,6 +132,18 @@
 |4,39,9,65,1630542301,"~/0x00-hello_world/5-printf.c"
 -'  9  65  ~/0x00-hello_world/5-printf.c
 |4,39,9,65,1630542301,"~/0x00-hello_world/5-printf.c"
+-'  9  65  ~/0x00-hello_world/5-printf.c
+|4,39,9,65,1630542301,"~/0x00-hello_world/5-printf.c"
+-'  9  65  ~/0x00-hello_world/5-printf.c
+|4,39,9,65,1630542301,"~/0x00-hello_world/5-printf.c"
+-'  9  65  ~/0x00-hello_world/5-printf.c
+|4,39,9,65,1630542301,"~/0x00-hello_world/5-printf.c"
+-'  9  65  ~/0x00-hello_world/5-printf.c
+|4,39,9,65,1630542301,"~/0x00-hello_world/5-printf.c"
+-'  9  65  ~/0x00-hello_world/5-printf.c
+|4,39,9,65,1630542301,"~/0x00-hello_world/5-printf.c"
+-'  9  65  ~/0x00-hello_world/5-printf.c
+|4,39,9,65,1630542301,"~/0x00-hello_world/5-printf.c"
 -'  1  0  ~/0x00-hello_world/5-printf.c
 |4,39,1,0,1630542193,"~/0x00-hello_world/5-printf.c"
 -'  1  0  ~/0x00-hello_world/5-printf.c
@@ -108,6 +158,38 @@
 |4,39,1,0,1630542193,"~/0x00-hello_world/5-printf.c"
 -'  1  0  ~/0x00-hello_world/5-printf.c
 |4,39,1,0,1630542193,"~/0x00-hello_world/5-printf.c"
+-'  1  0  ~/0x00-hello_world/5-printf.c
+|4,39,1,0,1630542193,"~/0x00-hello_world/5-printf.c"
+-'  1  0  ~/0x00-hello_world/5-printf.c
+|4,39,1,0,1630542193,"~/0x00-hello_world/5-printf.c"
+-'  1  0  ~/0x00-hello_world/5-printf.c
+|4,39,1,0,1630542193,"~/0x00-hello_world/5-printf.c"
+-'  1  0  ~/0x00-hello_world/5-printf.c
+|4,39,1,0,1630542193,"~/0x00-hello_world/5-printf.c"
+-'  1  0  ~/0x00-hello_world/5-printf.c
+|4,39,1,0,1630542193,"~/0x00-hello_world/5-printf.c"
+-'  1  0  ~/0x00-hello_world/5-printf.c
+|4,39,1,0,1630542193,"~/0x00-hello_world/5-printf.c"
+-'  1  0  ~/0x00-hello_world/5-printf.c
+|4,39,1,0,1630542193,"~/0x00-hello_world/5-printf.c"
+-'  1  0  ~/0x00-hello_world/5-printf.c
+|4,39,1,0,1630542193,"~/0x00-hello_world/5-printf.c"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630542073,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630542073,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630542073,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630542073,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630542073,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630542073,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630542073,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630542073,"~/.git/COMMIT_EDITMSG"
 -'  1  5  ~/.git/COMMIT_EDITMSG
 |4,39,1,5,1630542073,"~/.git/COMMIT_EDITMSG"
 -'  1  5  ~/.git/COMMIT_EDITMSG
@@ -140,102 +222,22 @@
 |4,39,1,5,1630541930,"~/.git/COMMIT_EDITMSG"
 -'  1  5  ~/.git/COMMIT_EDITMSG
 |4,39,1,5,1630541930,"~/.git/COMMIT_EDITMSG"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
--'  5  66  ~/0x00-hello_world/5-prints.c
-|4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630541930,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630541930,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630541930,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630541930,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630541930,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630541930,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630541930,"~/.git/COMMIT_EDITMSG"
+-'  1  5  ~/.git/COMMIT_EDITMSG
+|4,39,1,5,1630541930,"~/.git/COMMIT_EDITMSG"
 -'  5  66  ~/0x00-hello_world/5-prints.c
 |4,39,5,66,1630541875,"~/0x00-hello_world/5-prints.c"
 -'  5  66  ~/0x00-hello_world/5-prints.c
@@ -262,10 +264,10 @@
 # History of marks within files (newest to oldest):
 
 > ~/0x00-hello_world/5-printf.c
-	*	1630542821	0
-	"	8	8
-	^	8	9
-	.	8	8
+	*	1630543134	0
+	"	10	63
+	^	10	64
+	.	10	63
 	+	3	3
 	+	5	29
 	+	6	2
@@ -274,9 +276,10 @@
 	+	1	18
 	+	10	7
 	+	8	8
+	+	10	63
 
 > ~/.git/COMMIT_EDITMSG
-	*	1630542489	0
+	*	1630542850	0
 	"	1	5
 	^	1	6
 	.	1	5
