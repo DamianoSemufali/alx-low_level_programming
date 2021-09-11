@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- *main - using putchar to print hexadecimal base 
- *Return: Always 0 (Success)
+ * main - using putchar, print hexadecimal base
+ * Return: Always 0 (Success)
  */
 
 int main(void)
