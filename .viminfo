@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1630547733,,"wq"
+|2,0,1631339951,,"wq"
 :q
 |2,0,1630547670,,"q"
 :Wq
@@ -38,230 +38,407 @@
 # Registers:
 
 # File marks:
-'0  2  17  ~/0x00-hello_world/101-quote.c
-|4,48,2,17,1630547733,"~/0x00-hello_world/101-quote.c"
-'1  1  0  ~/0x00-hello_world/101-quote
-|4,49,1,0,1630547670,"~/0x00-hello_world/101-quote"
-'2  10  6  ~/0x00-hello_world/101-quote.c
-|4,50,10,6,1630547550,"~/0x00-hello_world/101-quote.c"
-'3  9  6  ~/0x00-hello_world/101-quote.c
-|4,51,9,6,1630547550,"~/0x00-hello_world/101-quote.c"
-'4  12  10  ~/0x00-hello_world/101-quote.c
-|4,52,12,10,1630547372,"~/0x00-hello_world/101-quote.c"
-'5  12  10  ~/0x00-hello_world/101-quote.c
-|4,53,12,10,1630547372,"~/0x00-hello_world/101-quote.c"
-'6  11  10  ~/0x00-hello_world/101-quote.c
-|4,54,11,10,1630547372,"~/0x00-hello_world/101-quote.c"
-'7  11  10  ~/0x00-hello_world/101-quote.c
-|4,55,11,10,1630547372,"~/0x00-hello_world/101-quote.c"
-'8  12  0  ~/0x00-hello_world/101-quote.c
-|4,56,12,0,1630547033,"~/0x00-hello_world/101-quote.c"
-'9  12  0  ~/0x00-hello_world/101-quote.c
-|4,57,12,0,1630547033,"~/0x00-hello_world/101-quote.c"
+'0  28  11  ~/0x01-variables_if_else_while/1-last_digit.c
+|4,48,28,11,1631339951,"~/0x01-variables_if_else_while/1-last_digit.c"
+'1  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,49,15,0,1631338427,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+'2  17  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,50,17,0,1631338230,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+'3  16  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,51,16,0,1631338230,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+'4  16  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,52,16,0,1631337997,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+'5  16  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,53,16,0,1631337997,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+'6  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,54,15,0,1631337997,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+'7  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,55,15,0,1631337997,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+'8  2  24  ~/0x01-variables_if_else_while/README.md
+|4,56,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
+'9  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,57,20,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
 
 # Jumplist (newest first):
--'  2  17  ~/0x00-hello_world/101-quote.c
-|4,39,2,17,1630547733,"~/0x00-hello_world/101-quote.c"
--'  10  6  ~/0x00-hello_world/101-quote.c
-|4,39,10,6,1630547680,"~/0x00-hello_world/101-quote.c"
--'  1  0  ~/0x00-hello_world/101-quote
-|4,39,1,0,1630547670,"~/0x00-hello_world/101-quote"
--'  1  0  ~/0x00-hello_world/101-quote
-|4,39,1,0,1630547670,"~/0x00-hello_world/101-quote"
--'  9  6  ~/0x00-hello_world/101-quote.c
-|4,39,9,6,1630547550,"~/0x00-hello_world/101-quote.c"
--'  9  6  ~/0x00-hello_world/101-quote.c
-|4,39,9,6,1630547550,"~/0x00-hello_world/101-quote.c"
--'  12  10  ~/0x00-hello_world/101-quote.c
-|4,39,12,10,1630547513,"~/0x00-hello_world/101-quote.c"
--'  11  10  ~/0x00-hello_world/101-quote.c
-|4,39,11,10,1630547513,"~/0x00-hello_world/101-quote.c"
--'  11  10  ~/0x00-hello_world/101-quote.c
-|4,39,11,10,1630547513,"~/0x00-hello_world/101-quote.c"
--'  11  10  ~/0x00-hello_world/101-quote.c
-|4,39,11,10,1630547372,"~/0x00-hello_world/101-quote.c"
--'  11  10  ~/0x00-hello_world/101-quote.c
-|4,39,11,10,1630547372,"~/0x00-hello_world/101-quote.c"
--'  11  0  ~/0x00-hello_world/101-quote.c
-|4,39,11,0,1630547033,"~/0x00-hello_world/101-quote.c"
--'  11  0  ~/0x00-hello_world/101-quote.c
-|4,39,11,0,1630547033,"~/0x00-hello_world/101-quote.c"
--'  11  7  ~/0x00-hello_world/101-quote.c
-|4,39,11,7,1630546974,"~/0x00-hello_world/101-quote.c"
--'  11  7  ~/0x00-hello_world/101-quote.c
-|4,39,11,7,1630546974,"~/0x00-hello_world/101-quote.c"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546746,"~/.git/COMMIT_EDITMSG"
--'  11  47  ~/0x00-hello_world/101-quote.c
-|4,39,11,47,1630546717,"~/0x00-hello_world/101-quote.c"
--'  11  47  ~/0x00-hello_world/101-quote.c
-|4,39,11,47,1630546717,"~/0x00-hello_world/101-quote.c"
--'  11  47  ~/0x00-hello_world/101-quote.c
-|4,39,11,47,1630546717,"~/0x00-hello_world/101-quote.c"
--'  11  47  ~/0x00-hello_world/101-quote.c
-|4,39,11,47,1630546717,"~/0x00-hello_world/101-quote.c"
--'  14  0  ~/0x00-hello_world/101-quote.c
-|4,39,14,0,1630546638,"~/0x00-hello_world/101-quote.c"
--'  13  0  ~/0x00-hello_world/101-quote.c
-|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
--'  13  0  ~/0x00-hello_world/101-quote.c
-|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
--'  13  0  ~/0x00-hello_world/101-quote.c
-|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
--'  13  0  ~/0x00-hello_world/101-quote.c
-|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
--'  13  0  ~/0x00-hello_world/101-quote.c
-|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
--'  13  0  ~/0x00-hello_world/101-quote.c
-|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
--'  13  0  ~/0x00-hello_world/101-quote.c
-|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
--'  13  0  ~/0x00-hello_world/101-quote.c
-|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
--'  13  0  ~/0x00-hello_world/101-quote.c
-|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
--'  13  0  ~/0x00-hello_world/101-quote.c
-|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
--'  13  0  ~/0x00-hello_world/101-quote.c
-|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
--'  13  0  ~/0x00-hello_world/101-quote.c
-|4,39,13,0,1630546638,"~/0x00-hello_world/101-quote.c"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546498,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546498,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546498,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1630546498,"~/.git/COMMIT_EDITMSG"
+-'  28  11  ~/0x01-variables_if_else_while/1-last_digit.c
+|4,39,28,11,1631339951,"~/0x01-variables_if_else_while/1-last_digit.c"
+-'  1  0  ~/0x01-variables_if_else_while/1-last_digit.c
+|4,39,1,0,1631338980,"~/0x01-variables_if_else_while/1-last_digit.c"
+-'  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,15,0,1631338427,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,15,0,1631338427,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  17  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,17,0,1631338401,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  17  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,17,0,1631338401,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  16  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,16,0,1631338230,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  16  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,16,0,1631338230,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  16  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,16,0,1631338209,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,15,0,1631338209,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  16  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,16,0,1631338209,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,15,0,1631338209,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,15,0,1631337997,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,15,0,1631337997,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,20,29,1631337640,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  19  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,19,29,1631337640,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,20,29,1631337640,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  19  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,19,29,1631337640,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,20,29,1631337640,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  19  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,19,29,1631337640,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,20,29,1631337640,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  19  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,19,29,1631337640,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  2  24  ~/0x01-variables_if_else_while/README.md
+|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
+-'  2  24  ~/0x01-variables_if_else_while/README.md
+|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
+-'  2  24  ~/0x01-variables_if_else_while/README.md
+|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
+-'  2  24  ~/0x01-variables_if_else_while/README.md
+|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
+-'  2  24  ~/0x01-variables_if_else_while/README.md
+|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
+-'  2  24  ~/0x01-variables_if_else_while/README.md
+|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
+-'  2  24  ~/0x01-variables_if_else_while/README.md
+|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
+-'  2  24  ~/0x01-variables_if_else_while/README.md
+|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
+-'  2  24  ~/0x01-variables_if_else_while/README.md
+|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
+-'  2  24  ~/0x01-variables_if_else_while/README.md
+|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
+-'  2  24  ~/0x01-variables_if_else_while/README.md
+|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
+-'  2  24  ~/0x01-variables_if_else_while/README.md
+|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
+-'  2  24  ~/0x01-variables_if_else_while/README.md
+|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
+-'  2  24  ~/0x01-variables_if_else_while/README.md
+|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
+-'  2  24  ~/0x01-variables_if_else_while/README.md
+|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
+-'  2  24  ~/0x01-variables_if_else_while/README.md
+|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
+-'  1  0  ~/0x01-variables_if_else_while/README.md
+|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
+-'  1  0  ~/0x01-variables_if_else_while/README.md
+|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
+-'  1  0  ~/0x01-variables_if_else_while/README.md
+|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
+-'  1  0  ~/0x01-variables_if_else_while/README.md
+|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
+-'  1  0  ~/0x01-variables_if_else_while/README.md
+|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
+-'  1  0  ~/0x01-variables_if_else_while/README.md
+|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
+-'  1  0  ~/0x01-variables_if_else_while/README.md
+|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
+-'  1  0  ~/0x01-variables_if_else_while/README.md
+|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
+-'  1  0  ~/0x01-variables_if_else_while/README.md
+|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
+-'  1  0  ~/0x01-variables_if_else_while/README.md
+|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
+-'  1  0  ~/0x01-variables_if_else_while/README.md
+|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
+-'  1  0  ~/0x01-variables_if_else_while/README.md
+|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
+-'  1  0  ~/0x01-variables_if_else_while/README.md
+|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
+-'  1  0  ~/0x01-variables_if_else_while/README.md
+|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
+-'  1  0  ~/0x01-variables_if_else_while/README.md
+|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
+-'  1  0  ~/0x01-variables_if_else_while/README.md
+|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
+-'  21  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,21,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  21  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,21,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,20,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,20,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  21  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,21,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  21  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,21,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,20,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,20,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,28,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  29  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,29,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  27  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,27,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,28,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  29  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,29,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  27  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,27,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,28,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,28,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,28,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  29  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,29,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  27  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,27,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,28,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  29  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,29,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  27  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,27,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,28,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,28,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,28,11,1631336820,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,28,11,1631336820,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,28,11,1631336820,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,28,11,1631336820,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  23  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,23,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  23  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,23,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  21  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,21,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  23  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,23,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  23  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,23,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  21  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,21,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
+|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x01-variables_if_else_while/1-last_digit.c
+	*	1631339949	0
+	"	28	11
+	^	28	12
+	.	28	11
+	+	1	268
+	+	1	0
+	+	1	19
+	+	2	17
+	+	3	18
+	+	7	28
+	+	10	14
+	+	11	1
+	+	14	16
+	+	15	26
+	+	21	29
+	+	25	36
+	+	28	11
+
+> ~/0x01-variables_if_else_while/0-positive_or_negative.c
+	*	1631338425	0
+	"	15	0
+	^	15	0
+	.	15	0
+	+	37	0
+	+	17	54
+	+	17	30
+	+	17	26
+	+	14	25
+	+	17	0
+	+	17	29
+	+	17	57
+	+	14	7
+	+	17	0
+	+	13	1
+	+	14	0
+	+	14	14
+	+	17	0
+	+	17	27
+	+	36	0
+	+	10	0
+	+	2	17
+	+	2	46
+	+	10	0
+	+	17	2
+	+	17	43
+	+	30	27
+	+	31	15
+	+	32	24
+	+	33	12
+	+	34	27
+	+	35	1
+	+	33	12
+	+	31	2
+	+	17	42
+	+	31	7
+	+	17	38
+	+	20	28
+	+	21	18
+	+	24	23
+	+	25	13
+	+	28	25
+	+	24	21
+	+	28	29
+	+	29	0
+	+	25	14
+	+	9	2
+	+	17	28
+	+	17	51
+	+	17	65
+	+	28	28
+	+	17	67
+	+	3	18
+	+	25	13
+	+	21	16
+	+	17	27
+	+	25	14
+	+	22	0
+	+	26	11
+	+	27	0
+	+	23	0
+	+	19	0
+	+	24	8
+	+	28	8
+	+	26	7
+	+	28	11
+	+	24	11
+	+	20	12
+	+	7	27
+	+	22	12
+	+	20	11
+	+	24	11
+	+	28	29
+	+	24	11
+	+	20	29
+	+	22	11
+	+	26	11
+	+	17	28
+	+	18	0
+	+	16	16
+	+	17	0
+	+	18	0
+	+	15	0
+
+> ~/0x01-variables_if_else_while/README.md
+	*	1631337464	0
+	"	2	24
+	^	2	25
+	.	2	0
+	+	2	0
+
+> ~/0x01-variables_if_else_while/0-positive_of_negative.c
+	*	1631148660	0
+	"	7	0
+	^	7	0
+	.	25	0
+	+	28	0
+	+	1	0
+	+	13	14
+	+	14	6
+	+	16	0
+	+	15	32
+	+	17	18
+	+	18	6
+	+	20	0
+	+	19	28
+	+	21	16
+	+	22	6
+	+	24	0
+	+	23	32
+	+	11	48
+	+	11	32
+	+	11	43
+	+	11	31
+	+	12	23
+	+	2	16
+	+	11	22
+	+	11	17
+	+	15	34
+	+	19	29
+	+	15	33
+	+	23	16
+	+	4	0
+	+	8	8
+	+	9	17
+	+	10	1
+	+	11	2
+	+	12	23
+	+	13	1
+	+	14	1
+	+	15	1
+	+	16	2
+	+	17	1
+	+	18	1
+	+	19	1
+	+	20	1
+	+	21	1
+	+	22	1
+	+	23	1
+	+	24	1
+	+	25	0
+
+> ~/.git/COMMIT_EDITMSG
+	*	1630547792	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	20
+	+	2	0
+	+	1	15
+	+	2	0
+	+	1	6
+	+	2	0
+	+	1	5
+	+	2	0
+	+	1	4
 
 > ~/0x00-hello_world/101-quote.c
 	*	1630547732	0
@@ -282,21 +459,6 @@
 > ~/0x00-hello_world/101-quote
 	*	1630547668	0
 	"	1	0
-
-> ~/.git/COMMIT_EDITMSG
-	*	1630546745	0
-	"	1	4
-	^	1	5
-	.	1	4
-	+	1	20
-	+	2	0
-	+	1	15
-	+	2	0
-	+	1	6
-	+	2	0
-	+	1	5
-	+	2	0
-	+	1	4
 
 > ~/0x00-hello_world/100-intel
 	*	1630545342	0
