@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *Main - using putchar to print hexadecimal base 
+ * main - using putchar to print hexadecimal base 
  * Return: Always 0 (Success)
  */
 
