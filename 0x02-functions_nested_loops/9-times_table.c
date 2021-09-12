@@ -13,6 +13,7 @@ void times_table(void)
 	int result;
 	int first_digit;
 	int last_digit;
+	
 	for (i = 0; i <= 9; i++)
 	{
 		for (j = 0; j <= 9; j++)
