@@ -15,9 +15,9 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1631939001,,"wq"
+|2,0,1631939113,,"wq"
 :Wq
-|2,0,1631938672,,"Wq"
+|2,0,1631939109,,"Wq"
 :q
 |2,0,1631937239,,"q"
 :wwq
@@ -42,36 +42,58 @@
 # Registers:
 
 # File marks:
-'0  13  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,48,13,0,1631939001,"~/0x02-functions_nested_loops/101-natural.c"
+'0  15  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,48,15,0,1631939113,"~/0x02-functions_nested_loops/101-natural.c"
 '1  1  6  ~/.git/COMMIT_EDITMSG
-|4,49,1,6,1631938897,"~/.git/COMMIT_EDITMSG"
-'2  15  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,50,15,0,1631938866,"~/0x02-functions_nested_loops/101-natural.c"
-'3  14  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,51,14,0,1631938866,"~/0x02-functions_nested_loops/101-natural.c"
+|4,49,1,6,1631939027,"~/.git/COMMIT_EDITMSG"
+'2  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,50,11,10,1631939001,"~/0x02-functions_nested_loops/101-natural.c"
+'3  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,51,13,0,1631939001,"~/0x02-functions_nested_loops/101-natural.c"
 '4  1  6  ~/.git/COMMIT_EDITMSG
-|4,52,1,6,1631938795,"~/.git/COMMIT_EDITMSG"
-'5  12  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,53,12,0,1631938772,"~/0x02-functions_nested_loops/101-natural.c"
-'6  12  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,54,12,0,1631938772,"~/0x02-functions_nested_loops/101-natural.c"
-'7  12  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,55,12,0,1631938772,"~/0x02-functions_nested_loops/101-natural.c"
-'8  12  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,56,12,0,1631938772,"~/0x02-functions_nested_loops/101-natural.c"
+|4,52,1,6,1631938897,"~/.git/COMMIT_EDITMSG"
+'5  13  9  ~/0x02-functions_nested_loops/101-natural.c
+|4,53,13,9,1631938866,"~/0x02-functions_nested_loops/101-natural.c"
+'6  13  9  ~/0x02-functions_nested_loops/101-natural.c
+|4,54,13,9,1631938866,"~/0x02-functions_nested_loops/101-natural.c"
+'7  15  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,55,15,0,1631938866,"~/0x02-functions_nested_loops/101-natural.c"
+'8  14  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,56,14,0,1631938866,"~/0x02-functions_nested_loops/101-natural.c"
 '9  1  6  ~/.git/COMMIT_EDITMSG
-|4,57,1,6,1631938676,"~/.git/COMMIT_EDITMSG"
+|4,57,1,6,1631938795,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  15  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,15,0,1631939113,"~/0x02-functions_nested_loops/101-natural.c"
+-'  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,11,10,1631939081,"~/0x02-functions_nested_loops/101-natural.c"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631939027,"~/.git/COMMIT_EDITMSG"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631939027,"~/.git/COMMIT_EDITMSG"
 -'  13  0  ~/0x02-functions_nested_loops/101-natural.c
 |4,39,13,0,1631939001,"~/0x02-functions_nested_loops/101-natural.c"
+-'  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,13,0,1631939001,"~/0x02-functions_nested_loops/101-natural.c"
+-'  13  9  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,13,9,1631938982,"~/0x02-functions_nested_loops/101-natural.c"
+-'  15  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,15,0,1631938982,"~/0x02-functions_nested_loops/101-natural.c"
 -'  15  0  ~/0x02-functions_nested_loops/101-natural.c
 |4,39,15,0,1631938982,"~/0x02-functions_nested_loops/101-natural.c"
 -'  1  6  ~/.git/COMMIT_EDITMSG
 |4,39,1,6,1631938897,"~/.git/COMMIT_EDITMSG"
 -'  1  6  ~/.git/COMMIT_EDITMSG
 |4,39,1,6,1631938897,"~/.git/COMMIT_EDITMSG"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631938897,"~/.git/COMMIT_EDITMSG"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631938897,"~/.git/COMMIT_EDITMSG"
+-'  14  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,14,0,1631938866,"~/0x02-functions_nested_loops/101-natural.c"
+-'  14  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,14,0,1631938866,"~/0x02-functions_nested_loops/101-natural.c"
 -'  14  0  ~/0x02-functions_nested_loops/101-natural.c
 |4,39,14,0,1631938866,"~/0x02-functions_nested_loops/101-natural.c"
 -'  14  0  ~/0x02-functions_nested_loops/101-natural.c
@@ -82,6 +104,12 @@
 |4,39,12,0,1631938854,"~/0x02-functions_nested_loops/101-natural.c"
 -'  12  0  ~/0x02-functions_nested_loops/101-natural.c
 |4,39,12,0,1631938854,"~/0x02-functions_nested_loops/101-natural.c"
+-'  12  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,12,0,1631938854,"~/0x02-functions_nested_loops/101-natural.c"
+-'  12  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,12,0,1631938854,"~/0x02-functions_nested_loops/101-natural.c"
+-'  12  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,12,0,1631938854,"~/0x02-functions_nested_loops/101-natural.c"
 -'  1  6  ~/.git/COMMIT_EDITMSG
 |4,39,1,6,1631938795,"~/.git/COMMIT_EDITMSG"
 -'  1  6  ~/.git/COMMIT_EDITMSG
@@ -90,6 +118,22 @@
 |4,39,1,6,1631938795,"~/.git/COMMIT_EDITMSG"
 -'  1  6  ~/.git/COMMIT_EDITMSG
 |4,39,1,6,1631938795,"~/.git/COMMIT_EDITMSG"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631938795,"~/.git/COMMIT_EDITMSG"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631938795,"~/.git/COMMIT_EDITMSG"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631938795,"~/.git/COMMIT_EDITMSG"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631938795,"~/.git/COMMIT_EDITMSG"
+-'  12  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,12,0,1631938772,"~/0x02-functions_nested_loops/101-natural.c"
+-'  12  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,12,0,1631938772,"~/0x02-functions_nested_loops/101-natural.c"
+-'  12  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,12,0,1631938772,"~/0x02-functions_nested_loops/101-natural.c"
+-'  12  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,12,0,1631938772,"~/0x02-functions_nested_loops/101-natural.c"
 -'  12  0  ~/0x02-functions_nested_loops/101-natural.c
 |4,39,12,0,1631938772,"~/0x02-functions_nested_loops/101-natural.c"
 -'  12  0  ~/0x02-functions_nested_loops/101-natural.c
@@ -112,6 +156,36 @@
 |4,39,11,10,1631938744,"~/0x02-functions_nested_loops/101-natural.c"
 -'  11  10  ~/0x02-functions_nested_loops/101-natural.c
 |4,39,11,10,1631938744,"~/0x02-functions_nested_loops/101-natural.c"
+-'  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,11,10,1631938744,"~/0x02-functions_nested_loops/101-natural.c"
+-'  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,11,10,1631938744,"~/0x02-functions_nested_loops/101-natural.c"
+-'  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,11,10,1631938744,"~/0x02-functions_nested_loops/101-natural.c"
+-'  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,11,10,1631938744,"~/0x02-functions_nested_loops/101-natural.c"
+-'  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,11,10,1631938744,"~/0x02-functions_nested_loops/101-natural.c"
+-'  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,11,10,1631938744,"~/0x02-functions_nested_loops/101-natural.c"
+-'  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,11,10,1631938744,"~/0x02-functions_nested_loops/101-natural.c"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631938676,"~/.git/COMMIT_EDITMSG"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631938676,"~/.git/COMMIT_EDITMSG"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631938676,"~/.git/COMMIT_EDITMSG"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631938676,"~/.git/COMMIT_EDITMSG"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631938676,"~/.git/COMMIT_EDITMSG"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631938676,"~/.git/COMMIT_EDITMSG"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631938676,"~/.git/COMMIT_EDITMSG"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631938676,"~/.git/COMMIT_EDITMSG"
 -'  1  6  ~/.git/COMMIT_EDITMSG
 |4,39,1,6,1631938676,"~/.git/COMMIT_EDITMSG"
 -'  1  6  ~/.git/COMMIT_EDITMSG
@@ -150,6 +224,28 @@
 |4,39,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
 -'  13  0  ~/0x02-functions_nested_loops/101-natural.c
 |4,39,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
+-'  14  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,14,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
+-'  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
+-'  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
+-'  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
+-'  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
+-'  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
+-'  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
+-'  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
+-'  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
+-'  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
+-'  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
 -'  11  10  ~/0x02-functions_nested_loops/101-natural.c
 |4,39,11,10,1631938539,"~/0x02-functions_nested_loops/101-natural.c"
 -'  11  10  ~/0x02-functions_nested_loops/101-natural.c
@@ -166,112 +262,16 @@
 |4,39,11,10,1631938539,"~/0x02-functions_nested_loops/101-natural.c"
 -'  11  10  ~/0x02-functions_nested_loops/101-natural.c
 |4,39,11,10,1631938539,"~/0x02-functions_nested_loops/101-natural.c"
--'  13  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,13,0,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
--'  13  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,13,0,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
--'  13  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,13,0,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
--'  13  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,13,0,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
--'  13  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,13,0,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
--'  13  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,13,0,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
--'  13  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,13,0,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
--'  13  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,13,0,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
--'  24  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,24,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  25  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,25,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  24  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,24,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  22  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,22,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  22  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,22,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  24  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,24,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  22  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,22,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  22  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,22,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
--'  22  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
--'  22  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
--'  21  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,21,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
--'  22  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
--'  22  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
--'  22  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
--'  22  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
--'  21  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,21,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
--'  22  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
--'  22  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
--'  22  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
--'  22  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
--'  22  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
--'  21  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,39,21,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
+-'  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,11,10,1631938539,"~/0x02-functions_nested_loops/101-natural.c"
 
 # History of marks within files (newest to oldest):
 
 > ~/0x02-functions_nested_loops/101-natural.c
-	*	1631939000	0
-	"	13	0
-	^	13	1
-	.	13	0
+	*	1631939112	0
+	"	15	0
+	^	15	1
+	.	15	0
 	+	23	12
 	+	2	0
 	+	3	3
@@ -282,7 +282,7 @@
 	+	10	7
 	+	11	9
 	+	11	18
-	+	14	27
+	+	13	36
 	+	16	2
 	+	17	35
 	+	18	3
@@ -294,15 +294,17 @@
 	+	11	10
 	+	11	9
 	+	11	10
-	+	12	0
+	+	11	9
+	+	13	9
+	+	11	10
+	+	13	9
 	+	15	0
-	+	13	0
 
 > ~/.git/COMMIT_EDITMSG
-	*	1631938895	0
+	*	1631939026	0
 	"	1	6
 	^	1	7
-	.	2	0
+	.	1	6
 	+	1	20
 	+	2	0
 	+	1	15
@@ -313,6 +315,7 @@
 	+	2	0
 	+	1	7
 	+	2	0
+	+	1	6
 
 > ~/0x02-functions_nested_loops/100-times_table.c
 	*	1631937877	0
