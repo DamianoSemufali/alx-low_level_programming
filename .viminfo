@@ -15,11 +15,15 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1631339951,,"wq"
-:q
-|2,0,1630547670,,"q"
+|2,0,1631938625,,"wq"
 :Wq
-|2,0,1630547534,,"Wq"
+|2,0,1631937355,,"Wq"
+:q
+|2,0,1631937239,,"q"
+:wwq
+|2,0,1631455129,,"wwq"
+:q!
+|2,0,1631341785,,"q!"
 :wNextq
 |2,0,1630543131,,"wNextq"
 
@@ -38,236 +42,971 @@
 # Registers:
 
 # File marks:
-'0  28  11  ~/0x01-variables_if_else_while/1-last_digit.c
-|4,48,28,11,1631339951,"~/0x01-variables_if_else_while/1-last_digit.c"
-'1  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,49,15,0,1631338427,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
-'2  17  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,50,17,0,1631338230,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
-'3  16  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,51,16,0,1631338230,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
-'4  16  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,52,16,0,1631337997,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
-'5  16  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,53,16,0,1631337997,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
-'6  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,54,15,0,1631337997,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
-'7  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,55,15,0,1631337997,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
-'8  2  24  ~/0x01-variables_if_else_while/README.md
-|4,56,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
-'9  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,57,20,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+'0  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,48,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
+'1  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,49,11,10,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
+'2  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,50,13,0,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
+'3  23  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,51,23,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
+'4  22  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,52,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
+'5  23  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,53,23,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
+'6  22  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,54,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
+'7  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,55,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+'8  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,56,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
+'9  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,57,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
 
 # Jumplist (newest first):
--'  28  11  ~/0x01-variables_if_else_while/1-last_digit.c
-|4,39,28,11,1631339951,"~/0x01-variables_if_else_while/1-last_digit.c"
--'  1  0  ~/0x01-variables_if_else_while/1-last_digit.c
-|4,39,1,0,1631338980,"~/0x01-variables_if_else_while/1-last_digit.c"
--'  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,15,0,1631338427,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,15,0,1631338427,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  17  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,17,0,1631338401,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  17  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,17,0,1631338401,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  16  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,16,0,1631338230,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  16  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,16,0,1631338230,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  16  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,16,0,1631338209,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,15,0,1631338209,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  16  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,16,0,1631338209,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,15,0,1631338209,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,15,0,1631337997,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  15  0  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,15,0,1631337997,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,20,29,1631337640,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  19  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,19,29,1631337640,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,20,29,1631337640,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  19  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,19,29,1631337640,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,20,29,1631337640,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  19  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,19,29,1631337640,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,20,29,1631337640,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  19  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,19,29,1631337640,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  2  24  ~/0x01-variables_if_else_while/README.md
-|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
--'  2  24  ~/0x01-variables_if_else_while/README.md
-|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
--'  2  24  ~/0x01-variables_if_else_while/README.md
-|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
--'  2  24  ~/0x01-variables_if_else_while/README.md
-|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
--'  2  24  ~/0x01-variables_if_else_while/README.md
-|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
--'  2  24  ~/0x01-variables_if_else_while/README.md
-|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
--'  2  24  ~/0x01-variables_if_else_while/README.md
-|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
--'  2  24  ~/0x01-variables_if_else_while/README.md
-|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
--'  2  24  ~/0x01-variables_if_else_while/README.md
-|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
--'  2  24  ~/0x01-variables_if_else_while/README.md
-|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
--'  2  24  ~/0x01-variables_if_else_while/README.md
-|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
--'  2  24  ~/0x01-variables_if_else_while/README.md
-|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
--'  2  24  ~/0x01-variables_if_else_while/README.md
-|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
--'  2  24  ~/0x01-variables_if_else_while/README.md
-|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
--'  2  24  ~/0x01-variables_if_else_while/README.md
-|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
--'  2  24  ~/0x01-variables_if_else_while/README.md
-|4,39,2,24,1631337466,"~/0x01-variables_if_else_while/README.md"
--'  1  0  ~/0x01-variables_if_else_while/README.md
-|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
--'  1  0  ~/0x01-variables_if_else_while/README.md
-|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
--'  1  0  ~/0x01-variables_if_else_while/README.md
-|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
--'  1  0  ~/0x01-variables_if_else_while/README.md
-|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
--'  1  0  ~/0x01-variables_if_else_while/README.md
-|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
--'  1  0  ~/0x01-variables_if_else_while/README.md
-|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
--'  1  0  ~/0x01-variables_if_else_while/README.md
-|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
--'  1  0  ~/0x01-variables_if_else_while/README.md
-|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
--'  1  0  ~/0x01-variables_if_else_while/README.md
-|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
--'  1  0  ~/0x01-variables_if_else_while/README.md
-|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
--'  1  0  ~/0x01-variables_if_else_while/README.md
-|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
--'  1  0  ~/0x01-variables_if_else_while/README.md
-|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
--'  1  0  ~/0x01-variables_if_else_while/README.md
-|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
--'  1  0  ~/0x01-variables_if_else_while/README.md
-|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
--'  1  0  ~/0x01-variables_if_else_while/README.md
-|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
--'  1  0  ~/0x01-variables_if_else_while/README.md
-|4,39,1,0,1631337405,"~/0x01-variables_if_else_while/README.md"
--'  21  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,21,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  21  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,21,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,20,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,20,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  21  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,21,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  21  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,21,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,20,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  20  29  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,20,29,1631336965,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,28,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  29  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,29,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  27  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,27,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,28,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  29  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,29,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  27  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,27,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,28,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,28,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,28,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  29  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,29,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  27  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,27,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,28,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  29  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,29,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  27  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,27,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,28,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,28,11,1631336910,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,28,11,1631336820,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,28,11,1631336820,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,28,11,1631336820,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  28  11  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,28,11,1631336820,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  23  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,23,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  23  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,23,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  21  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,21,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  23  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,23,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  23  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,23,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  21  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,21,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
--'  22  12  ~/0x01-variables_if_else_while/0-positive_or_negative.c
-|4,39,22,12,1631336784,"~/0x01-variables_if_else_while/0-positive_or_negative.c"
+-'  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
+-'  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,11,10,1631938539,"~/0x02-functions_nested_loops/101-natural.c"
+-'  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,13,0,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
+-'  23  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
+-'  23  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
+-'  22  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
+-'  22  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
+-'  1  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,1,0,1631938019,"~/0x02-functions_nested_loops/101-natural.c"
+-'  1  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,1,0,1631938019,"~/0x02-functions_nested_loops/101-natural.c"
+-'  1  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,1,0,1631938019,"~/0x02-functions_nested_loops/101-natural.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
+|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
 
 # History of marks within files (newest to oldest):
 
+> ~/0x02-functions_nested_loops/101-natural.c
+	*	1631938624	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	22	12
+	+	2	0
+	+	3	3
+	+	5	2
+	+	6	3
+	+	7	0
+	+	8	14
+	+	10	7
+	+	11	9
+	+	11	18
+	+	14	27
+	+	15	2
+	+	16	35
+	+	17	3
+	+	18	12
+	+	19	3
+	+	20	2
+	+	21	21
+	+	22	12
+	+	11	10
+	+	11	9
+	+	13	0
+
+> ~/0x02-functions_nested_loops/100-times_table.c
+	*	1631937877	0
+	"	8	0
+	^	8	0
+	.	7	0
+	+	7	0
+
+> ~/0x02-functions_nested_loops/11-print_to_98.c
+	*	1631937364	0
+	"	16	0
+	^	16	1
+	.	16	0
+	+	1	17
+	+	2	19
+	+	2	21
+	+	2	22
+	+	4	3
+	+	2	20
+	+	4	32
+	+	6	9
+	+	6	14
+	+	7	13
+	+	7	3
+	+	7	2
+	+	7	5
+	+	7	35
+	+	7	6
+	+	9	65
+	+	9	27
+	+	10	30
+	+	10	21
+	+	11	23
+	+	12	7
+	+	12	21
+	+	13	39
+	+	13	61
+	+	13	39
+	+	13	68
+	+	13	73
+	+	14	30
+	+	14	44
+	+	15	50
+	+	15	36
+	+	15	49
+	+	15	41
+	+	15	72
+	+	17	74
+	+	17	43
+	+	18	53
+	+	19	48
+	+	19	86
+	+	20	81
+	+	20	43
+	+	20	11
+	+	20	9
+	+	20	35
+	+	20	34
+	+	11	41
+	+	13	42
+	+	14	26
+	+	15	22
+	+	15	32
+	+	15	8
+	+	15	45
+	+	15	23
+	+	15	37
+	+	17	39
+	+	18	26
+	+	18	49
+	+	19	12
+	+	19	44
+	+	20	46
+	+	20	39
+	+	20	8
+	+	20	7
+	+	20	19
+	+	20	33
+	+	22	21
+	+	22	20
+	+	4	32
+	+	11	41
+	+	22	32
+	+	1	17
+	+	3	0
+	+	4	3
+	+	6	2
+	+	7	3
+	+	8	0
+	+	9	23
+	+	10	1
+	+	11	15
+	+	12	2
+	+	13	20
+	+	14	6
+	+	15	2
+	+	15	17
+	+	17	2
+	+	18	20
+	+	19	6
+	+	20	2
+	+	20	15
+	+	22	18
+	+	22	32
+	+	15	2
+	+	22	18
+	+	20	2
+	+	21	0
+	+	23	0
+	+	16	0
+
+> ~/0x02-functions_nested_loops/11-print_to_print_98.c
+	*	1631937238	0
+	"	1	0
+
+> ~/0x02-functions_nested_loops/11-print_to_98
+	*	1631503132	0
+	"	1	0
+
+> ~/0x02-functions_nested_loops/10-add.c
+	*	1631501264	0
+	"	13	0
+	^	13	0
+	.	12	16
+	+	12	16
+	+	2	0
+	+	3	3
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	3
+	+	9	0
+	+	10	21
+	+	11	1
+	+	12	16
+
+> ~/0x02-functions_nested_loops/9-times_table.c
+	*	1631474692	0
+	"	16	0
+	^	16	0
+	.	16	0
+	+	40	2
+	+	4	0
+	+	5	0
+	+	6	0
+	+	8	21
+	+	10	47
+	+	11	47
+	+	12	10
+	+	13	12
+	+	14	17
+	+	15	16
+	+	15	42
+	+	18	2
+	+	18	28
+	+	20	3
+	+	21	30
+	+	22	29
+	+	23	28
+	+	24	14
+	+	25	4
+	+	26	18
+	+	27	18
+	+	28	20
+	+	29	19
+	+	31	19
+	+	30	4
+	+	31	19
+	+	32	27
+	+	33	7
+	+	34	4
+	+	35	32
+	+	36	31
+	+	37	4
+	+	38	3
+	+	39	17
+	+	40	2
+	+	18	2
+	+	19	0
+	+	18	0
+	+	15	17
+	+	17	0
+	+	16	0
+
+> ~/0x02-functions_nested_loops/8-24_hours.c
+	*	1631472215	0
+	"	13	0
+	^	13	0
+	.	12	0
+	+	26	10
+	+	2	0
+	+	4	0
+	+	5	0
+	+	6	3
+	+	7	0
+	+	8	21
+	+	9	16
+	+	9	30
+	+	9	50
+	+	14	2
+	+	15	18
+	+	16	3
+	+	17	32
+	+	18	32
+	+	19	17
+	+	20	30
+	+	21	30
+	+	22	18
+	+	23	8
+	+	24	3
+	+	25	10
+	+	26	10
+	+	27	2
+	+	28	0
+	+	23	8
+	+	12	0
+	+	10	15
+	+	11	0
+	+	12	0
+
+> ~/0x02-functions_nested_loops/7-print_last_digit.c
+	*	1631463519	0
+	"	14	0
+	^	14	1
+	.	14	0
+	+	18	17
+	+	2	0
+	+	4	1
+	+	5	1
+	+	6	1
+	+	7	3
+	+	8	0
+	+	9	27
+	+	11	11
+	+	11	21
+	+	12	37
+	+	18	17
+	+	11	11
+	+	12	2
+	+	12	11
+	+	15	92
+	+	15	67
+	+	15	1
+	+	15	51
+	+	15	67
+	+	16	0
+	+	16	36
+	+	16	0
+	+	16	25
+	+	12	5
+	+	12	0
+	+	13	10
+	+	14	0
+
+> ~/0x02-functions_nested_loops/6-abs.c
+	*	1631461696	0
+	"	16	0
+	^	16	1
+	.	16	0
+	+	15	12
+	+	2	0
+	+	4	0
+	+	5	0
+	+	5	23
+	+	6	2
+	+	7	3
+	+	8	0
+	+	9	15
+	+	10	1
+	+	11	11
+	+	12	13
+	+	13	16
+	+	14	14
+	+	15	12
+	+	16	0
+
+> ~/0x02-functions_nested_loops/5-sign.c
+	*	1631461419	0
+	"	26	0
+	^	26	1
+	.	26	0
+	+	24	16
+	+	24	14
+	+	2	0
+	+	3	3
+	+	5	1
+	+	6	1
+	+	7	2
+	+	7	3
+	+	8	0
+	+	9	21
+	+	10	1
+	+	11	11
+	+	13	16
+	+	12	2
+	+	13	16
+	+	14	13
+	+	15	2
+	+	16	17
+	+	17	2
+	+	18	16
+	+	19	13
+	+	20	2
+	+	21	5
+	+	22	2
+	+	23	16
+	+	24	14
+	+	25	2
+	+	26	0
+
+> ~/0x02-functions_nested_loops/4-isalpha.c
+	*	1631460966	0
+	"	24	0
+	^	24	1
+	.	24	0
+	+	24	0
+
+> ~/0x02-functions_nested_loops/3-islower.c
+	*	1631460771	0
+	"	19	0
+	^	19	1
+	.	19	0
+	+	13	13
+	+	5	1
+	+	6	0
+	+	4	2
+	+	4	1
+	+	7	56
+	+	7	4
+	+	7	34
+	+	7	35
+	+	7	27
+	+	7	23
+	+	7	27
+	+	9	22
+	+	11	39
+	+	11	28
+	+	12	2
+	+	21	0
+	+	4	1
+	+	5	1
+	+	6	1
+	+	7	2
+	+	7	21
+	+	9	20
+	+	11	26
+	+	12	2
+	+	13	13
+	+	14	2
+	+	15	5
+	+	16	2
+	+	17	13
+	+	18	2
+	+	2	0
+	+	9	0
+	+	7	3
+	+	10	0
+	+	18	2
+	+	19	0
+
+> ~/0x02-functions_nested_loops/2-print_alphabet_x10.c
+	*	1631459044	0
+	"	18	0
+	^	18	0
+	.	18	0
+	+	1	362
+	+	1	17
+	+	32	0
+	+	5	3
+	+	6	2
+	+	7	1
+	+	9	0
+	+	14	1
+	+	15	0
+	+	17	0
+	+	19	0
+	+	20	0
+	+	20	1
+	+	21	42
+	+	21	0
+	+	21	42
+	+	22	0
+	+	23	6
+	+	23	3
+	+	23	19
+	+	24	0
+	+	26	19
+	+	26	17
+	+	27	0
+	+	16	0
+	+	18	0
+
+> ~/0x02-functions_nested_loops/1-alphabet.c
+	*	1631457767	0
+	"	4	16
+	^	4	17
+	.	4	16
+	+	1	18
+	+	1	33
+	+	1	34
+	+	10	0
+	+	2	0
+	+	1	2
+	+	1	0
+	+	19	0
+	+	6	2
+	+	4	25
+	+	5	18
+	+	4	0
+	+	3	0
+	+	12	0
+	+	12	13
+	+	15	0
+	+	16	0
+	+	12	13
+	+	4	10
+	+	11	0
+	+	12	14
+	+	15	0
+	+	12	13
+	+	14	0
+	+	13	0
+	+	4	16
+
+> ~/0x02-functions_nested_loops/0-putchar.c
+	*	1631455676	0
+	"	4	2
+	^	4	3
+	.	5	0
+	+	7	2
+	+	5	2
+	+	6	3
+	+	7	0
+	+	6	0
+	+	5	0
+
+> ~/0x02-functions_nested_loops/main.h
+	*	1631455256	0
+	"	1	15
+	^	1	16
+	.	2	0
+	+	209	0
+	+	2	0
+
+> ~/0x02-functions_nested_loops/README.md
+	*	1631455137	0
+	"	2	24
+	^	2	25
+	.	2	0
+	+	2	0
+
+> ~/0x01-variables_if_else_while/102-print_comb5.c
+	*	1631420382	0
+	"	20	10
+	^	20	11
+	.	20	10
+	+	1	18
+	+	5	29
+	+	7	14
+	+	8	1
+	+	11	35
+	+	12	2
+	+	26	0
+	+	13	41
+	+	14	3
+	+	25	0
+	+	15	30
+	+	16	30
+	+	17	16
+	+	18	30
+	+	24	15
+	+	29	11
+	+	13	27
+	+	20	10
+
+> ~/0x01-variables_if_else_while/101-print_comb4.c
+	*	1631419306	0
+	"	13	37
+	^	13	38
+	.	13	37
+	+	13	37
+
+> ~/0x01-variables_if_else_while/100-print_comb4.c
+	*	1631418715	0
+	"	31	11
+	^	31	12
+	.	31	11
+	+	1	18
+	+	5	29
+	+	7	14
+	+	8	1
+	+	11	39
+	+	12	2
+	+	27	0
+	+	13	50
+	+	14	3
+	+	26	0
+	+	17	32
+	+	18	32
+	+	19	32
+	+	20	49
+	+	23	16
+	+	24	15
+	+	15	51
+	+	16	0
+	+	25	3
+	+	29	15
+	+	31	11
+
+> ~/0x01-variables_if_else_while/100-print_comb3.c
+	*	1631417886	0
+	"	18	2
+	^	18	3
+	.	18	0
+	+	1	18
+	+	5	29
+	+	8	14
+	+	12	39
+	+	13	2
+	+	23	0
+	+	14	50
+	+	15	3
+	+	22	0
+	+	16	32
+	+	17	32
+	+	17	69
+	+	20	16
+	+	21	15
+	+	25	15
+	+	27	12
+	+	28	0
+	+	17	35
+	+	18	0
+
+> ~/0x01-variables_if_else_while/9-print_comb.c
+	*	1631357541	0
+	"	24	11
+	^	24	12
+	.	24	11
+	+	1	18
+	+	5	29
+	+	8	14
+	+	9	1
+	+	12	16
+	+	12	17
+	+	13	2
+	+	21	0
+	+	14	13
+	+	15	15
+	+	16	3
+	+	19	0
+	+	17	15
+	+	18	14
+	+	18	16
+	+	19	3
+	+	21	2
+	+	22	15
+	+	24	11
+
+> ~/0x01-variables_if_else_while/8-print_base16.c
+	*	1631357023	0
+	"	4	2
+	^	4	3
+	.	3	3
+	+	1	18
+	+	1	96
+	+	8	14
+	+	13	31
+	+	14	2
+	+	17	0
+	+	15	13
+	+	17	2
+	+	19	55
+	+	20	2
+	+	21	13
+	+	23	0
+	+	21	19
+	+	22	10
+	+	25	15
+	+	27	12
+	+	29	0
+	+	1	67
+	+	1	21
+	+	1	67
+	+	3	81
+	+	6	3
+	+	3	5
+	+	3	54
+	+	3	3
+	+	3	2
+	+	3	3
+
+> ~/0x01-variables_if_else_while/8-print_base16
+	*	1631356908	0
+	"	1	0
+
+> ~/0x01-variables_if_else_while/8-prints_base16
+	*	1631356493	0
+	"	1	0
+
+> ~/0x01-variables_if_else_while/7-print_tebahpla.c
+	*	1631355193	0
+	"	17	12
+	^	17	13
+	.	17	12
+	+	1	18
+	+	5	29
+	+	8	14
+	+	9	1
+	+	12	21
+	+	13	2
+	+	16	0
+	+	14	17
+	+	15	9
+	+	17	14
+	+	19	10
+	+	20	0
+	+	17	12
+
+> ~/0x01-variables_if_else_while/6-print_numberz.c
+	*	1631354576	0
+	"	19	11
+	^	19	12
+	.	20	0
+	+	1	18
+	+	5	29
+	+	8	14
+	+	9	1
+	+	12	17
+	+	13	2
+	+	16	0
+	+	14	13
+	+	15	5
+	+	17	15
+	+	19	12
+	+	20	0
+
+> ~/0x01-variables_if_else_while/5-print_numbers.c
+	*	1631354174	0
+	"	14	7
+	^	14	8
+	.	14	8
+	+	1	18
+	+	4	27
+	+	5	29
+	+	8	14
+	+	12	15
+	+	13	2
+	+	16	0
+	+	14	19
+	+	15	5
+	+	17	15
+	+	19	12
+	+	20	0
+	+	14	8
+
+> ~/0x01-variables_if_else_while/4-print_alphabt.c
+	*	1631353554	0
+	"	8	8
+	^	8	9
+	.	8	8
+	+	1	18
+	+	4	58
+	+	5	21
+	+	6	0
+	+	8	15
+	+	12	21
+	+	14	39
+	+	16	18
+	+	20	15
+	+	22	12
+	+	23	0
+	+	8	8
+
+> ~/0x01-variables_if_else_while/3-print_alphabets.c
+	*	1631352655	0
+	"	28	0
+	^	28	1
+	.	28	0
+	+	25	15
+	+	27	12
+	+	28	0
+
+> ~/0x01-variables_if_else_while/3-print_alphabet.c
+	*	1631341781	0
+	"	39	15
+	^	39	22
+	.	39	21
+	+	39	21
+
+> ~/0x01-variables_if_else_while/2-print_alphabet.c
+	*	1631341719	0
+	"	1	17
+	^	1	18
+	.	19	11
+	+	1	18
+	+	5	29
+	+	8	14
+	+	9	1
+	+	10	18
+	+	12	21
+	+	13	2
+	+	16	0
+	+	14	17
+	+	15	9
+	+	17	15
+	+	19	11
+
 > ~/0x01-variables_if_else_while/1-last_digit.c
-	*	1631339949	0
-	"	28	11
-	^	28	12
-	.	28	11
+	*	1631340794	0
+	"	23	21
+	^	23	22
+	.	23	21
 	+	1	268
 	+	1	0
 	+	1	19
@@ -278,9 +1017,21 @@
 	+	11	1
 	+	14	16
 	+	15	26
-	+	21	29
-	+	25	36
-	+	28	11
+	+	25	29
+	+	29	36
+	+	32	11
+	+	19	1
+	+	23	0
+	+	19	17
+	+	20	2
+	+	22	0
+	+	21	15
+	+	19	2
+	+	23	21
+
+> ~/0x01-variables_if_else_while/1-last-digit.c
+	*	1631340560	0
+	"	1	0
 
 > ~/0x01-variables_if_else_while/0-positive_or_negative.c
 	*	1631338425	0
