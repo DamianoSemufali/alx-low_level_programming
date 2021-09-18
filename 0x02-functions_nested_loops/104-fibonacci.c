@@ -20,7 +20,7 @@ int main(void)
 	{
 		sum = a + b;
 		a = b;
-		b=sum;
+		b = sum;
 		printf(", %lu", sum);
 	}
 
@@ -45,5 +45,5 @@ int main(void)
 
 	printf("\n");
 
-	return(0);
+	return (0);
 }
