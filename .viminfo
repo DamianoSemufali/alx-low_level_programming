@@ -15,9 +15,9 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1631938625,,"wq"
+|2,0,1631938772,,"wq"
 :Wq
-|2,0,1631937355,,"Wq"
+|2,0,1631938672,,"Wq"
 :q
 |2,0,1631937239,,"q"
 :wwq
@@ -42,38 +42,64 @@
 # Registers:
 
 # File marks:
-'0  13  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,48,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
-'1  11  10  ~/0x02-functions_nested_loops/101-natural.c
-|4,49,11,10,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
-'2  13  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,50,13,0,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
-'3  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,51,23,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
-'4  22  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,52,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
-'5  23  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,53,23,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
-'6  22  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,54,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
-'7  8  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,55,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
-'8  50  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,56,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
-'9  50  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,57,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
+'0  12  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,48,12,0,1631938772,"~/0x02-functions_nested_loops/101-natural.c"
+'1  1  6  ~/.git/COMMIT_EDITMSG
+|4,49,1,6,1631938676,"~/.git/COMMIT_EDITMSG"
+'2  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,50,11,10,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
+'3  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,51,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
+'4  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,52,11,10,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
+'5  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,53,11,10,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
+'6  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,54,11,10,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
+'7  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,55,13,0,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
+'8  22  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,56,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
+'9  21  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,57,21,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
 
 # Jumplist (newest first):
+-'  12  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,12,0,1631938772,"~/0x02-functions_nested_loops/101-natural.c"
+-'  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,11,10,1631938744,"~/0x02-functions_nested_loops/101-natural.c"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631938676,"~/.git/COMMIT_EDITMSG"
+-'  1  6  ~/.git/COMMIT_EDITMSG
+|4,39,1,6,1631938676,"~/.git/COMMIT_EDITMSG"
+-'  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
 -'  13  0  ~/0x02-functions_nested_loops/101-natural.c
 |4,39,13,0,1631938625,"~/0x02-functions_nested_loops/101-natural.c"
 -'  11  10  ~/0x02-functions_nested_loops/101-natural.c
 |4,39,11,10,1631938539,"~/0x02-functions_nested_loops/101-natural.c"
+-'  11  10  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,11,10,1631938539,"~/0x02-functions_nested_loops/101-natural.c"
 -'  13  0  ~/0x02-functions_nested_loops/101-natural.c
 |4,39,13,0,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
+-'  13  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,13,0,1631938431,"~/0x02-functions_nested_loops/101-natural.c"
+-'  22  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,22,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
 -'  23  0  ~/0x02-functions_nested_loops/101-natural.c
 |4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
 -'  23  0  ~/0x02-functions_nested_loops/101-natural.c
 |4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
+-'  23  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
+-'  23  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,23,0,1631938375,"~/0x02-functions_nested_loops/101-natural.c"
+-'  21  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,21,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
+-'  22  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
+-'  22  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
 -'  22  0  ~/0x02-functions_nested_loops/101-natural.c
 |4,39,22,0,1631938232,"~/0x02-functions_nested_loops/101-natural.c"
 -'  22  0  ~/0x02-functions_nested_loops/101-natural.c
@@ -84,6 +110,62 @@
 |4,39,1,0,1631938019,"~/0x02-functions_nested_loops/101-natural.c"
 -'  1  0  ~/0x02-functions_nested_loops/101-natural.c
 |4,39,1,0,1631938019,"~/0x02-functions_nested_loops/101-natural.c"
+-'  1  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,1,0,1631938019,"~/0x02-functions_nested_loops/101-natural.c"
+-'  1  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,1,0,1631938019,"~/0x02-functions_nested_loops/101-natural.c"
+-'  1  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,1,0,1631938019,"~/0x02-functions_nested_loops/101-natural.c"
+-'  1  0  ~/0x02-functions_nested_loops/101-natural.c
+|4,39,1,0,1631938019,"~/0x02-functions_nested_loops/101-natural.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
 -'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
 |4,39,8,0,1631937879,"~/0x02-functions_nested_loops/100-times_table.c"
 -'  8  0  ~/0x02-functions_nested_loops/100-times_table.c
@@ -117,7 +199,53 @@
 -'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
 |4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
 -'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,39,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937809,"~/0x02-functions_nested_loops/100-times_table.c"
 -'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
 |4,39,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
 -'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
@@ -132,147 +260,19 @@
 |4,39,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
 -'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
 |4,39,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
--'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
--'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
--'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
--'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
--'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
--'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
--'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
--'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
--'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
--'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
--'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
--'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
--'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
--'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
--'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
--'  1  0  ~/0x02-functions_nested_loops/100-times_table.c
-|4,39,1,0,1631937629,"~/0x02-functions_nested_loops/100-times_table.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  16  0  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,16,0,1631937367,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
--'  20  2  ~/0x02-functions_nested_loops/11-print_to_98.c
-|4,39,20,2,1631937262,"~/0x02-functions_nested_loops/11-print_to_98.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
+-'  50  0  ~/0x02-functions_nested_loops/100-times_table.c
+|4,39,50,0,1631937650,"~/0x02-functions_nested_loops/100-times_table.c"
 
 # History of marks within files (newest to oldest):
 
 > ~/0x02-functions_nested_loops/101-natural.c
-	*	1631938624	0
-	"	13	0
-	^	13	1
-	.	13	0
-	+	22	12
+	*	1631938770	0
+	"	12	0
+	^	12	1
+	.	12	0
+	+	21	12
 	+	2	0
 	+	3	3
 	+	5	2
@@ -282,18 +282,34 @@
 	+	10	7
 	+	11	9
 	+	11	18
-	+	14	27
-	+	15	2
-	+	16	35
-	+	17	3
-	+	18	12
-	+	19	3
-	+	20	2
-	+	21	21
-	+	22	12
+	+	13	27
+	+	14	2
+	+	15	35
+	+	16	3
+	+	17	12
+	+	18	3
+	+	19	2
+	+	20	21
+	+	21	12
 	+	11	10
 	+	11	9
-	+	13	0
+	+	11	10
+	+	12	0
+
+> ~/.git/COMMIT_EDITMSG
+	*	1631938674	0
+	"	1	6
+	^	1	7
+	.	1	6
+	+	1	20
+	+	2	0
+	+	1	15
+	+	2	0
+	+	1	6
+	+	2	0
+	+	1	5
+	+	2	0
+	+	1	6
 
 > ~/0x02-functions_nested_loops/100-times_table.c
 	*	1631937877	0
@@ -1175,21 +1191,6 @@
 	+	23	1
 	+	24	1
 	+	25	0
-
-> ~/.git/COMMIT_EDITMSG
-	*	1630547792	0
-	"	1	4
-	^	1	5
-	.	1	4
-	+	1	20
-	+	2	0
-	+	1	15
-	+	2	0
-	+	1	6
-	+	2	0
-	+	1	5
-	+	2	0
-	+	1	4
 
 > ~/0x00-hello_world/101-quote.c
 	*	1630547732	0
