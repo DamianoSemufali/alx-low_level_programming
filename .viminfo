@@ -5,7 +5,7 @@
 |1,4
 
 # Value of 'encoding' when this file was written
-*encoding=utf-8
+*encoding=latin1
 
 
 # hlsearch on (H) or off (h):
@@ -15,11 +15,11 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1631942012,,"wq"
+|2,0,1632049308,,"wq"
 :Wq
-|2,0,1631939109,,"Wq"
+|2,0,1632049299,,"Wq"
 :q
-|2,0,1631937239,,"q"
+|2,0,1631962529,,"q"
 :wwq
 |2,0,1631455129,,"wwq"
 :q!
@@ -42,230 +42,357 @@
 # Registers:
 
 # File marks:
-'0  48  0  ~/0x02-functions_nested_loops/104-fibonacci.c
-|4,48,48,0,1631942012,"~/0x02-functions_nested_loops/104-fibonacci.c"
-'1  46  14  ~/0x02-functions_nested_loops/104-fibonacci.c
-|4,49,46,14,1631941786,"~/0x02-functions_nested_loops/104-fibonacci.c"
-'2  48  0  ~/0x02-functions_nested_loops/104-fibonacci.c
-|4,50,48,0,1631941786,"~/0x02-functions_nested_loops/104-fibonacci.c"
-'3  28  0  ~/0x02-functions_nested_loops/103-fibonacci.c
-|4,51,28,0,1631940963,"~/0x02-functions_nested_loops/103-fibonacci.c"
-'4  1  8  ~/.git/COMMIT_EDITMSG
-|4,52,1,8,1631940304,"~/.git/COMMIT_EDITMSG"
-'5  23  4  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,53,23,4,1631940261,"~/0x02-functions_nested_loops/102-fibonacci.c"
-'6  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,54,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
-'7  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,55,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
-'8  1  6  ~/.git/COMMIT_EDITMSG
-|4,56,1,6,1631939380,"~/.git/COMMIT_EDITMSG"
-'9  15  0  ~/0x02-functions_nested_loops/101-natural.c
-|4,57,15,0,1631939350,"~/0x02-functions_nested_loops/101-natural.c"
+'0  30  0  ~/0x03-debugging/2-largest_number.c
+|4,48,30,0,1632049308,"~/0x03-debugging/2-largest_number.c"
+'1  30  0  ~/0x03-debugging/2-largest_number.c
+|4,49,30,0,1632041135,"~/0x03-debugging/2-largest_number.c"
+'2  11  0  ~/0x03-debugging/main.h
+|4,50,11,0,1632040575,"~/0x03-debugging/main.h"
+'3  18  0  ~/0x03-debugging/1-main.c
+|4,51,18,0,1632040129,"~/0x03-debugging/1-main.c"
+'4  2  35  ~/0x03-debugging/README.md
+|4,52,2,35,1632038899,"~/0x03-debugging/README.md"
+'5  11  0  ~/0x03-debugging/main.h
+|4,53,11,0,1632038801,"~/0x03-debugging/main.h"
+'6  1  0  ~/0x03-debugging/main.h
+|4,54,1,0,1632038647,"~/0x03-debugging/main.h"
+'7  1  0  ~/0x03-debugging/main.h
+|4,55,1,0,1632038647,"~/0x03-debugging/main.h"
+'8  1  0  ~/0x03-debugging/main.h
+|4,56,1,0,1632038647,"~/0x03-debugging/main.h"
+'9  1  0  ~/0x03-debugging/main.h
+|4,57,1,0,1632038647,"~/0x03-debugging/main.h"
 
 # Jumplist (newest first):
--'  48  0  ~/0x02-functions_nested_loops/104-fibonacci.c
-|4,39,48,0,1631942012,"~/0x02-functions_nested_loops/104-fibonacci.c"
--'  46  14  ~/0x02-functions_nested_loops/104-fibonacci.c
-|4,39,46,14,1631941896,"~/0x02-functions_nested_loops/104-fibonacci.c"
--'  48  0  ~/0x02-functions_nested_loops/104-fibonacci.c
-|4,39,48,0,1631941786,"~/0x02-functions_nested_loops/104-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/104-fibonacci.c
-|4,39,1,0,1631941112,"~/0x02-functions_nested_loops/104-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/104-fibonacci.c
-|4,39,1,0,1631941112,"~/0x02-functions_nested_loops/104-fibonacci.c"
--'  28  0  ~/0x02-functions_nested_loops/103-fibonacci.c
-|4,39,28,0,1631940963,"~/0x02-functions_nested_loops/103-fibonacci.c"
--'  28  0  ~/0x02-functions_nested_loops/103-fibonacci.c
-|4,39,28,0,1631940963,"~/0x02-functions_nested_loops/103-fibonacci.c"
--'  28  0  ~/0x02-functions_nested_loops/103-fibonacci.c
-|4,39,28,0,1631940963,"~/0x02-functions_nested_loops/103-fibonacci.c"
--'  28  0  ~/0x02-functions_nested_loops/103-fibonacci.c
-|4,39,28,0,1631940963,"~/0x02-functions_nested_loops/103-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/103-fibonacci.c
-|4,39,1,0,1631940619,"~/0x02-functions_nested_loops/103-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/103-fibonacci.c
-|4,39,1,0,1631940619,"~/0x02-functions_nested_loops/103-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/103-fibonacci.c
-|4,39,1,0,1631940619,"~/0x02-functions_nested_loops/103-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/103-fibonacci.c
-|4,39,1,0,1631940619,"~/0x02-functions_nested_loops/103-fibonacci.c"
--'  1  8  ~/.git/COMMIT_EDITMSG
-|4,39,1,8,1631940304,"~/.git/COMMIT_EDITMSG"
--'  1  8  ~/.git/COMMIT_EDITMSG
-|4,39,1,8,1631940304,"~/.git/COMMIT_EDITMSG"
--'  1  8  ~/.git/COMMIT_EDITMSG
-|4,39,1,8,1631940304,"~/.git/COMMIT_EDITMSG"
--'  1  8  ~/.git/COMMIT_EDITMSG
-|4,39,1,8,1631940304,"~/.git/COMMIT_EDITMSG"
--'  1  8  ~/.git/COMMIT_EDITMSG
-|4,39,1,8,1631940304,"~/.git/COMMIT_EDITMSG"
--'  1  8  ~/.git/COMMIT_EDITMSG
-|4,39,1,8,1631940304,"~/.git/COMMIT_EDITMSG"
--'  1  8  ~/.git/COMMIT_EDITMSG
-|4,39,1,8,1631940304,"~/.git/COMMIT_EDITMSG"
--'  1  8  ~/.git/COMMIT_EDITMSG
-|4,39,1,8,1631940304,"~/.git/COMMIT_EDITMSG"
--'  23  4  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,23,4,1631940261,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  23  4  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,23,4,1631940261,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  23  4  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,23,4,1631940261,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  23  4  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,23,4,1631940261,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  23  4  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,23,4,1631940261,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  23  4  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,23,4,1631940261,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  23  4  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,23,4,1631940261,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  23  4  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,23,4,1631940261,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  23  4  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,23,4,1631940261,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  23  4  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,23,4,1631940261,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  23  4  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,23,4,1631940261,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  23  4  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,23,4,1631940261,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  23  4  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,23,4,1631940261,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  23  4  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,23,4,1631940261,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  23  4  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,23,4,1631940261,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  23  4  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,23,4,1631940261,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940200,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940200,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940200,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940200,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940200,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940200,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940200,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940200,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940200,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940200,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940200,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940200,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940200,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940200,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940200,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940200,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  30  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,30,0,1631940082,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
--'  1  0  ~/0x02-functions_nested_loops/102-fibonacci.c
-|4,39,1,0,1631939557,"~/0x02-functions_nested_loops/102-fibonacci.c"
+-'  30  0  ~/0x03-debugging/2-largest_number.c
+|4,39,30,0,1632049308,"~/0x03-debugging/2-largest_number.c"
+-'  30  0  ~/0x03-debugging/2-largest_number.c
+|4,39,30,0,1632041135,"~/0x03-debugging/2-largest_number.c"
+-'  1  0  ~/0x03-debugging/2-largest_number.c
+|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
+-'  1  0  ~/0x03-debugging/2-largest_number.c
+|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
+-'  18  0  ~/0x03-debugging/1-main.c
+|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
+-'  18  0  ~/0x03-debugging/1-main.c
+|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
+-'  18  0  ~/0x03-debugging/1-main.c
+|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
+-'  18  0  ~/0x03-debugging/1-main.c
+|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
+-'  18  0  ~/0x03-debugging/1-main.c
+|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
+-'  18  0  ~/0x03-debugging/1-main.c
+|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
+-'  18  0  ~/0x03-debugging/1-main.c
+|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
+-'  18  0  ~/0x03-debugging/1-main.c
+|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
+-'  1  0  ~/0x03-debugging/1-main.c
+|4,39,1,0,1632039070,"~/0x03-debugging/1-main.c"
+-'  1  0  ~/0x03-debugging/1-main.c
+|4,39,1,0,1632039070,"~/0x03-debugging/1-main.c"
+-'  1  0  ~/0x03-debugging/1-main.c
+|4,39,1,0,1632039070,"~/0x03-debugging/1-main.c"
+-'  1  0  ~/0x03-debugging/1-main.c
+|4,39,1,0,1632039070,"~/0x03-debugging/1-main.c"
+-'  1  0  ~/0x03-debugging/1-main.c
+|4,39,1,0,1632039070,"~/0x03-debugging/1-main.c"
+-'  1  0  ~/0x03-debugging/1-main.c
+|4,39,1,0,1632039070,"~/0x03-debugging/1-main.c"
+-'  1  0  ~/0x03-debugging/1-main.c
+|4,39,1,0,1632039070,"~/0x03-debugging/1-main.c"
+-'  1  0  ~/0x03-debugging/1-main.c
+|4,39,1,0,1632039070,"~/0x03-debugging/1-main.c"
+-'  2  35  ~/0x03-debugging/README.md
+|4,39,2,35,1632038899,"~/0x03-debugging/README.md"
+-'  2  35  ~/0x03-debugging/README.md
+|4,39,2,35,1632038899,"~/0x03-debugging/README.md"
+-'  2  35  ~/0x03-debugging/README.md
+|4,39,2,35,1632038899,"~/0x03-debugging/README.md"
+-'  2  35  ~/0x03-debugging/README.md
+|4,39,2,35,1632038899,"~/0x03-debugging/README.md"
+-'  2  35  ~/0x03-debugging/README.md
+|4,39,2,35,1632038899,"~/0x03-debugging/README.md"
+-'  2  35  ~/0x03-debugging/README.md
+|4,39,2,35,1632038899,"~/0x03-debugging/README.md"
+-'  2  35  ~/0x03-debugging/README.md
+|4,39,2,35,1632038899,"~/0x03-debugging/README.md"
+-'  2  35  ~/0x03-debugging/README.md
+|4,39,2,35,1632038899,"~/0x03-debugging/README.md"
+-'  2  35  ~/0x03-debugging/README.md
+|4,39,2,35,1632038899,"~/0x03-debugging/README.md"
+-'  2  35  ~/0x03-debugging/README.md
+|4,39,2,35,1632038899,"~/0x03-debugging/README.md"
+-'  2  35  ~/0x03-debugging/README.md
+|4,39,2,35,1632038899,"~/0x03-debugging/README.md"
+-'  2  35  ~/0x03-debugging/README.md
+|4,39,2,35,1632038899,"~/0x03-debugging/README.md"
+-'  2  35  ~/0x03-debugging/README.md
+|4,39,2,35,1632038899,"~/0x03-debugging/README.md"
+-'  2  35  ~/0x03-debugging/README.md
+|4,39,2,35,1632038899,"~/0x03-debugging/README.md"
+-'  2  35  ~/0x03-debugging/README.md
+|4,39,2,35,1632038899,"~/0x03-debugging/README.md"
+-'  2  35  ~/0x03-debugging/README.md
+|4,39,2,35,1632038899,"~/0x03-debugging/README.md"
+-'  1  0  ~/0x03-debugging/README.md
+|4,39,1,0,1632038814,"~/0x03-debugging/README.md"
+-'  1  0  ~/0x03-debugging/README.md
+|4,39,1,0,1632038814,"~/0x03-debugging/README.md"
+-'  1  0  ~/0x03-debugging/README.md
+|4,39,1,0,1632038814,"~/0x03-debugging/README.md"
+-'  1  0  ~/0x03-debugging/README.md
+|4,39,1,0,1632038814,"~/0x03-debugging/README.md"
+-'  1  0  ~/0x03-debugging/README.md
+|4,39,1,0,1632038814,"~/0x03-debugging/README.md"
+-'  1  0  ~/0x03-debugging/README.md
+|4,39,1,0,1632038814,"~/0x03-debugging/README.md"
+-'  1  0  ~/0x03-debugging/README.md
+|4,39,1,0,1632038814,"~/0x03-debugging/README.md"
+-'  1  0  ~/0x03-debugging/README.md
+|4,39,1,0,1632038814,"~/0x03-debugging/README.md"
+-'  1  0  ~/0x03-debugging/README.md
+|4,39,1,0,1632038814,"~/0x03-debugging/README.md"
+-'  1  0  ~/0x03-debugging/README.md
+|4,39,1,0,1632038814,"~/0x03-debugging/README.md"
+-'  1  0  ~/0x03-debugging/README.md
+|4,39,1,0,1632038814,"~/0x03-debugging/README.md"
+-'  1  0  ~/0x03-debugging/README.md
+|4,39,1,0,1632038814,"~/0x03-debugging/README.md"
+-'  1  0  ~/0x03-debugging/README.md
+|4,39,1,0,1632038814,"~/0x03-debugging/README.md"
+-'  1  0  ~/0x03-debugging/README.md
+|4,39,1,0,1632038814,"~/0x03-debugging/README.md"
+-'  1  0  ~/0x03-debugging/README.md
+|4,39,1,0,1632038814,"~/0x03-debugging/README.md"
+-'  1  0  ~/0x03-debugging/README.md
+|4,39,1,0,1632038814,"~/0x03-debugging/README.md"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632038801,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632038801,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632038801,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632038801,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632038801,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632038801,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632038801,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632038801,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632038801,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632038801,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632038801,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632038801,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632038801,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632038801,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632038801,"~/0x03-debugging/main.h"
+-'  11  0  ~/0x03-debugging/main.h
+|4,39,11,0,1632038801,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038663,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038647,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038647,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038647,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038647,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038647,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038647,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038647,"~/0x03-debugging/main.h"
+-'  1  0  ~/0x03-debugging/main.h
+|4,39,1,0,1632038647,"~/0x03-debugging/main.h"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x03-debugging/2-largest_number.c
+	*	1632049305	0
+	"	30	0
+	^	30	1
+	.	30	0
+	+	29	18
+	+	2	0
+	+	3	3
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	2
+	+	9	3
+	+	10	0
+	+	11	39
+	+	13	13
+	+	14	61
+	+	16	22
+	+	18	2
+	+	19	43
+	+	20	2
+	+	21	27
+	+	22	2
+	+	23	43
+	+	24	2
+	+	25	5
+	+	26	2
+	+	27	43
+	+	28	2
+	+	29	18
+	+	15	0
+	+	17	0
+	+	30	0
+
+> ~/0x03-debugging/main.h
+	*	1632040574	0
+	"	11	0
+	^	11	0
+	.	10	0
+	+	1	211
+	+	1	155
+	+	1	119
+	+	1	79
+	+	1	46
+	+	1	28
+	+	1	14
+	+	3	0
+	+	5	0
+	+	10	0
+
+> ~/0x03-debugging/1-main.c
+	*	1632040128	0
+	"	18	0
+	^	18	1
+	.	23	0
+	+	22	12
+	+	2	0
+	+	3	3
+	+	5	2
+	+	6	3
+	+	7	0
+	+	8	14
+	+	10	7
+	+	11	39
+	+	13	7
+	+	15	19
+	+	17	6
+	+	18	16
+	+	19	6
+	+	20	41
+	+	22	12
+	+	13	0
+	+	12	0
+	+	14	0
+	+	16	0
+	+	21	0
+	+	23	0
+
+> ~/0x03-debugging/README.md
+	*	1632038898	0
+	"	2	35
+	^	2	36
+	.	3	0
+	+	3	0
+
+> ~/0x03-debugging/0-main.c
+	*	1632038631	0
+	"	16	0
+	^	16	0
+	.	15	12
+	+	15	12
+	+	2	0
+	+	3	3
+	+	5	2
+	+	7	0
+	+	8	14
+	+	10	7
+	+	11	7
+	+	11	32
+	+	15	0
+	+	11	7
+	+	13	0
+	+	11	0
+	+	12	0
+	+	15	12
+
+> ~/0x09-static_libraries/main.h
+	*	1631962528	0
+	"	1	0
+
+> ~/.git/COMMIT_EDITMSG
+	*	1631942040	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	20
+	+	2	0
+	+	1	15
+	+	2	0
+	+	1	6
+	+	2	0
+	+	1	5
+	+	2	0
+	+	1	7
+	+	2	0
+	+	1	8
 
 > ~/0x02-functions_nested_loops/104-fibonacci.c
 	*	1631942011	0
@@ -358,23 +485,6 @@
 	+	15	0
 	+	18	0
 	+	28	0
-
-> ~/.git/COMMIT_EDITMSG
-	*	1631940303	0
-	"	1	8
-	^	1	9
-	.	1	8
-	+	1	20
-	+	2	0
-	+	1	15
-	+	2	0
-	+	1	6
-	+	2	0
-	+	1	5
-	+	2	0
-	+	1	7
-	+	2	0
-	+	1	8
 
 > ~/0x02-functions_nested_loops/102-fibonacci.c
 	*	1631940259	0
