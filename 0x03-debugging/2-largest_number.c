@@ -14,19 +14,15 @@ int largest_number(int a, int b, int c)
 
 	scanf("%d %d %d", &a,&b,&c); /*taking three numbers as input*/
 
-	if (a > b && a > c)
+	if (a >= b && a >= c)
 	{
 		largest = a;
 	}
-	else if (b > a && b > c)
+	else if (b >= a && b >= c)
 	{
 		largest = b;
 	}
-	else if (c > a && c > b)
-	{
-		largest = c;
-	}
-	else 
+	else if (c >= a && c >= b)
 	{
 		largest = c;
 	}
