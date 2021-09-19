@@ -15,13 +15,13 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1632054790,,"wq"
+|2,0,1632083757,,"wq"
+:wwq
+|2,0,1632082259,,"wwq"
 :Wq
 |2,0,1632050890,,"Wq"
 :q
 |2,0,1631962529,,"q"
-:wwq
-|2,0,1631455129,,"wwq"
 :q!
 |2,0,1631341785,,"q!"
 :wNextq
@@ -45,230 +45,523 @@
 |3,1,36,0,1,0,1632053777," "
 
 # File marks:
-'0  26  0  ~/0x03-debugging/3-main_a.c
-|4,48,26,0,1632054790,"~/0x03-debugging/3-main_a.c"
-'1  4  2  ~/0x03-debugging/2-largest_number.c
-|4,49,4,2,1632053803,"~/0x03-debugging/2-largest_number.c"
-'2  3  54  ~/0x03-debugging/2-largest_number.c
-|4,50,3,54,1632053734,"~/0x03-debugging/2-largest_number.c"
-'3  4  51  ~/0x03-debugging/2-largest_number.c
-|4,51,4,51,1632053734,"~/0x03-debugging/2-largest_number.c"
-'4  15  24  ~/0x03-debugging/2-largest_number.c
-|4,52,15,24,1632053540,"~/0x03-debugging/2-largest_number.c"
-'5  16  24  ~/0x03-debugging/2-largest_number.c
-|4,53,16,24,1632053540,"~/0x03-debugging/2-largest_number.c"
-'6  15  24  ~/0x03-debugging/2-largest_number.c
-|4,54,15,24,1632053540,"~/0x03-debugging/2-largest_number.c"
-'7  16  24  ~/0x03-debugging/2-largest_number.c
-|4,55,16,24,1632053540,"~/0x03-debugging/2-largest_number.c"
-'8  19  0  ~/0x03-debugging/2-largest_number.c
-|4,56,19,0,1632053385,"~/0x03-debugging/2-largest_number.c"
-'9  19  0  ~/0x03-debugging/2-largest_number.c
-|4,57,19,0,1632053385,"~/0x03-debugging/2-largest_number.c"
+'0  12  0  ~/0x04-more_functions_nested_loops/6-print_line.c
+|4,48,12,0,1632083757,"~/0x04-more_functions_nested_loops/6-print_line.c"
+'1  12  0  ~/0x04-more_functions_nested_loops/5-more_numbers.c
+|4,49,12,0,1632083511,"~/0x04-more_functions_nested_loops/5-more_numbers.c"
+'2  11  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
+|4,50,11,0,1632083176,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
+'3  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,51,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+'4  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,52,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+'5  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,53,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+'6  14  0  ~/0x04-more_functions_nested_loops/1-isdigit.c
+|4,54,14,0,1632082463,"~/0x04-more_functions_nested_loops/1-isdigit.c"
+'7  191  0  ~/0x04-more_functions_nested_loops/main.h
+|4,55,191,0,1632082262,"~/0x04-more_functions_nested_loops/main.h"
+'8  13  0  ~/0x04-more_functions_nested_loops/0-main.c
+|4,56,13,0,1632081931,"~/0x04-more_functions_nested_loops/0-main.c"
+'9  191  5  ~/0x04-more_functions_nested_loops/main.h
+|4,57,191,5,1632081422,"~/0x04-more_functions_nested_loops/main.h"
 
 # Jumplist (newest first):
--'  26  0  ~/0x03-debugging/3-main_a.c
-|4,39,26,0,1632054790,"~/0x03-debugging/3-main_a.c"
--'  1  0  ~/0x03-debugging/3-main_a.c
-|4,39,1,0,1632054568,"~/0x03-debugging/3-main_a.c"
--'  4  2  ~/0x03-debugging/2-largest_number.c
-|4,39,4,2,1632053803,"~/0x03-debugging/2-largest_number.c"
--'  4  2  ~/0x03-debugging/2-largest_number.c
-|4,39,4,2,1632053803,"~/0x03-debugging/2-largest_number.c"
--'  3  54  ~/0x03-debugging/2-largest_number.c
-|4,39,3,54,1632053768,"~/0x03-debugging/2-largest_number.c"
--'  3  54  ~/0x03-debugging/2-largest_number.c
-|4,39,3,54,1632053768,"~/0x03-debugging/2-largest_number.c"
--'  4  51  ~/0x03-debugging/2-largest_number.c
-|4,39,4,51,1632053734,"~/0x03-debugging/2-largest_number.c"
--'  4  51  ~/0x03-debugging/2-largest_number.c
-|4,39,4,51,1632053734,"~/0x03-debugging/2-largest_number.c"
--'  15  24  ~/0x03-debugging/2-largest_number.c
-|4,39,15,24,1632053699,"~/0x03-debugging/2-largest_number.c"
--'  15  24  ~/0x03-debugging/2-largest_number.c
-|4,39,15,24,1632053699,"~/0x03-debugging/2-largest_number.c"
--'  15  24  ~/0x03-debugging/2-largest_number.c
-|4,39,15,24,1632053699,"~/0x03-debugging/2-largest_number.c"
--'  15  24  ~/0x03-debugging/2-largest_number.c
-|4,39,15,24,1632053699,"~/0x03-debugging/2-largest_number.c"
--'  16  24  ~/0x03-debugging/2-largest_number.c
-|4,39,16,24,1632053540,"~/0x03-debugging/2-largest_number.c"
--'  16  24  ~/0x03-debugging/2-largest_number.c
-|4,39,16,24,1632053540,"~/0x03-debugging/2-largest_number.c"
--'  16  24  ~/0x03-debugging/2-largest_number.c
-|4,39,16,24,1632053540,"~/0x03-debugging/2-largest_number.c"
--'  16  24  ~/0x03-debugging/2-largest_number.c
-|4,39,16,24,1632053540,"~/0x03-debugging/2-largest_number.c"
--'  19  0  ~/0x03-debugging/2-largest_number.c
-|4,39,19,0,1632053417,"~/0x03-debugging/2-largest_number.c"
--'  20  0  ~/0x03-debugging/2-largest_number.c
-|4,39,20,0,1632053417,"~/0x03-debugging/2-largest_number.c"
--'  19  0  ~/0x03-debugging/2-largest_number.c
-|4,39,19,0,1632053417,"~/0x03-debugging/2-largest_number.c"
--'  20  0  ~/0x03-debugging/2-largest_number.c
-|4,39,20,0,1632053417,"~/0x03-debugging/2-largest_number.c"
--'  19  0  ~/0x03-debugging/2-largest_number.c
-|4,39,19,0,1632053417,"~/0x03-debugging/2-largest_number.c"
--'  20  0  ~/0x03-debugging/2-largest_number.c
-|4,39,20,0,1632053417,"~/0x03-debugging/2-largest_number.c"
--'  19  0  ~/0x03-debugging/2-largest_number.c
-|4,39,19,0,1632053417,"~/0x03-debugging/2-largest_number.c"
--'  20  0  ~/0x03-debugging/2-largest_number.c
-|4,39,20,0,1632053417,"~/0x03-debugging/2-largest_number.c"
--'  20  0  ~/0x03-debugging/2-largest_number.c
-|4,39,20,0,1632053385,"~/0x03-debugging/2-largest_number.c"
--'  20  0  ~/0x03-debugging/2-largest_number.c
-|4,39,20,0,1632053385,"~/0x03-debugging/2-largest_number.c"
--'  20  0  ~/0x03-debugging/2-largest_number.c
-|4,39,20,0,1632053201,"~/0x03-debugging/2-largest_number.c"
--'  20  0  ~/0x03-debugging/2-largest_number.c
-|4,39,20,0,1632053201,"~/0x03-debugging/2-largest_number.c"
--'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632053083,"~/0x03-debugging/2-largest_number.c"
--'  31  0  ~/0x03-debugging/2-largest_number.c
-|4,39,31,0,1632053083,"~/0x03-debugging/2-largest_number.c"
--'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632053083,"~/0x03-debugging/2-largest_number.c"
--'  31  0  ~/0x03-debugging/2-largest_number.c
-|4,39,31,0,1632053083,"~/0x03-debugging/2-largest_number.c"
--'  31  0  ~/0x03-debugging/2-largest_number.c
-|4,39,31,0,1632053083,"~/0x03-debugging/2-largest_number.c"
--'  31  0  ~/0x03-debugging/2-largest_number.c
-|4,39,31,0,1632053083,"~/0x03-debugging/2-largest_number.c"
--'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632053083,"~/0x03-debugging/2-largest_number.c"
--'  31  0  ~/0x03-debugging/2-largest_number.c
-|4,39,31,0,1632053083,"~/0x03-debugging/2-largest_number.c"
--'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632053083,"~/0x03-debugging/2-largest_number.c"
--'  31  0  ~/0x03-debugging/2-largest_number.c
-|4,39,31,0,1632053083,"~/0x03-debugging/2-largest_number.c"
--'  31  0  ~/0x03-debugging/2-largest_number.c
-|4,39,31,0,1632053083,"~/0x03-debugging/2-largest_number.c"
--'  31  0  ~/0x03-debugging/2-largest_number.c
-|4,39,31,0,1632053083,"~/0x03-debugging/2-largest_number.c"
--'  29  0  ~/0x03-debugging/2-largest_number.c
-|4,39,29,0,1632052896,"~/0x03-debugging/2-largest_number.c"
--'  29  0  ~/0x03-debugging/2-largest_number.c
-|4,39,29,0,1632052896,"~/0x03-debugging/2-largest_number.c"
--'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632052896,"~/0x03-debugging/2-largest_number.c"
--'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632052896,"~/0x03-debugging/2-largest_number.c"
--'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632052896,"~/0x03-debugging/2-largest_number.c"
--'  29  0  ~/0x03-debugging/2-largest_number.c
-|4,39,29,0,1632052896,"~/0x03-debugging/2-largest_number.c"
--'  29  0  ~/0x03-debugging/2-largest_number.c
-|4,39,29,0,1632052896,"~/0x03-debugging/2-largest_number.c"
--'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632052896,"~/0x03-debugging/2-largest_number.c"
--'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632052896,"~/0x03-debugging/2-largest_number.c"
--'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632052896,"~/0x03-debugging/2-largest_number.c"
--'  28  22  ~/0x03-debugging/2-largest_number.c
-|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  27  22  ~/0x03-debugging/2-largest_number.c
-|4,39,27,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  28  22  ~/0x03-debugging/2-largest_number.c
-|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  27  22  ~/0x03-debugging/2-largest_number.c
-|4,39,27,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  29  22  ~/0x03-debugging/2-largest_number.c
-|4,39,29,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  28  22  ~/0x03-debugging/2-largest_number.c
-|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  29  22  ~/0x03-debugging/2-largest_number.c
-|4,39,29,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  28  22  ~/0x03-debugging/2-largest_number.c
-|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  29  22  ~/0x03-debugging/2-largest_number.c
-|4,39,29,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  28  22  ~/0x03-debugging/2-largest_number.c
-|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  28  22  ~/0x03-debugging/2-largest_number.c
-|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  27  22  ~/0x03-debugging/2-largest_number.c
-|4,39,27,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  28  22  ~/0x03-debugging/2-largest_number.c
-|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  27  22  ~/0x03-debugging/2-largest_number.c
-|4,39,27,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  29  22  ~/0x03-debugging/2-largest_number.c
-|4,39,29,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  28  22  ~/0x03-debugging/2-largest_number.c
-|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  29  22  ~/0x03-debugging/2-largest_number.c
-|4,39,29,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  28  22  ~/0x03-debugging/2-largest_number.c
-|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  29  22  ~/0x03-debugging/2-largest_number.c
-|4,39,29,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  28  22  ~/0x03-debugging/2-largest_number.c
-|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
--'  32  12  ~/0x03-debugging/2-largest_number.c
-|4,39,32,12,1632052461,"~/0x03-debugging/2-largest_number.c"
--'  31  12  ~/0x03-debugging/2-largest_number.c
-|4,39,31,12,1632052461,"~/0x03-debugging/2-largest_number.c"
--'  32  12  ~/0x03-debugging/2-largest_number.c
-|4,39,32,12,1632052461,"~/0x03-debugging/2-largest_number.c"
--'  32  12  ~/0x03-debugging/2-largest_number.c
-|4,39,32,12,1632052461,"~/0x03-debugging/2-largest_number.c"
--'  32  12  ~/0x03-debugging/2-largest_number.c
-|4,39,32,12,1632052461,"~/0x03-debugging/2-largest_number.c"
--'  31  12  ~/0x03-debugging/2-largest_number.c
-|4,39,31,12,1632052461,"~/0x03-debugging/2-largest_number.c"
--'  32  12  ~/0x03-debugging/2-largest_number.c
-|4,39,32,12,1632052461,"~/0x03-debugging/2-largest_number.c"
--'  31  12  ~/0x03-debugging/2-largest_number.c
-|4,39,31,12,1632052461,"~/0x03-debugging/2-largest_number.c"
--'  32  12  ~/0x03-debugging/2-largest_number.c
-|4,39,32,12,1632052461,"~/0x03-debugging/2-largest_number.c"
--'  32  12  ~/0x03-debugging/2-largest_number.c
-|4,39,32,12,1632052461,"~/0x03-debugging/2-largest_number.c"
--'  32  12  ~/0x03-debugging/2-largest_number.c
-|4,39,32,12,1632052461,"~/0x03-debugging/2-largest_number.c"
--'  31  12  ~/0x03-debugging/2-largest_number.c
-|4,39,31,12,1632052461,"~/0x03-debugging/2-largest_number.c"
--'  14  62  ~/0x03-debugging/2-largest_number.c
-|4,39,14,62,1632051489,"~/0x03-debugging/2-largest_number.c"
--'  14  62  ~/0x03-debugging/2-largest_number.c
-|4,39,14,62,1632051489,"~/0x03-debugging/2-largest_number.c"
--'  15  62  ~/0x03-debugging/2-largest_number.c
-|4,39,15,62,1632051489,"~/0x03-debugging/2-largest_number.c"
--'  16  62  ~/0x03-debugging/2-largest_number.c
-|4,39,16,62,1632051489,"~/0x03-debugging/2-largest_number.c"
--'  15  62  ~/0x03-debugging/2-largest_number.c
-|4,39,15,62,1632051489,"~/0x03-debugging/2-largest_number.c"
--'  16  62  ~/0x03-debugging/2-largest_number.c
-|4,39,16,62,1632051489,"~/0x03-debugging/2-largest_number.c"
--'  15  62  ~/0x03-debugging/2-largest_number.c
-|4,39,15,62,1632051489,"~/0x03-debugging/2-largest_number.c"
--'  15  62  ~/0x03-debugging/2-largest_number.c
-|4,39,15,62,1632051489,"~/0x03-debugging/2-largest_number.c"
--'  14  62  ~/0x03-debugging/2-largest_number.c
-|4,39,14,62,1632051489,"~/0x03-debugging/2-largest_number.c"
--'  14  62  ~/0x03-debugging/2-largest_number.c
-|4,39,14,62,1632051489,"~/0x03-debugging/2-largest_number.c"
--'  15  62  ~/0x03-debugging/2-largest_number.c
-|4,39,15,62,1632051489,"~/0x03-debugging/2-largest_number.c"
--'  16  62  ~/0x03-debugging/2-largest_number.c
-|4,39,16,62,1632051489,"~/0x03-debugging/2-largest_number.c"
--'  15  62  ~/0x03-debugging/2-largest_number.c
-|4,39,15,62,1632051489,"~/0x03-debugging/2-largest_number.c"
--'  16  62  ~/0x03-debugging/2-largest_number.c
-|4,39,16,62,1632051489,"~/0x03-debugging/2-largest_number.c"
--'  15  62  ~/0x03-debugging/2-largest_number.c
-|4,39,15,62,1632051489,"~/0x03-debugging/2-largest_number.c"
--'  15  62  ~/0x03-debugging/2-largest_number.c
-|4,39,15,62,1632051489,"~/0x03-debugging/2-largest_number.c"
--'  15  62  ~/0x03-debugging/2-largest_number.c
-|4,39,15,62,1632051065,"~/0x03-debugging/2-largest_number.c"
--'  15  62  ~/0x03-debugging/2-largest_number.c
-|4,39,15,62,1632051065,"~/0x03-debugging/2-largest_number.c"
+-'  12  0  ~/0x04-more_functions_nested_loops/6-print_line.c
+|4,39,12,0,1632083757,"~/0x04-more_functions_nested_loops/6-print_line.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/6-print_line.c
+|4,39,1,0,1632083641,"~/0x04-more_functions_nested_loops/6-print_line.c"
+-'  12  0  ~/0x04-more_functions_nested_loops/5-more_numbers.c
+|4,39,12,0,1632083511,"~/0x04-more_functions_nested_loops/5-more_numbers.c"
+-'  12  0  ~/0x04-more_functions_nested_loops/5-more_numbers.c
+|4,39,12,0,1632083511,"~/0x04-more_functions_nested_loops/5-more_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/5-more_numbers.c
+|4,39,1,0,1632083321,"~/0x04-more_functions_nested_loops/5-more_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/5-more_numbers.c
+|4,39,1,0,1632083321,"~/0x04-more_functions_nested_loops/5-more_numbers.c"
+-'  11  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
+|4,39,11,0,1632083176,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
+-'  11  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
+|4,39,11,0,1632083176,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
+-'  11  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
+|4,39,11,0,1632083176,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
+-'  11  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
+|4,39,11,0,1632083176,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
+|4,39,1,0,1632083049,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
+|4,39,1,0,1632083049,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
+|4,39,1,0,1632083049,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
+|4,39,1,0,1632083049,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
+-'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
+|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
+|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x04-more_functions_nested_loops/6-print_line.c
+	*	1632083755	0
+	"	12	0
+	^	12	1
+	.	12	0
+	+	14	16
+	+	2	0
+	+	4	2
+	+	5	2
+	+	6	3
+	+	7	0
+	+	8	22
+	+	10	15
+	+	11	36
+	+	13	16
+	+	14	16
+	+	14	0
+	+	15	0
+	+	12	0
+
+> ~/0x04-more_functions_nested_loops/5-more_numbers.c
+	*	1632083510	0
+	"	12	0
+	^	12	1
+	.	12	0
+	+	20	17
+	+	2	0
+	+	4	2
+	+	5	3
+	+	6	0
+	+	7	23
+	+	8	1
+	+	9	8
+	+	10	13
+	+	11	44
+	+	13	2
+	+	14	27
+	+	15	3
+	+	16	18
+	+	17	29
+	+	18	28
+	+	19	3
+	+	20	17
+	+	21	2
+	+	12	0
+
+> ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
+	*	1632083175	0
+	"	11	0
+	^	11	1
+	.	11	0
+	+	16	16
+	+	1	17
+	+	2	0
+	+	4	2
+	+	5	3
+	+	6	0
+	+	7	29
+	+	8	1
+	+	9	8
+	+	10	29
+	+	12	2
+	+	13	27
+	+	14	15
+	+	15	2
+	+	16	16
+	+	11	0
+
+> ~/0x04-more_functions_nested_loops/3-print_numbers.c
+	*	1632082962	0
+	"	14	0
+	^	14	1
+	.	14	0
+	+	13	16
+	+	2	0
+	+	4	2
+	+	5	3
+	+	6	0
+	+	7	24
+	+	9	8
+	+	10	29
+	+	12	14
+	+	13	16
+	+	11	0
+	+	14	0
+
+> ~/0x04-more_functions_nested_loops/2-mul.c
+	*	1632082669	0
+	"	13	0
+	^	13	0
+	.	12	16
+	+	12	16
+	+	2	0
+	+	3	3
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	3
+	+	9	0
+	+	10	21
+	+	11	1
+	+	12	16
+
+> ~/0x04-more_functions_nested_loops/1-isdigit.c
+	*	1632082462	0
+	"	14	0
+	^	14	1
+	.	14	0
+	+	16	0
+	+	2	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	7	3
+	+	8	0
+	+	9	19
+	+	10	1
+	+	11	26
+	+	12	13
+	+	14	0
+
+> ~/0x04-more_functions_nested_loops/main.h
+	*	1632082259	0
+	"	191	0
+	^	191	1
+	.	1	0
+	+	191	5
+	+	1	0
+
+> ~/0x04-more_functions_nested_loops/0-main.c
+	*	1632081930	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	19	0
+	+	1	17
+	+	3	0
+	+	4	3
+	+	6	2
+	+	8	3
+	+	9	14
+	+	11	8
+	+	12	9
+	+	14	36
+	+	15	9
+	+	16	36
+	+	17	0
+	+	6	2
+	+	9	0
+	+	13	0
+
+> ~/0x04-more_functions_nested_loops/README.md
+	*	1632081368	0
+	"	1	32
+	^	1	33
+	.	2	0
+	+	1	16
+	+	2	0
+
+> ~/0x04-more_functions_nested_loops/0-isupper.c
+	*	1632081174	0
+	"	14	0
+	^	14	1
+	.	14	0
+	+	13	12
+	+	1	17
+	+	2	0
+	+	3	3
+	+	5	2
+	+	6	2
+	+	7	3
+	+	8	0
+	+	9	19
+	+	11	26
+	+	12	13
+	+	13	12
+	+	13	0
+	+	14	0
+
+> ~/0x03-debugging/3-print_remaining_days.c
+	*	1632056304	0
+	"	37	0
+	^	37	1
+	.	22	0
+	+	36	2
+	+	1	18
+	+	3	0
+	+	4	3
+	+	5	67
+	+	7	2
+	+	8	2
+	+	9	2
+	+	10	2
+	+	11	3
+	+	12	0
+	+	13	55
+	+	15	64
+	+	16	2
+	+	17	29
+	+	18	3
+	+	19	9
+	+	20	3
+	+	21	39
+	+	23	44
+	+	24	2
+	+	25	5
+	+	26	2
+	+	27	30
+	+	28	3
+	+	29	67
+	+	30	3
+	+	31	6
+	+	32	3
+	+	33	40
+	+	34	45
+	+	35	3
+	+	36	2
+	+	22	0
+
+> ~/0x03-debugging/3-convert_day.c
+	*	1632055735	0
+	"	52	0
+	^	52	0
+	.	51	14
+	+	51	14
+	+	2	0
+	+	3	3
+	+	4	73
+	+	5	16
+	+	6	33
+	+	7	21
+	+	10	0
+	+	11	35
+	+	13	15
+	+	14	2
+	+	15	9
+	+	16	18
+	+	17	9
+	+	18	9
+	+	19	18
+	+	20	9
+	+	21	9
+	+	22	18
+	+	23	9
+	+	24	9
+	+	25	19
+	+	26	9
+	+	27	9
+	+	28	19
+	+	29	9
+	+	30	9
+	+	31	19
+	+	32	9
+	+	33	9
+	+	34	19
+	+	35	9
+	+	36	9
+	+	37	19
+	+	38	9
+	+	39	10
+	+	40	19
+	+	41	9
+	+	42	10
+	+	43	19
+	+	44	9
+	+	45	10
+	+	46	19
+	+	47	9
+	+	48	10
+	+	49	9
+	+	50	2
+	+	51	14
+
+> ~/.git/COMMIT_EDITMSG
+	*	1632054890	0
+	"	1	4
+	^	1	5
+	.	2	0
+	+	1	20
+	+	2	0
+	+	1	15
+	+	2	0
+	+	1	6
+	+	2	0
+	+	1	5
+	+	2	0
+	+	1	7
+	+	2	0
+	+	1	9
+	+	2	0
+	+	1	5
+	+	2	0
 
 > ~/0x03-debugging/3-main_a.c
 	*	1632054789	0
@@ -381,25 +674,6 @@
 	+	18	0
 	+	20	0
 	+	22	0
-
-> ~/.git/COMMIT_EDITMSG
-	*	1632050319	0
-	"	1	31
-	^	1	32
-	.	1	31
-	+	1	20
-	+	2	0
-	+	1	15
-	+	2	0
-	+	1	6
-	+	2	0
-	+	1	5
-	+	2	0
-	+	1	7
-	+	2	0
-	+	1	9
-	+	2	0
-	+	1	31
 
 > ~/0x03-debugging/main.h
 	*	1632050133	0
