@@ -2,6 +2,7 @@
 
 /**
  * largest_number - returns the largest of 3 numbers
+ * main - returns the largest of three numbers 
  * @a: first integer
  * @b: second integer
  * @c: third integer
@@ -12,7 +13,7 @@ int largest_number(int a, int b, int c)
 {
 	int largest;
 
-	scanf("%d %d %d", &a,&b,&c); /*taking three numbers as input*/
+	scanf("%d %d %d", &a, &b, &c); /*taking three numbers as input*/
 
 	if (a >= b && a >= c)
 	{
