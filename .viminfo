@@ -15,9 +15,9 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1632050193,,"wq"
+|2,0,1632054790,,"wq"
 :Wq
-|2,0,1632050189,,"Wq"
+|2,0,1632050890,,"Wq"
 :q
 |2,0,1631962529,,"q"
 :wwq
@@ -40,276 +40,275 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	 
+|3,1,36,0,1,0,1632053777," "
 
 # File marks:
-'0  1  8  ~/.git/COMMIT_EDITMSG
-|4,48,1,8,1632050193,"~/.git/COMMIT_EDITMSG"
-'1  11  0  ~/0x03-debugging/main.h
-|4,49,11,0,1632050134,"~/0x03-debugging/main.h"
-'2  1  5  ~/.git/COMMIT_EDITMSG
-|4,50,1,5,1632049981,"~/.git/COMMIT_EDITMSG"
-'3  30  0  ~/0x03-debugging/2-largest_number.c
-|4,51,30,0,1632049308,"~/0x03-debugging/2-largest_number.c"
-'4  30  0  ~/0x03-debugging/2-largest_number.c
-|4,52,30,0,1632041135,"~/0x03-debugging/2-largest_number.c"
-'5  11  0  ~/0x03-debugging/main.h
-|4,53,11,0,1632040575,"~/0x03-debugging/main.h"
-'6  18  0  ~/0x03-debugging/1-main.c
-|4,54,18,0,1632040129,"~/0x03-debugging/1-main.c"
-'7  2  35  ~/0x03-debugging/README.md
-|4,55,2,35,1632038899,"~/0x03-debugging/README.md"
-'8  11  0  ~/0x03-debugging/main.h
-|4,56,11,0,1632038801,"~/0x03-debugging/main.h"
-'9  11  0  ~/0x03-debugging/main.h
-|4,57,11,0,1632038801,"~/0x03-debugging/main.h"
+'0  26  0  ~/0x03-debugging/3-main_a.c
+|4,48,26,0,1632054790,"~/0x03-debugging/3-main_a.c"
+'1  4  2  ~/0x03-debugging/2-largest_number.c
+|4,49,4,2,1632053803,"~/0x03-debugging/2-largest_number.c"
+'2  3  54  ~/0x03-debugging/2-largest_number.c
+|4,50,3,54,1632053734,"~/0x03-debugging/2-largest_number.c"
+'3  4  51  ~/0x03-debugging/2-largest_number.c
+|4,51,4,51,1632053734,"~/0x03-debugging/2-largest_number.c"
+'4  15  24  ~/0x03-debugging/2-largest_number.c
+|4,52,15,24,1632053540,"~/0x03-debugging/2-largest_number.c"
+'5  16  24  ~/0x03-debugging/2-largest_number.c
+|4,53,16,24,1632053540,"~/0x03-debugging/2-largest_number.c"
+'6  15  24  ~/0x03-debugging/2-largest_number.c
+|4,54,15,24,1632053540,"~/0x03-debugging/2-largest_number.c"
+'7  16  24  ~/0x03-debugging/2-largest_number.c
+|4,55,16,24,1632053540,"~/0x03-debugging/2-largest_number.c"
+'8  19  0  ~/0x03-debugging/2-largest_number.c
+|4,56,19,0,1632053385,"~/0x03-debugging/2-largest_number.c"
+'9  19  0  ~/0x03-debugging/2-largest_number.c
+|4,57,19,0,1632053385,"~/0x03-debugging/2-largest_number.c"
 
 # Jumplist (newest first):
--'  1  8  ~/.git/COMMIT_EDITMSG
-|4,39,1,8,1632050193,"~/.git/COMMIT_EDITMSG"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632050134,"~/0x03-debugging/main.h"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632050134,"~/0x03-debugging/main.h"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1632049981,"~/.git/COMMIT_EDITMSG"
--'  1  5  ~/.git/COMMIT_EDITMSG
-|4,39,1,5,1632049981,"~/.git/COMMIT_EDITMSG"
+-'  26  0  ~/0x03-debugging/3-main_a.c
+|4,39,26,0,1632054790,"~/0x03-debugging/3-main_a.c"
+-'  1  0  ~/0x03-debugging/3-main_a.c
+|4,39,1,0,1632054568,"~/0x03-debugging/3-main_a.c"
+-'  4  2  ~/0x03-debugging/2-largest_number.c
+|4,39,4,2,1632053803,"~/0x03-debugging/2-largest_number.c"
+-'  4  2  ~/0x03-debugging/2-largest_number.c
+|4,39,4,2,1632053803,"~/0x03-debugging/2-largest_number.c"
+-'  3  54  ~/0x03-debugging/2-largest_number.c
+|4,39,3,54,1632053768,"~/0x03-debugging/2-largest_number.c"
+-'  3  54  ~/0x03-debugging/2-largest_number.c
+|4,39,3,54,1632053768,"~/0x03-debugging/2-largest_number.c"
+-'  4  51  ~/0x03-debugging/2-largest_number.c
+|4,39,4,51,1632053734,"~/0x03-debugging/2-largest_number.c"
+-'  4  51  ~/0x03-debugging/2-largest_number.c
+|4,39,4,51,1632053734,"~/0x03-debugging/2-largest_number.c"
+-'  15  24  ~/0x03-debugging/2-largest_number.c
+|4,39,15,24,1632053699,"~/0x03-debugging/2-largest_number.c"
+-'  15  24  ~/0x03-debugging/2-largest_number.c
+|4,39,15,24,1632053699,"~/0x03-debugging/2-largest_number.c"
+-'  15  24  ~/0x03-debugging/2-largest_number.c
+|4,39,15,24,1632053699,"~/0x03-debugging/2-largest_number.c"
+-'  15  24  ~/0x03-debugging/2-largest_number.c
+|4,39,15,24,1632053699,"~/0x03-debugging/2-largest_number.c"
+-'  16  24  ~/0x03-debugging/2-largest_number.c
+|4,39,16,24,1632053540,"~/0x03-debugging/2-largest_number.c"
+-'  16  24  ~/0x03-debugging/2-largest_number.c
+|4,39,16,24,1632053540,"~/0x03-debugging/2-largest_number.c"
+-'  16  24  ~/0x03-debugging/2-largest_number.c
+|4,39,16,24,1632053540,"~/0x03-debugging/2-largest_number.c"
+-'  16  24  ~/0x03-debugging/2-largest_number.c
+|4,39,16,24,1632053540,"~/0x03-debugging/2-largest_number.c"
+-'  19  0  ~/0x03-debugging/2-largest_number.c
+|4,39,19,0,1632053417,"~/0x03-debugging/2-largest_number.c"
+-'  20  0  ~/0x03-debugging/2-largest_number.c
+|4,39,20,0,1632053417,"~/0x03-debugging/2-largest_number.c"
+-'  19  0  ~/0x03-debugging/2-largest_number.c
+|4,39,19,0,1632053417,"~/0x03-debugging/2-largest_number.c"
+-'  20  0  ~/0x03-debugging/2-largest_number.c
+|4,39,20,0,1632053417,"~/0x03-debugging/2-largest_number.c"
+-'  19  0  ~/0x03-debugging/2-largest_number.c
+|4,39,19,0,1632053417,"~/0x03-debugging/2-largest_number.c"
+-'  20  0  ~/0x03-debugging/2-largest_number.c
+|4,39,20,0,1632053417,"~/0x03-debugging/2-largest_number.c"
+-'  19  0  ~/0x03-debugging/2-largest_number.c
+|4,39,19,0,1632053417,"~/0x03-debugging/2-largest_number.c"
+-'  20  0  ~/0x03-debugging/2-largest_number.c
+|4,39,20,0,1632053417,"~/0x03-debugging/2-largest_number.c"
+-'  20  0  ~/0x03-debugging/2-largest_number.c
+|4,39,20,0,1632053385,"~/0x03-debugging/2-largest_number.c"
+-'  20  0  ~/0x03-debugging/2-largest_number.c
+|4,39,20,0,1632053385,"~/0x03-debugging/2-largest_number.c"
+-'  20  0  ~/0x03-debugging/2-largest_number.c
+|4,39,20,0,1632053201,"~/0x03-debugging/2-largest_number.c"
+-'  20  0  ~/0x03-debugging/2-largest_number.c
+|4,39,20,0,1632053201,"~/0x03-debugging/2-largest_number.c"
 -'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632049308,"~/0x03-debugging/2-largest_number.c"
+|4,39,30,0,1632053083,"~/0x03-debugging/2-largest_number.c"
+-'  31  0  ~/0x03-debugging/2-largest_number.c
+|4,39,31,0,1632053083,"~/0x03-debugging/2-largest_number.c"
 -'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632049308,"~/0x03-debugging/2-largest_number.c"
+|4,39,30,0,1632053083,"~/0x03-debugging/2-largest_number.c"
+-'  31  0  ~/0x03-debugging/2-largest_number.c
+|4,39,31,0,1632053083,"~/0x03-debugging/2-largest_number.c"
+-'  31  0  ~/0x03-debugging/2-largest_number.c
+|4,39,31,0,1632053083,"~/0x03-debugging/2-largest_number.c"
+-'  31  0  ~/0x03-debugging/2-largest_number.c
+|4,39,31,0,1632053083,"~/0x03-debugging/2-largest_number.c"
 -'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632049308,"~/0x03-debugging/2-largest_number.c"
+|4,39,30,0,1632053083,"~/0x03-debugging/2-largest_number.c"
+-'  31  0  ~/0x03-debugging/2-largest_number.c
+|4,39,31,0,1632053083,"~/0x03-debugging/2-largest_number.c"
 -'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632049308,"~/0x03-debugging/2-largest_number.c"
+|4,39,30,0,1632053083,"~/0x03-debugging/2-largest_number.c"
+-'  31  0  ~/0x03-debugging/2-largest_number.c
+|4,39,31,0,1632053083,"~/0x03-debugging/2-largest_number.c"
+-'  31  0  ~/0x03-debugging/2-largest_number.c
+|4,39,31,0,1632053083,"~/0x03-debugging/2-largest_number.c"
+-'  31  0  ~/0x03-debugging/2-largest_number.c
+|4,39,31,0,1632053083,"~/0x03-debugging/2-largest_number.c"
+-'  29  0  ~/0x03-debugging/2-largest_number.c
+|4,39,29,0,1632052896,"~/0x03-debugging/2-largest_number.c"
+-'  29  0  ~/0x03-debugging/2-largest_number.c
+|4,39,29,0,1632052896,"~/0x03-debugging/2-largest_number.c"
 -'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632049308,"~/0x03-debugging/2-largest_number.c"
+|4,39,30,0,1632052896,"~/0x03-debugging/2-largest_number.c"
 -'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632049308,"~/0x03-debugging/2-largest_number.c"
+|4,39,30,0,1632052896,"~/0x03-debugging/2-largest_number.c"
 -'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632049308,"~/0x03-debugging/2-largest_number.c"
+|4,39,30,0,1632052896,"~/0x03-debugging/2-largest_number.c"
+-'  29  0  ~/0x03-debugging/2-largest_number.c
+|4,39,29,0,1632052896,"~/0x03-debugging/2-largest_number.c"
+-'  29  0  ~/0x03-debugging/2-largest_number.c
+|4,39,29,0,1632052896,"~/0x03-debugging/2-largest_number.c"
 -'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632049308,"~/0x03-debugging/2-largest_number.c"
+|4,39,30,0,1632052896,"~/0x03-debugging/2-largest_number.c"
 -'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632041135,"~/0x03-debugging/2-largest_number.c"
+|4,39,30,0,1632052896,"~/0x03-debugging/2-largest_number.c"
 -'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632041135,"~/0x03-debugging/2-largest_number.c"
--'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632041135,"~/0x03-debugging/2-largest_number.c"
--'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632041135,"~/0x03-debugging/2-largest_number.c"
--'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632041135,"~/0x03-debugging/2-largest_number.c"
--'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632041135,"~/0x03-debugging/2-largest_number.c"
--'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632041135,"~/0x03-debugging/2-largest_number.c"
--'  30  0  ~/0x03-debugging/2-largest_number.c
-|4,39,30,0,1632041135,"~/0x03-debugging/2-largest_number.c"
--'  1  0  ~/0x03-debugging/2-largest_number.c
-|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
--'  1  0  ~/0x03-debugging/2-largest_number.c
-|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
--'  1  0  ~/0x03-debugging/2-largest_number.c
-|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
--'  1  0  ~/0x03-debugging/2-largest_number.c
-|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
--'  1  0  ~/0x03-debugging/2-largest_number.c
-|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
--'  1  0  ~/0x03-debugging/2-largest_number.c
-|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
--'  1  0  ~/0x03-debugging/2-largest_number.c
-|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
--'  1  0  ~/0x03-debugging/2-largest_number.c
-|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
--'  1  0  ~/0x03-debugging/2-largest_number.c
-|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
--'  1  0  ~/0x03-debugging/2-largest_number.c
-|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
--'  1  0  ~/0x03-debugging/2-largest_number.c
-|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
--'  1  0  ~/0x03-debugging/2-largest_number.c
-|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
--'  1  0  ~/0x03-debugging/2-largest_number.c
-|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
--'  1  0  ~/0x03-debugging/2-largest_number.c
-|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
--'  1  0  ~/0x03-debugging/2-largest_number.c
-|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
--'  1  0  ~/0x03-debugging/2-largest_number.c
-|4,39,1,0,1632040597,"~/0x03-debugging/2-largest_number.c"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
--'  11  0  ~/0x03-debugging/main.h
-|4,39,11,0,1632040575,"~/0x03-debugging/main.h"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
--'  18  0  ~/0x03-debugging/1-main.c
-|4,39,18,0,1632040129,"~/0x03-debugging/1-main.c"
+|4,39,30,0,1632052896,"~/0x03-debugging/2-largest_number.c"
+-'  28  22  ~/0x03-debugging/2-largest_number.c
+|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  27  22  ~/0x03-debugging/2-largest_number.c
+|4,39,27,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  28  22  ~/0x03-debugging/2-largest_number.c
+|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  27  22  ~/0x03-debugging/2-largest_number.c
+|4,39,27,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  29  22  ~/0x03-debugging/2-largest_number.c
+|4,39,29,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  28  22  ~/0x03-debugging/2-largest_number.c
+|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  29  22  ~/0x03-debugging/2-largest_number.c
+|4,39,29,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  28  22  ~/0x03-debugging/2-largest_number.c
+|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  29  22  ~/0x03-debugging/2-largest_number.c
+|4,39,29,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  28  22  ~/0x03-debugging/2-largest_number.c
+|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  28  22  ~/0x03-debugging/2-largest_number.c
+|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  27  22  ~/0x03-debugging/2-largest_number.c
+|4,39,27,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  28  22  ~/0x03-debugging/2-largest_number.c
+|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  27  22  ~/0x03-debugging/2-largest_number.c
+|4,39,27,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  29  22  ~/0x03-debugging/2-largest_number.c
+|4,39,29,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  28  22  ~/0x03-debugging/2-largest_number.c
+|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  29  22  ~/0x03-debugging/2-largest_number.c
+|4,39,29,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  28  22  ~/0x03-debugging/2-largest_number.c
+|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  29  22  ~/0x03-debugging/2-largest_number.c
+|4,39,29,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  28  22  ~/0x03-debugging/2-largest_number.c
+|4,39,28,22,1632052818,"~/0x03-debugging/2-largest_number.c"
+-'  32  12  ~/0x03-debugging/2-largest_number.c
+|4,39,32,12,1632052461,"~/0x03-debugging/2-largest_number.c"
+-'  31  12  ~/0x03-debugging/2-largest_number.c
+|4,39,31,12,1632052461,"~/0x03-debugging/2-largest_number.c"
+-'  32  12  ~/0x03-debugging/2-largest_number.c
+|4,39,32,12,1632052461,"~/0x03-debugging/2-largest_number.c"
+-'  32  12  ~/0x03-debugging/2-largest_number.c
+|4,39,32,12,1632052461,"~/0x03-debugging/2-largest_number.c"
+-'  32  12  ~/0x03-debugging/2-largest_number.c
+|4,39,32,12,1632052461,"~/0x03-debugging/2-largest_number.c"
+-'  31  12  ~/0x03-debugging/2-largest_number.c
+|4,39,31,12,1632052461,"~/0x03-debugging/2-largest_number.c"
+-'  32  12  ~/0x03-debugging/2-largest_number.c
+|4,39,32,12,1632052461,"~/0x03-debugging/2-largest_number.c"
+-'  31  12  ~/0x03-debugging/2-largest_number.c
+|4,39,31,12,1632052461,"~/0x03-debugging/2-largest_number.c"
+-'  32  12  ~/0x03-debugging/2-largest_number.c
+|4,39,32,12,1632052461,"~/0x03-debugging/2-largest_number.c"
+-'  32  12  ~/0x03-debugging/2-largest_number.c
+|4,39,32,12,1632052461,"~/0x03-debugging/2-largest_number.c"
+-'  32  12  ~/0x03-debugging/2-largest_number.c
+|4,39,32,12,1632052461,"~/0x03-debugging/2-largest_number.c"
+-'  31  12  ~/0x03-debugging/2-largest_number.c
+|4,39,31,12,1632052461,"~/0x03-debugging/2-largest_number.c"
+-'  14  62  ~/0x03-debugging/2-largest_number.c
+|4,39,14,62,1632051489,"~/0x03-debugging/2-largest_number.c"
+-'  14  62  ~/0x03-debugging/2-largest_number.c
+|4,39,14,62,1632051489,"~/0x03-debugging/2-largest_number.c"
+-'  15  62  ~/0x03-debugging/2-largest_number.c
+|4,39,15,62,1632051489,"~/0x03-debugging/2-largest_number.c"
+-'  16  62  ~/0x03-debugging/2-largest_number.c
+|4,39,16,62,1632051489,"~/0x03-debugging/2-largest_number.c"
+-'  15  62  ~/0x03-debugging/2-largest_number.c
+|4,39,15,62,1632051489,"~/0x03-debugging/2-largest_number.c"
+-'  16  62  ~/0x03-debugging/2-largest_number.c
+|4,39,16,62,1632051489,"~/0x03-debugging/2-largest_number.c"
+-'  15  62  ~/0x03-debugging/2-largest_number.c
+|4,39,15,62,1632051489,"~/0x03-debugging/2-largest_number.c"
+-'  15  62  ~/0x03-debugging/2-largest_number.c
+|4,39,15,62,1632051489,"~/0x03-debugging/2-largest_number.c"
+-'  14  62  ~/0x03-debugging/2-largest_number.c
+|4,39,14,62,1632051489,"~/0x03-debugging/2-largest_number.c"
+-'  14  62  ~/0x03-debugging/2-largest_number.c
+|4,39,14,62,1632051489,"~/0x03-debugging/2-largest_number.c"
+-'  15  62  ~/0x03-debugging/2-largest_number.c
+|4,39,15,62,1632051489,"~/0x03-debugging/2-largest_number.c"
+-'  16  62  ~/0x03-debugging/2-largest_number.c
+|4,39,16,62,1632051489,"~/0x03-debugging/2-largest_number.c"
+-'  15  62  ~/0x03-debugging/2-largest_number.c
+|4,39,15,62,1632051489,"~/0x03-debugging/2-largest_number.c"
+-'  16  62  ~/0x03-debugging/2-largest_number.c
+|4,39,16,62,1632051489,"~/0x03-debugging/2-largest_number.c"
+-'  15  62  ~/0x03-debugging/2-largest_number.c
+|4,39,15,62,1632051489,"~/0x03-debugging/2-largest_number.c"
+-'  15  62  ~/0x03-debugging/2-largest_number.c
+|4,39,15,62,1632051489,"~/0x03-debugging/2-largest_number.c"
+-'  15  62  ~/0x03-debugging/2-largest_number.c
+|4,39,15,62,1632051065,"~/0x03-debugging/2-largest_number.c"
+-'  15  62  ~/0x03-debugging/2-largest_number.c
+|4,39,15,62,1632051065,"~/0x03-debugging/2-largest_number.c"
 
 # History of marks within files (newest to oldest):
 
-> ~/.git/COMMIT_EDITMSG
-	*	1632050191	0
-	"	1	8
-	^	1	9
-	.	2	0
-	+	1	20
-	+	2	0
-	+	1	15
-	+	2	0
-	+	1	6
-	+	2	0
-	+	1	5
-	+	2	0
-	+	1	7
-	+	2	0
-	+	1	9
-	+	2	0
-
-> ~/0x03-debugging/main.h
-	*	1632050133	0
-	"	11	0
-	^	11	0
-	.	10	0
-	+	1	211
-	+	1	155
-	+	1	119
-	+	1	79
-	+	1	46
-	+	1	28
-	+	1	14
+> ~/0x03-debugging/3-main_a.c
+	*	1632054789	0
+	"	26	0
+	^	26	1
+	.	26	0
+	+	25	12
+	+	1	18
 	+	3	0
-	+	5	0
-	+	10	0
+	+	4	3
+	+	6	2
+	+	7	2
+	+	8	3
+	+	9	0
+	+	10	14
+	+	12	11
+	+	13	9
+	+	14	10
+	+	15	11
+	+	17	10
+	+	18	13
+	+	19	52
+	+	21	31
+	+	23	40
+	+	25	12
+	+	16	0
+	+	20	0
+	+	22	0
+	+	24	0
+	+	26	0
 
 > ~/0x03-debugging/2-largest_number.c
-	*	1632049305	0
-	"	30	0
-	^	30	1
-	.	30	0
-	+	29	18
+	*	1632053801	0
+	"	4	2
+	^	4	3
+	.	3	3
+	+	28	20
 	+	2	0
 	+	3	3
-	+	5	2
+	+	3	57
 	+	6	2
 	+	7	2
 	+	8	2
@@ -328,12 +327,95 @@
 	+	24	2
 	+	25	5
 	+	26	2
-	+	27	43
+	+	26	45
 	+	28	2
-	+	29	18
+	+	28	20
 	+	15	0
 	+	17	0
+	+	28	2
+	+	15	62
+	+	19	29
+	+	23	30
+	+	26	2
+	+	27	13
+	+	25	25
+	+	23	10
+	+	19	13
+	+	28	10
+	+	28	26
+	+	25	22
+	+	21	13
+	+	17	17
+	+	28	22
+	+	25	13
+	+	21	23
+	+	17	8
 	+	30	0
+	+	5	3
+	+	3	55
+	+	15	25
+	+	3	3
+
+> ~/0x03-debugging/2-main.c
+	*	1632050898	0
+	"	22	0
+	^	22	1
+	.	22	0
+	+	21	12
+	+	1	18
+	+	3	0
+	+	4	3
+	+	6	2
+	+	7	3
+	+	8	0
+	+	9	14
+	+	11	13
+	+	12	13
+	+	13	9
+	+	15	9
+	+	16	7
+	+	17	35
+	+	19	47
+	+	21	12
+	+	14	0
+	+	18	0
+	+	20	0
+	+	22	0
+
+> ~/.git/COMMIT_EDITMSG
+	*	1632050319	0
+	"	1	31
+	^	1	32
+	.	1	31
+	+	1	20
+	+	2	0
+	+	1	15
+	+	2	0
+	+	1	6
+	+	2	0
+	+	1	5
+	+	2	0
+	+	1	7
+	+	2	0
+	+	1	9
+	+	2	0
+	+	1	31
+
+> ~/0x03-debugging/main.h
+	*	1632050133	0
+	"	11	0
+	^	11	0
+	.	10	0
+	+	1	211
+	+	1	155
+	+	1	119
+	+	1	79
+	+	1	46
+	+	1	28
+	+	1	14
+	+	3	0
+	+	5	0
+	+	10	0
 
 > ~/0x03-debugging/1-main.c
 	*	1632040128	0
