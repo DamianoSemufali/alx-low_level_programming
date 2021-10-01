@@ -11,8 +11,8 @@ void print_rev(char *s)
 {
 	int i;
 	int largo;
-	largo = 0;
 
+	largo = 0;
 	for (i = 0; s[i] != '\0'; i++)
 	{
 		largo++;
