@@ -15,11 +15,13 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1632083757,,"wq"
+|2,0,1633046380,,"wq"
+:Wq
+|2,0,1632799305,,"Wq"
+:wQ
+|2,0,1632797697,,"wQ"
 :wwq
 |2,0,1632082259,,"wwq"
-:Wq
-|2,0,1632050890,,"Wq"
 :q
 |2,0,1631962529,,"q"
 :q!
@@ -45,230 +47,502 @@
 |3,1,36,0,1,0,1632053777," "
 
 # File marks:
-'0  12  0  ~/0x04-more_functions_nested_loops/6-print_line.c
-|4,48,12,0,1632083757,"~/0x04-more_functions_nested_loops/6-print_line.c"
-'1  12  0  ~/0x04-more_functions_nested_loops/5-more_numbers.c
-|4,49,12,0,1632083511,"~/0x04-more_functions_nested_loops/5-more_numbers.c"
-'2  11  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
-|4,50,11,0,1632083176,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
-'3  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,51,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
-'4  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,52,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
-'5  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,53,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
-'6  14  0  ~/0x04-more_functions_nested_loops/1-isdigit.c
-|4,54,14,0,1632082463,"~/0x04-more_functions_nested_loops/1-isdigit.c"
-'7  191  0  ~/0x04-more_functions_nested_loops/main.h
-|4,55,191,0,1632082262,"~/0x04-more_functions_nested_loops/main.h"
-'8  13  0  ~/0x04-more_functions_nested_loops/0-main.c
-|4,56,13,0,1632081931,"~/0x04-more_functions_nested_loops/0-main.c"
-'9  191  5  ~/0x04-more_functions_nested_loops/main.h
-|4,57,191,5,1632081422,"~/0x04-more_functions_nested_loops/main.h"
+'0  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,48,11,0,1633046380,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+'1  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,49,11,0,1633045952,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+'2  13  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,50,13,0,1632799451,"~/0x05-pointers_arrays_strings/1-swap.c"
+'3  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,51,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
+'4  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,52,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
+'5  187  5  ~/0x05-pointers_arrays_strings/main.h
+|4,53,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+'6  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,54,11,0,1632797894,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+'7  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,55,11,0,1632797894,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+'8  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,56,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+'9  10  10  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,57,10,10,1632797651,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
 
 # Jumplist (newest first):
--'  12  0  ~/0x04-more_functions_nested_loops/6-print_line.c
-|4,39,12,0,1632083757,"~/0x04-more_functions_nested_loops/6-print_line.c"
--'  1  0  ~/0x04-more_functions_nested_loops/6-print_line.c
-|4,39,1,0,1632083641,"~/0x04-more_functions_nested_loops/6-print_line.c"
--'  12  0  ~/0x04-more_functions_nested_loops/5-more_numbers.c
-|4,39,12,0,1632083511,"~/0x04-more_functions_nested_loops/5-more_numbers.c"
--'  12  0  ~/0x04-more_functions_nested_loops/5-more_numbers.c
-|4,39,12,0,1632083511,"~/0x04-more_functions_nested_loops/5-more_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/5-more_numbers.c
-|4,39,1,0,1632083321,"~/0x04-more_functions_nested_loops/5-more_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/5-more_numbers.c
-|4,39,1,0,1632083321,"~/0x04-more_functions_nested_loops/5-more_numbers.c"
--'  11  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
-|4,39,11,0,1632083176,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
--'  11  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
-|4,39,11,0,1632083176,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
--'  11  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
-|4,39,11,0,1632083176,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
--'  11  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
-|4,39,11,0,1632083176,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
-|4,39,1,0,1632083049,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
-|4,39,1,0,1632083049,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
-|4,39,1,0,1632083049,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
-|4,39,1,0,1632083049,"~/0x04-more_functions_nested_loops/4-print_most_numbers.c"
--'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,14,0,1632082964,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  14  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,14,0,1632082878,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  1  0  ~/0x04-more_functions_nested_loops/3-print_numbers.c
-|4,39,1,0,1632082760,"~/0x04-more_functions_nested_loops/3-print_numbers.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  13  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,13,0,1632082669,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
--'  1  0  ~/0x04-more_functions_nested_loops/2-mul.c
-|4,39,1,0,1632082589,"~/0x04-more_functions_nested_loops/2-mul.c"
+-'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,11,0,1633046380,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,11,0,1633045952,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  13  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,13,0,1632799451,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  13  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,13,0,1632799451,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  13  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,13,0,1632799451,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  13  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,13,0,1632799451,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,11,0,1632799422,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,11,0,1632799422,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,11,0,1632799422,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,11,0,1632799422,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
+|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
+-'  187  5  ~/0x05-pointers_arrays_strings/main.h
+|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+-'  187  5  ~/0x05-pointers_arrays_strings/main.h
+|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+-'  187  5  ~/0x05-pointers_arrays_strings/main.h
+|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+-'  187  5  ~/0x05-pointers_arrays_strings/main.h
+|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+-'  187  5  ~/0x05-pointers_arrays_strings/main.h
+|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+-'  187  5  ~/0x05-pointers_arrays_strings/main.h
+|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+-'  187  5  ~/0x05-pointers_arrays_strings/main.h
+|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+-'  187  5  ~/0x05-pointers_arrays_strings/main.h
+|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+-'  187  5  ~/0x05-pointers_arrays_strings/main.h
+|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+-'  187  5  ~/0x05-pointers_arrays_strings/main.h
+|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+-'  187  5  ~/0x05-pointers_arrays_strings/main.h
+|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+-'  187  5  ~/0x05-pointers_arrays_strings/main.h
+|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+-'  187  5  ~/0x05-pointers_arrays_strings/main.h
+|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+-'  187  5  ~/0x05-pointers_arrays_strings/main.h
+|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+-'  187  5  ~/0x05-pointers_arrays_strings/main.h
+|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+-'  187  5  ~/0x05-pointers_arrays_strings/main.h
+|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1632797997,"~/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1632797997,"~/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1632797997,"~/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1632797997,"~/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1632797997,"~/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1632797997,"~/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1632797997,"~/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1632797997,"~/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1632797997,"~/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1632797997,"~/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1632797997,"~/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1632797997,"~/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1632797997,"~/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1632797997,"~/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1632797997,"~/0x05-pointers_arrays_strings/main.h"
+-'  1  0  ~/0x05-pointers_arrays_strings/main.h
+|4,39,1,0,1632797997,"~/0x05-pointers_arrays_strings/main.h"
+-'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,11,0,1632797894,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,11,0,1632797894,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,11,0,1632797894,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,11,0,1632797894,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,11,0,1632797894,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,11,0,1632797894,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,11,0,1632797894,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,11,0,1632797894,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  10  10  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,10,10,1632797803,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  10  10  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,10,10,1632797803,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  10  10  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,10,10,1632797803,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  10  10  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,10,10,1632797803,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  10  10  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,10,10,1632797803,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  10  10  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,10,10,1632797803,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  10  10  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,10,10,1632797803,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  10  10  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,10,10,1632797803,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  10  10  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,10,10,1632797803,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  10  10  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+|4,39,10,10,1632797803,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
+-'  3  10  ~/0x05-pointers_arrays_strings/README.md
+|4,39,3,10,1632797704,"~/0x05-pointers_arrays_strings/README.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x05-pointers_arrays_strings/0-reset_to_98.c
+	*	1633046378	0
+	"	11	0
+	^	11	1
+	.	11	0
+	+	10	10
+	+	2	0
+	+	3	3
+	+	5	2
+	+	6	2
+	+	7	3
+	+	8	0
+	+	9	24
+	+	10	10
+	+	10	1
+	+	11	0
+
+> ~/0x05-pointers_arrays_strings/1-swap.c
+	*	1632799449	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	17	0
+	+	2	0
+	+	3	3
+	+	5	2
+	+	6	2
+	+	7	3
+	+	8	0
+	+	9	29
+	+	10	1
+	+	10	10
+	+	12	10
+	+	14	9
+	+	15	0
+	+	11	9
+	+	12	0
+	+	13	0
+
+> ~/0x05-pointers_arrays_strings/main.h
+	*	1632798044	0
+	"	187	5
+	^	187	6
+	.	187	5
+	+	187	5
+
+> ~/0x05-pointers_arrays_strings/README.md
+	*	1632797699	0
+	"	3	10
+	^	3	11
+	.	3	10
+	+	3	10
+
+> ~/0x04-more_functions_nested_loops/101-print_number.c
+	*	1632086048	0
+	"	27	1
+	^	27	2
+	.	27	0
+	+	34	2
+	+	2	0
+	+	4	2
+	+	5	2
+	+	6	3
+	+	7	0
+	+	8	24
+	+	9	1
+	+	10	40
+	+	11	18
+	+	12	12
+	+	14	16
+	+	15	5
+	+	15	7
+	+	15	8
+	+	15	5
+	+	16	2
+	+	17	12
+	+	18	3
+	+	19	21
+	+	20	17
+	+	21	3
+	+	22	27
+	+	24	15
+	+	25	20
+	+	26	19
+	+	28	3
+	+	29	27
+	+	30	25
+	+	31	42
+	+	32	14
+	+	33	3
+	+	34	2
+	+	13	0
+	+	23	0
+	+	27	0
+
+> ~/0x04-more_functions_nested_loops/100-prime_factor.c
+	*	1632085639	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	24	12
+	+	1	18
+	+	2	0
+	+	4	2
+	+	5	2
+	+	6	3
+	+	7	0
+	+	8	14
+	+	9	1
+	+	10	34
+	+	11	27
+	+	12	22
+	+	14	2
+	+	15	25
+	+	16	3
+	+	17	18
+	+	18	15
+	+	19	3
+	+	20	6
+	+	21	13
+	+	22	2
+	+	23	22
+	+	24	12
+	+	13	0
+
+> ~/0x04-more_functions_nested_loops/10-print_triangle.c
+	*	1632085284	0
+	"	25	1
+	^	25	2
+	.	25	0
+	+	26	21
+	+	2	0
+	+	4	2
+	+	5	2
+	+	6	3
+	+	7	0
+	+	8	29
+	+	10	12
+	+	11	11
+	+	12	10
+	+	13	15
+	+	15	17
+	+	16	43
+	+	18	2
+	+	19	52
+	+	20	17
+	+	21	40
+	+	23	17
+	+	24	17
+	+	26	2
+	+	14	0
+	+	17	0
+	+	22	0
+	+	25	0
+
+> ~/0x04-more_functions_nested_loops/9-fizz_buzz.c
+	*	1632084927	0
+	"	26	1
+	^	26	2
+	.	26	0
+	+	30	12
+	+	2	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	2
+	+	9	3
+	+	10	0
+	+	10	15
+	+	10	0
+	+	11	14
+	+	13	7
+	+	14	27
+	+	16	2
+	+	17	31
+	+	18	22
+	+	19	22
+	+	20	18
+	+	21	22
+	+	22	18
+	+	23	6
+	+	24	19
+	+	24	33
+	+	27	15
+	+	28	2
+	+	29	14
+	+	30	12
+	+	15	0
+	+	26	0
+
+> ~/0x04-more_functions_nested_loops/8-print_square.c
+	*	1632084563	0
+	"	12	0
+	^	12	1
+	.	12	0
+	+	24	17
+	+	2	0
+	+	4	2
+	+	5	2
+	+	6	3
+	+	7	0
+	+	8	27
+	+	9	1
+	+	10	17
+	+	11	14
+	+	13	2
+	+	14	35
+	+	15	3
+	+	16	45
+	+	17	4
+	+	18	18
+	+	19	4
+	+	20	18
+	+	21	3
+	+	22	2
+	+	23	5
+	+	24	17
+	+	12	0
+
+> ~/0x04-more_functions_nested_loops/7-print_diagonal.c
+	*	1632084216	0
+	"	23	0
+	^	23	1
+	.	13	0
+	+	24	17
+	+	1	17
+	+	2	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	5	2
+	+	6	3
+	+	7	0
+	+	8	26
+	+	10	10
+	+	11	11
+	+	12	11
+	+	14	2
+	+	15	35
+	+	16	3
+	+	17	41
+	+	18	18
+	+	19	18
+	+	20	18
+	+	21	3
+	+	22	2
+	+	23	5
+	+	24	17
+	+	13	0
+
+> ~/.git/COMMIT_EDITMSG
+	*	1632083878	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	20
+	+	2	0
+	+	1	15
+	+	2	0
+	+	1	6
+	+	2	0
+	+	1	5
+	+	2	0
+	+	1	7
+	+	2	0
+	+	1	9
+	+	2	0
+	+	1	5
+	+	2	0
+	+	1	4
 
 > ~/0x04-more_functions_nested_loops/6-print_line.c
 	*	1632083755	0
@@ -542,26 +816,6 @@
 	+	49	9
 	+	50	2
 	+	51	14
-
-> ~/.git/COMMIT_EDITMSG
-	*	1632054890	0
-	"	1	4
-	^	1	5
-	.	2	0
-	+	1	20
-	+	2	0
-	+	1	15
-	+	2	0
-	+	1	6
-	+	2	0
-	+	1	5
-	+	2	0
-	+	1	7
-	+	2	0
-	+	1	9
-	+	2	0
-	+	1	5
-	+	2	0
 
 > ~/0x03-debugging/3-main_a.c
 	*	1632054789	0
