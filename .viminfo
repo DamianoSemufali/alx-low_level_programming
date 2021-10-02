@@ -15,9 +15,11 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1633046483,,"wq"
+|2,0,1633156332,,"wq"
 :Wq
-|2,0,1632799305,,"Wq"
+|2,0,1633155994,,"Wq"
+::wq
+|2,0,1633046942,,":wq"
 :wQ
 |2,0,1632797697,,"wQ"
 :wwq
@@ -47,230 +49,606 @@
 |3,1,36,0,1,0,1632053777," "
 
 # File marks:
-'0  13  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,48,13,0,1633046483,"~/0x05-pointers_arrays_strings/1-swap.c"
-'1  1  4  ~/.git/COMMIT_EDITMSG
-|4,49,1,4,1633046416,"~/.git/COMMIT_EDITMSG"
-'2  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
-|4,50,11,0,1633046380,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
-'3  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
-|4,51,11,0,1633045952,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
-'4  13  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,52,13,0,1632799451,"~/0x05-pointers_arrays_strings/1-swap.c"
-'5  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,53,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
-'6  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,54,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
-'7  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,55,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
-'8  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,56,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
-'9  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,57,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+'0  1  45  ~/0x06-pointers_arrays_strings/README.md
+|4,48,1,45,1633156332,"~/0x06-pointers_arrays_strings/README.md"
+'1  1  0  ~/.git/MERGE_MSG
+|4,49,1,0,1633156202,"~/.git/MERGE_MSG"
+'2  1  0  ~/0x06-pointers_arrays_strings/0-strcat.c
+|4,50,1,0,1633155999,"~/0x06-pointers_arrays_strings/0-strcat.c"
+'3  1  0  ~/0x06-pointers_arrays_strings/0-strcat.c
+|4,51,1,0,1633155846,"~/0x06-pointers_arrays_strings/0-strcat.c"
+'4  1  0  ~/0x06-pointers_arrays_strings/0-strcat.c
+|4,52,1,0,1633154585,"~/0x06-pointers_arrays_strings/0-strcat.c"
+'5  1  0  ~/0x06-pointers_arrays_strings/0-strcat.c
+|4,53,1,0,1633154585,"~/0x06-pointers_arrays_strings/0-strcat.c"
+'6  25  0  ~/0-strcat.c
+|4,54,25,0,1633154512,"~/0-strcat.c"
+'7  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,55,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+'8  23  0  ~/0x05-pointers_arrays_strings/100-atoi.c
+|4,56,23,0,1633049600,"~/0x05-pointers_arrays_strings/100-atoi.c"
+'9  20  0  ~/0x05-pointers_arrays_strings/9-strcpy.c
+|4,57,20,0,1633049257,"~/0x05-pointers_arrays_strings/9-strcpy.c"
 
 # Jumplist (newest first):
--'  13  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,13,0,1633046483,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1633046416,"~/.git/COMMIT_EDITMSG"
--'  1  4  ~/.git/COMMIT_EDITMSG
-|4,39,1,4,1633046416,"~/.git/COMMIT_EDITMSG"
--'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
-|4,39,11,0,1633046380,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
--'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
-|4,39,11,0,1633046380,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
--'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
-|4,39,11,0,1633046380,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
--'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
-|4,39,11,0,1633046380,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
--'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
-|4,39,11,0,1633045952,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
--'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
-|4,39,11,0,1633045952,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
--'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
-|4,39,11,0,1633045952,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
--'  11  0  ~/0x05-pointers_arrays_strings/0-reset_to_98.c
-|4,39,11,0,1633045952,"~/0x05-pointers_arrays_strings/0-reset_to_98.c"
--'  13  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,13,0,1632799451,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  13  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,13,0,1632799451,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  13  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,13,0,1632799451,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  13  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,13,0,1632799451,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  13  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,13,0,1632799451,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  13  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,13,0,1632799451,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  13  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,13,0,1632799451,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  13  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,13,0,1632799451,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,11,0,1632799422,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,11,0,1632799422,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,11,0,1632799422,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,11,0,1632799422,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,11,0,1632799422,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,11,0,1632799422,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,11,0,1632799422,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,11,0,1632799422,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,11,0,1632799422,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  11  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,11,0,1632799311,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  1  0  ~/0x05-pointers_arrays_strings/1-swap.c
-|4,39,1,0,1632799206,"~/0x05-pointers_arrays_strings/1-swap.c"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
--'  187  5  ~/0x05-pointers_arrays_strings/main.h
-|4,39,187,5,1632798047,"~/0x05-pointers_arrays_strings/main.h"
+-'  1  45  ~/0x06-pointers_arrays_strings/README.md
+|4,39,1,45,1633156332,"~/0x06-pointers_arrays_strings/README.md"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1633156202,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1633156202,"~/.git/MERGE_MSG"
+-'  1  0  ~/0x06-pointers_arrays_strings/0-strcat.c
+|4,39,1,0,1633155999,"~/0x06-pointers_arrays_strings/0-strcat.c"
+-'  1  0  ~/0x06-pointers_arrays_strings/0-strcat.c
+|4,39,1,0,1633155999,"~/0x06-pointers_arrays_strings/0-strcat.c"
+-'  1  0  ~/0x06-pointers_arrays_strings/0-strcat.c
+|4,39,1,0,1633155999,"~/0x06-pointers_arrays_strings/0-strcat.c"
+-'  1  0  ~/0x06-pointers_arrays_strings/0-strcat.c
+|4,39,1,0,1633155999,"~/0x06-pointers_arrays_strings/0-strcat.c"
+-'  1  0  ~/0x06-pointers_arrays_strings/0-strcat.c
+|4,39,1,0,1633155846,"~/0x06-pointers_arrays_strings/0-strcat.c"
+-'  1  0  ~/0x06-pointers_arrays_strings/0-strcat.c
+|4,39,1,0,1633155846,"~/0x06-pointers_arrays_strings/0-strcat.c"
+-'  1  0  ~/0x06-pointers_arrays_strings/0-strcat.c
+|4,39,1,0,1633155846,"~/0x06-pointers_arrays_strings/0-strcat.c"
+-'  1  0  ~/0x06-pointers_arrays_strings/0-strcat.c
+|4,39,1,0,1633155846,"~/0x06-pointers_arrays_strings/0-strcat.c"
+-'  1  0  ~/0x06-pointers_arrays_strings/0-strcat.c
+|4,39,1,0,1633154585,"~/0x06-pointers_arrays_strings/0-strcat.c"
+-'  1  0  ~/0x06-pointers_arrays_strings/0-strcat.c
+|4,39,1,0,1633154585,"~/0x06-pointers_arrays_strings/0-strcat.c"
+-'  1  0  ~/0x06-pointers_arrays_strings/0-strcat.c
+|4,39,1,0,1633154585,"~/0x06-pointers_arrays_strings/0-strcat.c"
+-'  1  0  ~/0x06-pointers_arrays_strings/0-strcat.c
+|4,39,1,0,1633154585,"~/0x06-pointers_arrays_strings/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  25  0  ~/0-strcat.c
+|4,39,25,0,1633154512,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  1  0  ~/0-strcat.c
+|4,39,1,0,1633154367,"~/0-strcat.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
+-'  48  0  ~/0x05-pointers_arrays_strings/101-keygen.c
+|4,39,48,0,1633050230,"~/0x05-pointers_arrays_strings/101-keygen.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x06-pointers_arrays_strings/README.md
+	*	1633156327	0
+	"	1	45
+	^	1	46
+	.	1	45
+	+	1	45
+
+> ~/.git/MERGE_MSG
+	*	1633156200	0
+	"	1	0
+	^	1	0
+	.	2	0
+	+	1	0
+	+	2	0
+	i	1	0
+
+> ~/0x06-pointers_arrays_strings/0-strcat.c
+	*	1633155997	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/0-strcat.c
+	*	1633154509	0
+	"	25	0
+	^	25	0
+	.	24	15
+	+	24	15
+	+	1	17
+	+	2	0
+	+	3	3
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	3
+	+	9	0
+	+	10	36
+	+	12	11
+	+	13	11
+	+	15	24
+	+	16	6
+	+	17	23
+	+	18	2
+	+	19	19
+	+	20	6
+	+	21	6
+	+	22	2
+	+	23	16
+	+	24	15
+
+> ~/0x05-pointers_arrays_strings/101-keygen.c
+	*	1633050228	0
+	"	48	0
+	^	48	0
+	.	47	12
+	+	47	12
+	+	1	18
+	+	2	19
+	+	4	0
+	+	5	3
+	+	7	2
+	+	8	2
+	+	9	3
+	+	10	0
+	+	11	14
+	+	12	1
+	+	13	19
+	+	14	48
+	+	16	16
+	+	17	19
+	+	18	2
+	+	19	37
+	+	20	27
+	+	21	2
+	+	22	24
+	+	23	17
+	+	24	2
+	+	25	32
+	+	26	32
+	+	27	28
+	+	28	16
+	+	29	43
+	+	30	3
+	+	31	44
+	+	32	4
+	+	33	34
+	+	34	10
+	+	35	4
+	+	36	3
+	+	37	43
+	+	38	3
+	+	38	2
+	+	39	44
+	+	38	3
+	+	39	44
+	+	40	4
+	+	41	34
+	+	42	10
+	+	43	4
+	+	44	3
+	+	45	2
+	+	46	24
+	+	47	12
+
+> ~/0x05-pointers_arrays_strings/100-atoi.c
+	*	1633049599	0
+	"	23	0
+	^	23	0
+	.	22	21
+	+	22	21
+	+	2	0
+	+	3	3
+	+	5	2
+	+	6	2
+	+	7	3
+	+	8	0
+	+	9	18
+	+	11	14
+	+	12	22
+	+	14	5
+	+	15	16
+	+	16	14
+	+	17	34
+	+	18	33
+	+	19	19
+	+	20	9
+	+	21	16
+	+	22	21
+
+> ~/0x05-pointers_arrays_strings/9-strcpy.c
+	*	1633049255	0
+	"	20	0
+	^	20	0
+	.	19	15
+	+	19	15
+	+	2	0
+	+	3	3
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	2
+	+	9	2
+	+	10	3
+	+	11	0
+	+	12	36
+	+	14	16
+	+	16	33
+	+	16	35
+	+	17	19
+	+	18	16
+	+	19	15
+
+> ~/0x05-pointers_arrays_strings/8-print_array.c
+	*	1633048963	0
+	"	21	0
+	^	21	0
+	.	20	14
+	+	20	14
+	+	1	18
+	+	2	0
+	+	3	3
+	+	5	12
+	+	7	3
+	+	8	0
+	+	9	31
+	+	11	7
+	+	13	24
+	+	14	2
+	+	15	19
+	+	16	24
+	+	17	6
+	+	18	22
+	+	19	2
+	+	20	14
+
+> ~/0x05-pointers_arrays_strings/7-puts_half.c
+	*	1633048707	0
+	"	42	0
+	^	42	1
+	.	41	16
+	+	41	16
+	+	1	17
+	+	2	0
+	+	3	3
+	+	5	2
+	+	6	2
+	+	7	3
+	+	8	0
+	+	9	20
+	+	11	13
+	+	13	19
+	+	14	2
+	+	15	8
+	+	16	6
+	+	17	2
+	+	18	14
+	+	20	0
+	+	21	3
+	+	23	2
+	+	24	3
+	+	25	0
+	+	26	25
+	+	28	9
+	+	29	24
+	+	31	69
+	+	32	18
+	+	33	22
+	+	34	5
+	+	35	18
+	+	36	18
+	+	37	2
+	+	38	25
+	+	39	8
+	+	40	2
+	+	41	16
+
+> ~/0x05-pointers_arrays_strings/6-puts2.c
+	*	1633048341	0
+	"	32	2
+	^	32	3
+	.	32	2
+	+	32	15
+	+	2	0
+	+	3	3
+	+	5	2
+	+	6	2
+	+	7	3
+	+	8	0
+	+	9	20
+	+	11	13
+	+	13	19
+	+	14	2
+	+	15	8
+	+	16	6
+	+	17	2
+	+	18	14
+	+	20	0
+	+	21	3
+	+	23	2
+	+	24	3
+	+	25	0
+	+	26	21
+	+	28	7
+	+	30	56
+	+	31	19
+	+	32	2
+
+> ~/0x05-pointers_arrays_strings/5-rev_string.c
+	*	1633047881	0
+	"	39	0
+	^	39	0
+	.	38	2
+	+	38	2
+	+	2	0
+	+	3	3
+	+	5	2
+	+	6	2
+	+	7	3
+	+	8	0
+	+	9	20
+	+	11	13
+	+	13	19
+	+	14	2
+	+	15	8
+	+	16	6
+	+	17	2
+	+	18	14
+	+	19	1
+	+	20	0
+	+	21	3
+	+	23	2
+	+	24	3
+	+	25	0
+	+	26	24
+	+	28	11
+	+	29	26
+	+	30	10
+	+	32	14
+	+	33	2
+	+	34	13
+	+	35	14
+	+	36	13
+	+	37	11
+	+	38	2
+
+> ~/0x05-pointers_arrays_strings/4-print_rev.c
+	*	1633047568	0
+	"	15	0
+	^	15	1
+	.	15	0
+	+	24	16
+	+	1	17
+	+	3	0
+	+	4	3
+	+	6	2
+	+	7	2
+	+	8	3
+	+	9	0
+	+	10	23
+	+	12	7
+	+	13	11
+	+	13	22
+	+	13	53
+	+	17	2
+	+	18	10
+	+	19	2
+	+	20	33
+	+	21	2
+	+	22	17
+	+	23	2
+	+	24	16
+	+	16	0
+	+	15	0
+
+> ~/0x05-pointers_arrays_strings/3-puts.c
+	*	1633047164	0
+	"	13	0
+	^	13	0
+	.	12	16
+	+	13	0
+	+	2	0
+	+	3	3
+	+	5	2
+	+	6	3
+	+	7	0
+	+	8	21
+	+	10	21
+	+	11	19
+	+	12	16
+
+> ~/0x05-pointers_arrays_strings/2-strlen.c
+	*	1633046941	0
+	"	19	0
+	^	19	0
+	.	18	14
+	+	18	14
+	+	1	17
+	+	2	0
+	+	3	3
+	+	5	2
+	+	6	2
+	+	7	3
+	+	8	0
+	+	9	20
+	+	10	1
+	+	11	13
+	+	13	19
+	+	14	2
+	+	15	8
+	+	16	6
+	+	17	2
+	+	18	14
+
+> ~/.git/COMMIT_EDITMSG
+	*	1633046501	0
+	"	1	3
+	^	1	4
+	.	2	0
+	+	1	20
+	+	2	0
+	+	1	15
+	+	2	0
+	+	1	6
+	+	2	0
+	+	1	5
+	+	2	0
+	+	1	7
+	+	2	0
+	+	1	9
+	+	2	0
+	+	1	5
+	+	2	0
+	+	1	5
+	+	2	0
 
 > ~/0x05-pointers_arrays_strings/1-swap.c
 	*	1633046482	0
@@ -293,28 +671,6 @@
 	+	11	9
 	+	12	0
 	+	13	0
-
-> ~/.git/COMMIT_EDITMSG
-	*	1633046415	0
-	"	1	4
-	^	1	5
-	.	2	0
-	+	1	20
-	+	2	0
-	+	1	15
-	+	2	0
-	+	1	6
-	+	2	0
-	+	1	5
-	+	2	0
-	+	1	7
-	+	2	0
-	+	1	9
-	+	2	0
-	+	1	5
-	+	2	0
-	+	1	5
-	+	2	0
 
 > ~/0x05-pointers_arrays_strings/0-reset_to_98.c
 	*	1633046378	0
@@ -2229,74 +2585,3 @@
 	^	2	25
 	.	2	24
 	+	2	24
-
-> ~/0x00-hello_world/0-preprocessor
-	*	1630350046	0
-	"	1	0
-	^	2	18
-	.	2	17
-	+	2	17
-
-> ~/Betty/betty
-	*	1630337492	0
-	"	2	0
-	^	2	0
-	.	1	11
-	+	39	0
-	+	1	11
-
-> ~/0x00-shell_basics/0-current_working_directory
-	*	1629342918	0
-	"	1	2
-	^	1	3
-	.	1	2
-	+	1	2
-
-> ~/0x02_vi/end_of_the_line
-	*	1629342033	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
-
-> ~/0x02_vi/beginning_of_the_line
-	*	1629341959	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
-
-> ~/0x02_vi/exiting
-	*	1629341878	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
-
-> ~/0x02_vi/undoing
-	*	1629341699	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
-
-> ~/0x02_vi/pasting
-	*	1629341619	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
-
-> ~/0x02_vi/cutting
-	*	1629341560	0
-	"	1	1
-	^	1	2
-	.	1	2
-	+	1	2
-
-> ~/0x02_vi/inserting
-	*	1629341318	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
