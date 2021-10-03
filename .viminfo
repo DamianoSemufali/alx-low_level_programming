@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1633276586,,"wq"
+|2,0,1633276809,,"wq"
 :Wq
 |2,0,1633273460,,"Wq"
 :wq!
@@ -56,34 +56,58 @@
 |3,1,36,0,1,0,1633275868,"e"
 
 # File marks:
-'0  1  0  ~/0x09-static_libraries/libmy.a
-|4,48,1,0,1633276586,"~/0x09-static_libraries/libmy.a"
-'1  1  49  ~/0x09-static_libraries/README.md
-|4,49,1,49,1633276437,"~/0x09-static_libraries/README.md"
-'2  49  17  ~/0x09-static_libraries/main.h
-|4,50,49,17,1633276355,"~/0x09-static_libraries/main.h"
-'3  49  45  ~/0x08-recursion/101-wildcmp.c
-|4,51,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
-'4  48  72  ~/0x08-recursion/101-wildcmp.c
-|4,52,48,72,1633275900,"~/0x08-recursion/101-wildcmp.c"
-'5  48  72  ~/0x08-recursion/101-wildcmp.c
-|4,53,48,72,1633275900,"~/0x08-recursion/101-wildcmp.c"
-'6  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,54,6,2,1633275644,"~/0x08-recursion/101-wildcmp.c"
-'7  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,55,6,2,1633275644,"~/0x08-recursion/101-wildcmp.c"
+'0  1  49  ~/0x09-static_libraries/README.md
+|4,48,1,49,1633276809,"~/0x09-static_libraries/README.md"
+'1  49  17  ~/0x09-static_libraries/main.h
+|4,49,49,17,1633276793,"~/0x09-static_libraries/main.h"
+'2  1  0  ~/0x09-static_libraries/libmy.a
+|4,50,1,0,1633276586,"~/0x09-static_libraries/libmy.a"
+'3  1  49  ~/0x09-static_libraries/README.md
+|4,51,1,49,1633276437,"~/0x09-static_libraries/README.md"
+'4  49  17  ~/0x09-static_libraries/main.h
+|4,52,49,17,1633276355,"~/0x09-static_libraries/main.h"
+'5  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,53,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+'6  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,54,48,72,1633275900,"~/0x08-recursion/101-wildcmp.c"
+'7  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,55,48,72,1633275900,"~/0x08-recursion/101-wildcmp.c"
 '8  6  2  ~/0x08-recursion/101-wildcmp.c
 |4,56,6,2,1633275644,"~/0x08-recursion/101-wildcmp.c"
 '9  6  2  ~/0x08-recursion/101-wildcmp.c
 |4,57,6,2,1633275644,"~/0x08-recursion/101-wildcmp.c"
 
 # Jumplist (newest first):
+-'  1  49  ~/0x09-static_libraries/README.md
+|4,39,1,49,1633276809,"~/0x09-static_libraries/README.md"
+-'  49  17  ~/0x09-static_libraries/main.h
+|4,39,49,17,1633276793,"~/0x09-static_libraries/main.h"
+-'  49  17  ~/0x09-static_libraries/main.h
+|4,39,49,17,1633276793,"~/0x09-static_libraries/main.h"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633276586,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633276586,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633276586,"~/0x09-static_libraries/libmy.a"
 -'  1  0  ~/0x09-static_libraries/libmy.a
 |4,39,1,0,1633276586,"~/0x09-static_libraries/libmy.a"
 -'  1  49  ~/0x09-static_libraries/README.md
 |4,39,1,49,1633276437,"~/0x09-static_libraries/README.md"
 -'  1  49  ~/0x09-static_libraries/README.md
 |4,39,1,49,1633276437,"~/0x09-static_libraries/README.md"
+-'  1  49  ~/0x09-static_libraries/README.md
+|4,39,1,49,1633276437,"~/0x09-static_libraries/README.md"
+-'  1  49  ~/0x09-static_libraries/README.md
+|4,39,1,49,1633276437,"~/0x09-static_libraries/README.md"
+-'  49  17  ~/0x09-static_libraries/main.h
+|4,39,49,17,1633276355,"~/0x09-static_libraries/main.h"
+-'  49  17  ~/0x09-static_libraries/main.h
+|4,39,49,17,1633276355,"~/0x09-static_libraries/main.h"
+-'  49  17  ~/0x09-static_libraries/main.h
+|4,39,49,17,1633276355,"~/0x09-static_libraries/main.h"
+-'  49  17  ~/0x09-static_libraries/main.h
+|4,39,49,17,1633276355,"~/0x09-static_libraries/main.h"
 -'  49  17  ~/0x09-static_libraries/main.h
 |4,39,49,17,1633276355,"~/0x09-static_libraries/main.h"
 -'  49  17  ~/0x09-static_libraries/main.h
@@ -100,6 +124,66 @@
 |4,39,1,0,1633276312,"~/0x09-static_libraries/main.h"
 -'  1  0  ~/0x09-static_libraries/main.h
 |4,39,1,0,1633276312,"~/0x09-static_libraries/main.h"
+-'  1  0  ~/0x09-static_libraries/main.h
+|4,39,1,0,1633276312,"~/0x09-static_libraries/main.h"
+-'  1  0  ~/0x09-static_libraries/main.h
+|4,39,1,0,1633276312,"~/0x09-static_libraries/main.h"
+-'  1  0  ~/0x09-static_libraries/main.h
+|4,39,1,0,1633276312,"~/0x09-static_libraries/main.h"
+-'  1  0  ~/0x09-static_libraries/main.h
+|4,39,1,0,1633276312,"~/0x09-static_libraries/main.h"
+-'  1  0  ~/0x09-static_libraries/main.h
+|4,39,1,0,1633276312,"~/0x09-static_libraries/main.h"
+-'  1  0  ~/0x09-static_libraries/main.h
+|4,39,1,0,1633276312,"~/0x09-static_libraries/main.h"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
+-'  49  45  ~/0x08-recursion/101-wildcmp.c
+|4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
 -'  49  45  ~/0x08-recursion/101-wildcmp.c
 |4,39,49,45,1633276040,"~/0x08-recursion/101-wildcmp.c"
 -'  49  45  ~/0x08-recursion/101-wildcmp.c
@@ -133,7 +217,53 @@
 -'  48  72  ~/0x08-recursion/101-wildcmp.c
 |4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
 -'  48  72  ~/0x08-recursion/101-wildcmp.c
-|4,39,48,72,1633275900,"~/0x08-recursion/101-wildcmp.c"
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
+-'  48  72  ~/0x08-recursion/101-wildcmp.c
+|4,39,48,72,1633276020,"~/0x08-recursion/101-wildcmp.c"
 -'  48  72  ~/0x08-recursion/101-wildcmp.c
 |4,39,48,72,1633275900,"~/0x08-recursion/101-wildcmp.c"
 -'  48  72  ~/0x08-recursion/101-wildcmp.c
@@ -148,138 +278,22 @@
 |4,39,48,72,1633275900,"~/0x08-recursion/101-wildcmp.c"
 -'  48  72  ~/0x08-recursion/101-wildcmp.c
 |4,39,48,72,1633275900,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275831,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275831,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275831,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275831,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275831,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275831,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275831,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275831,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275831,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275831,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275831,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275831,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275831,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275831,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275831,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275831,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275644,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275644,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275644,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275644,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275644,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275644,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275644,"~/0x08-recursion/101-wildcmp.c"
--'  6  2  ~/0x08-recursion/101-wildcmp.c
-|4,39,6,2,1633275644,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  88  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,88,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  86  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,86,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  88  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,88,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  86  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,86,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  88  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,88,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  86  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,86,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  88  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,88,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  86  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,86,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  88  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,88,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  86  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,86,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  88  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,88,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  86  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,86,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  88  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,88,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  86  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,86,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  88  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,88,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  86  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,86,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275533,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275400,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275400,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275400,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275400,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275400,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275400,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275400,"~/0x08-recursion/101-wildcmp.c"
--'  87  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,87,0,1633275400,"~/0x08-recursion/101-wildcmp.c"
--'  1  0  ~/0x08-recursion/101-wildcmp.c
-|4,39,1,0,1633274802,"~/0x08-recursion/101-wildcmp.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x09-static_libraries/README.md
+	*	1633276808	0
+	"	1	49
+	^	1	50
+	.	2	0
+	+	2	0
+
+> ~/0x09-static_libraries/main.h
+	*	1633276787	0
+	"	49	17
+	^	49	18
+	.	49	17
+	+	49	17
 
 > ~/0x09-static_libraries/libmy.a
 	*	1633276584	0
@@ -287,20 +301,6 @@
 	^	1	0
 	.	39	0
 	+	39	0
-
-> ~/0x09-static_libraries/README.md
-	*	1633276436	0
-	"	1	49
-	^	1	50
-	.	2	0
-	+	2	0
-
-> ~/0x09-static_libraries/main.h
-	*	1633276354	0
-	"	49	17
-	^	49	18
-	.	49	17
-	+	49	17
 
 > ~/0x08-recursion/101-wildcmp.c
 	*	1633276038	0
