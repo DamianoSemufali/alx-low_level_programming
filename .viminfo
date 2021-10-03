@@ -15,7 +15,9 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1633207366,,"wq"
+|2,0,1633231385,,"wq"
+:wqq
+|2,0,1633231377,,"wqq"
 :q
 |2,0,1633186068,,"q"
 :Wq
@@ -52,32 +54,36 @@
 |3,1,36,0,1,0,1633156852,"h"
 
 # File marks:
-'0  1  0  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,48,1,0,1633207366,"~/0x07-pointers_arrays_strings/101-crackme_password"
-'1  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,49,1,5,1633202937,"~/0x07-pointers_arrays_strings/101-crackme_password"
-'2  2  0  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,50,2,0,1633202508,"~/0x07-pointers_arrays_strings/101-crackme_password"
-'3  2  0  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,51,2,0,1633202508,"~/0x07-pointers_arrays_strings/101-crackme_password"
-'4  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,52,1,5,1633187194,"~/0x07-pointers_arrays_strings/101-crackme_password"
-'5  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,53,1,5,1633187194,"~/0x07-pointers_arrays_strings/101-crackme_password"
-'6  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,54,1,5,1633187194,"~/0x07-pointers_arrays_strings/101-crackme_password"
-'7  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,55,1,5,1633187194,"~/0x07-pointers_arrays_strings/101-crackme_password"
+'0  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,48,1,5,1633231385,"~/0x07-pointers_arrays_strings/101-crackme_password"
+'1  1  0  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,49,1,0,1633207366,"~/0x07-pointers_arrays_strings/101-crackme_password"
+'2  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,50,1,5,1633202937,"~/0x07-pointers_arrays_strings/101-crackme_password"
+'3  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,51,1,5,1633202937,"~/0x07-pointers_arrays_strings/101-crackme_password"
+'4  2  0  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,52,2,0,1633202508,"~/0x07-pointers_arrays_strings/101-crackme_password"
+'5  2  0  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,53,2,0,1633202508,"~/0x07-pointers_arrays_strings/101-crackme_password"
+'6  2  0  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,54,2,0,1633202508,"~/0x07-pointers_arrays_strings/101-crackme_password"
+'7  2  0  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,55,2,0,1633202508,"~/0x07-pointers_arrays_strings/101-crackme_password"
 '8  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
 |4,56,1,5,1633187194,"~/0x07-pointers_arrays_strings/101-crackme_password"
 '9  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
 |4,57,1,5,1633187194,"~/0x07-pointers_arrays_strings/101-crackme_password"
 
 # Jumplist (newest first):
+-'  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,39,1,5,1633231385,"~/0x07-pointers_arrays_strings/101-crackme_password"
 -'  1  0  ~/0x07-pointers_arrays_strings/101-crackme_password
 |4,39,1,0,1633207366,"~/0x07-pointers_arrays_strings/101-crackme_password"
 -'  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
 |4,39,1,5,1633202937,"~/0x07-pointers_arrays_strings/101-crackme_password"
+-'  2  0  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,39,2,0,1633202508,"~/0x07-pointers_arrays_strings/101-crackme_password"
 -'  2  0  ~/0x07-pointers_arrays_strings/101-crackme_password
 |4,39,2,0,1633202508,"~/0x07-pointers_arrays_strings/101-crackme_password"
 -'  2  0  ~/0x07-pointers_arrays_strings/101-crackme_password
@@ -118,6 +124,70 @@
 |4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
 -'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
 |4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,1,0,1633186951,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,1,0,1633186951,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,1,0,1633186951,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,1,0,1633186951,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,1,0,1633186951,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,1,0,1633186951,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,1,0,1633186951,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,1,0,1633186951,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,1,0,1633186951,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,1,0,1633186951,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,1,0,1633186951,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,1,0,1633186951,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,1,0,1633186951,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,1,0,1633186951,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,1,0,1633186951,"~/0x07-pointers_arrays_strings/100-set_string.c"
+-'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
+|4,39,1,0,1633186951,"~/0x07-pointers_arrays_strings/100-set_string.c"
 -'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
 |4,39,1,0,1633186951,"~/0x07-pointers_arrays_strings/100-set_string.c"
 -'  1  0  ~/0x07-pointers_arrays_strings/100-set_string.c
@@ -206,85 +276,18 @@
 |4,39,27,0,1633186780,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
 -'  27  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
 |4,39,27,0,1633186780,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  27  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,27,0,1633186780,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  27  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,27,0,1633186780,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  27  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,27,0,1633186780,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  27  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,27,0,1633186780,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
--'  1  0  ~/0x07-pointers_arrays_strings/8-print_diagsums.c
-|4,39,1,0,1633186625,"~/0x07-pointers_arrays_strings/8-print_diagsums.c"
 
 # History of marks within files (newest to oldest):
 
 > ~/0x07-pointers_arrays_strings/101-crackme_password
-	*	1633207365	0
-	"	1	0
-	^	1	0
-	.	2	0
+	*	1633231380	0
+	"	1	5
+	^	1	6
+	.	1	5
 	+	1	5
 	+	1	6
 	+	2	0
+	+	1	5
 
 > ~/0x07-pointers_arrays_strings/100-set_string.c
 	*	1633187001	0
