@@ -14,8 +14,10 @@
 ~MSle0~/bin
 
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1633234153,,"wq!"
 :wq
-|2,0,1633232320,,"wq"
+|2,0,1633234137,,"wq"
 :wqq
 |2,0,1633231377,,"wqq"
 :q
@@ -54,28 +56,34 @@
 |3,1,36,0,1,0,1633231980,"a"
 
 # File marks:
-'0  2  0  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,48,2,0,1633232320,"~/0x07-pointers_arrays_strings/101-crackme_password"
+'0  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,48,1,5,1633234153,"~/0x07-pointers_arrays_strings/101-crackme_password"
 '1  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,49,1,5,1633232023,"~/0x07-pointers_arrays_strings/101-crackme_password"
-'2  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,50,1,5,1633232023,"~/0x07-pointers_arrays_strings/101-crackme_password"
-'3  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,51,1,5,1633231385,"~/0x07-pointers_arrays_strings/101-crackme_password"
+|4,49,1,5,1633233671,"~/0x07-pointers_arrays_strings/101-crackme_password"
+'2  2  0  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,50,2,0,1633232320,"~/0x07-pointers_arrays_strings/101-crackme_password"
+'3  2  0  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,51,2,0,1633232320,"~/0x07-pointers_arrays_strings/101-crackme_password"
 '4  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,52,1,5,1633231385,"~/0x07-pointers_arrays_strings/101-crackme_password"
-'5  1  0  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,53,1,0,1633207366,"~/0x07-pointers_arrays_strings/101-crackme_password"
-'6  1  0  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,54,1,0,1633207366,"~/0x07-pointers_arrays_strings/101-crackme_password"
-'7  1  0  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,55,1,0,1633207366,"~/0x07-pointers_arrays_strings/101-crackme_password"
-'8  1  0  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,56,1,0,1633207366,"~/0x07-pointers_arrays_strings/101-crackme_password"
+|4,52,1,5,1633232023,"~/0x07-pointers_arrays_strings/101-crackme_password"
+'5  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,53,1,5,1633232023,"~/0x07-pointers_arrays_strings/101-crackme_password"
+'6  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,54,1,5,1633232023,"~/0x07-pointers_arrays_strings/101-crackme_password"
+'7  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,55,1,5,1633232023,"~/0x07-pointers_arrays_strings/101-crackme_password"
+'8  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,56,1,5,1633232023,"~/0x07-pointers_arrays_strings/101-crackme_password"
 '9  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
-|4,57,1,5,1633202937,"~/0x07-pointers_arrays_strings/101-crackme_password"
+|4,57,1,5,1633232023,"~/0x07-pointers_arrays_strings/101-crackme_password"
 
 # Jumplist (newest first):
+-'  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,39,1,5,1633234153,"~/0x07-pointers_arrays_strings/101-crackme_password"
+-'  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,39,1,5,1633233671,"~/0x07-pointers_arrays_strings/101-crackme_password"
+-'  2  0  ~/0x07-pointers_arrays_strings/101-crackme_password
+|4,39,2,0,1633232320,"~/0x07-pointers_arrays_strings/101-crackme_password"
 -'  2  0  ~/0x07-pointers_arrays_strings/101-crackme_password
 |4,39,2,0,1633232320,"~/0x07-pointers_arrays_strings/101-crackme_password"
 -'  1  5  ~/0x07-pointers_arrays_strings/101-crackme_password
@@ -270,19 +278,13 @@
 |4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
 -'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
 |4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
--'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
-|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
--'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
-|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
--'  12  0  ~/0x07-pointers_arrays_strings/100-set_string.c
-|4,39,12,0,1633187002,"~/0x07-pointers_arrays_strings/100-set_string.c"
 
 # History of marks within files (newest to oldest):
 
 > ~/0x07-pointers_arrays_strings/101-crackme_password
-	*	1633232319	0
-	"	2	0
-	^	2	0
+	*	1633234148	0
+	"	1	5
+	^	1	6
 	.	1	6
 	+	1	5
 	+	1	6
