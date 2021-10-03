@@ -14,10 +14,10 @@
 ~MSle0~/bin
 
 # Command Line History (newest to oldest):
+:wq
+|2,0,1633283618,,"wq"
 :wq!
 |2,0,1633283159,,"wq!"
-:wq
-|2,0,1633281599,,"wq"
 :Wq
 |2,0,1633273460,,"Wq"
 :wqq
@@ -57,35 +57,47 @@
 
 # File marks:
 '0  32  0  ~/0x09-static_libraries/libmy.c
-|4,48,32,0,1633283159,"~/0x09-static_libraries/libmy.c"
-'1  2  0  ~/0x09-static_libraries/main.h
-|4,49,2,0,1633281989,"~/0x09-static_libraries/main.h"
-'2  9  0  ~/0x09-static_libraries/main.h
-|4,50,9,0,1633281893,"~/0x09-static_libraries/main.h"
-'3  16  0  ~/0x09-static_libraries/main.h
-|4,51,16,0,1633281893,"~/0x09-static_libraries/main.h"
-'4  6  1  ~/0x09-static_libraries/libmy.c
-|4,52,6,1,1633281599,"~/0x09-static_libraries/libmy.c"
+|4,48,32,0,1633283618,"~/0x09-static_libraries/libmy.c"
+'1  32  0  ~/0x09-static_libraries/libmy.c
+|4,49,32,0,1633283159,"~/0x09-static_libraries/libmy.c"
+'2  2  0  ~/0x09-static_libraries/main.h
+|4,50,2,0,1633281989,"~/0x09-static_libraries/main.h"
+'3  9  0  ~/0x09-static_libraries/main.h
+|4,51,9,0,1633281893,"~/0x09-static_libraries/main.h"
+'4  16  0  ~/0x09-static_libraries/main.h
+|4,52,16,0,1633281893,"~/0x09-static_libraries/main.h"
 '5  6  1  ~/0x09-static_libraries/libmy.c
 |4,53,6,1,1633281599,"~/0x09-static_libraries/libmy.c"
-'6  1  0  ~/0x09-static_libraries/libmy.a
-|4,54,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
-'7  2  14  ~/0x09-static_libraries/main.h
-|4,55,2,14,1633281185,"~/0x09-static_libraries/main.h"
-'8  5  0  ~/0x09-static_libraries/main.h
-|4,56,5,0,1633281185,"~/0x09-static_libraries/main.h"
-'9  5  0  ~/0x09-static_libraries/main.h
-|4,57,5,0,1633281185,"~/0x09-static_libraries/main.h"
+'6  6  1  ~/0x09-static_libraries/libmy.c
+|4,54,6,1,1633281599,"~/0x09-static_libraries/libmy.c"
+'7  6  1  ~/0x09-static_libraries/libmy.c
+|4,55,6,1,1633281599,"~/0x09-static_libraries/libmy.c"
+'8  6  1  ~/0x09-static_libraries/libmy.c
+|4,56,6,1,1633281599,"~/0x09-static_libraries/libmy.c"
+'9  1  0  ~/0x09-static_libraries/libmy.a
+|4,57,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
 
 # Jumplist (newest first):
 -'  32  0  ~/0x09-static_libraries/libmy.c
+|4,39,32,0,1633283618,"~/0x09-static_libraries/libmy.c"
+-'  32  0  ~/0x09-static_libraries/libmy.c
 |4,39,32,0,1633283159,"~/0x09-static_libraries/libmy.c"
+-'  6  1  ~/0x09-static_libraries/libmy.c
+|4,39,6,1,1633283134,"~/0x09-static_libraries/libmy.c"
 -'  6  1  ~/0x09-static_libraries/libmy.c
 |4,39,6,1,1633283134,"~/0x09-static_libraries/libmy.c"
 -'  2  0  ~/0x09-static_libraries/main.h
 |4,39,2,0,1633281989,"~/0x09-static_libraries/main.h"
 -'  2  0  ~/0x09-static_libraries/main.h
 |4,39,2,0,1633281989,"~/0x09-static_libraries/main.h"
+-'  2  0  ~/0x09-static_libraries/main.h
+|4,39,2,0,1633281989,"~/0x09-static_libraries/main.h"
+-'  2  0  ~/0x09-static_libraries/main.h
+|4,39,2,0,1633281989,"~/0x09-static_libraries/main.h"
+-'  9  0  ~/0x09-static_libraries/main.h
+|4,39,9,0,1633281916,"~/0x09-static_libraries/main.h"
+-'  9  0  ~/0x09-static_libraries/main.h
+|4,39,9,0,1633281916,"~/0x09-static_libraries/main.h"
 -'  9  0  ~/0x09-static_libraries/main.h
 |4,39,9,0,1633281916,"~/0x09-static_libraries/main.h"
 -'  9  0  ~/0x09-static_libraries/main.h
@@ -94,6 +106,14 @@
 |4,39,16,0,1633281893,"~/0x09-static_libraries/main.h"
 -'  16  0  ~/0x09-static_libraries/main.h
 |4,39,16,0,1633281893,"~/0x09-static_libraries/main.h"
+-'  16  0  ~/0x09-static_libraries/main.h
+|4,39,16,0,1633281893,"~/0x09-static_libraries/main.h"
+-'  16  0  ~/0x09-static_libraries/main.h
+|4,39,16,0,1633281893,"~/0x09-static_libraries/main.h"
+-'  5  0  ~/0x09-static_libraries/main.h
+|4,39,5,0,1633281839,"~/0x09-static_libraries/main.h"
+-'  5  0  ~/0x09-static_libraries/main.h
+|4,39,5,0,1633281839,"~/0x09-static_libraries/main.h"
 -'  5  0  ~/0x09-static_libraries/main.h
 |4,39,5,0,1633281839,"~/0x09-static_libraries/main.h"
 -'  5  0  ~/0x09-static_libraries/main.h
@@ -138,6 +158,54 @@
 |4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
 -'  1  0  ~/0x09-static_libraries/libmy.a
 |4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
+-'  1  0  ~/0x09-static_libraries/libmy.a
+|4,39,1,0,1633281521,"~/0x09-static_libraries/libmy.a"
+-'  5  0  ~/0x09-static_libraries/main.h
+|4,39,5,0,1633281185,"~/0x09-static_libraries/main.h"
+-'  5  0  ~/0x09-static_libraries/main.h
+|4,39,5,0,1633281185,"~/0x09-static_libraries/main.h"
+-'  5  0  ~/0x09-static_libraries/main.h
+|4,39,5,0,1633281185,"~/0x09-static_libraries/main.h"
+-'  5  0  ~/0x09-static_libraries/main.h
+|4,39,5,0,1633281185,"~/0x09-static_libraries/main.h"
+-'  5  0  ~/0x09-static_libraries/main.h
+|4,39,5,0,1633281185,"~/0x09-static_libraries/main.h"
+-'  5  0  ~/0x09-static_libraries/main.h
+|4,39,5,0,1633281185,"~/0x09-static_libraries/main.h"
+-'  5  0  ~/0x09-static_libraries/main.h
+|4,39,5,0,1633281185,"~/0x09-static_libraries/main.h"
+-'  5  0  ~/0x09-static_libraries/main.h
+|4,39,5,0,1633281185,"~/0x09-static_libraries/main.h"
 -'  5  0  ~/0x09-static_libraries/main.h
 |4,39,5,0,1633281185,"~/0x09-static_libraries/main.h"
 -'  5  0  ~/0x09-static_libraries/main.h
@@ -178,111 +246,43 @@
 |4,39,47,0,1633281159,"~/0x09-static_libraries/main.h"
 -'  47  0  ~/0x09-static_libraries/main.h
 |4,39,47,0,1633281159,"~/0x09-static_libraries/main.h"
--'  11  1  ~/0x09-static_libraries/libmy.c
-|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
--'  11  1  ~/0x09-static_libraries/libmy.c
-|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
--'  11  1  ~/0x09-static_libraries/libmy.c
-|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
--'  11  1  ~/0x09-static_libraries/libmy.c
-|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
--'  11  1  ~/0x09-static_libraries/libmy.c
-|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
--'  11  1  ~/0x09-static_libraries/libmy.c
-|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
--'  11  1  ~/0x09-static_libraries/libmy.c
-|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
--'  11  1  ~/0x09-static_libraries/libmy.c
-|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
--'  11  1  ~/0x09-static_libraries/libmy.c
-|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
--'  11  1  ~/0x09-static_libraries/libmy.c
-|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
--'  11  1  ~/0x09-static_libraries/libmy.c
-|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
--'  11  1  ~/0x09-static_libraries/libmy.c
-|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
--'  11  1  ~/0x09-static_libraries/libmy.c
-|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
--'  11  1  ~/0x09-static_libraries/libmy.c
-|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
--'  11  1  ~/0x09-static_libraries/libmy.c
-|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
--'  11  1  ~/0x09-static_libraries/libmy.c
-|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
--'  11  1  ~/0x09-static_libraries/libmy.c
-|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
--'  1  0  ~/0x09-static_libraries/libmy.c
-|4,39,1,0,1633280717,"~/0x09-static_libraries/libmy.c"
+-'  24  0  ~/0x09-static_libraries/main.h
+|4,39,24,0,1633281159,"~/0x09-static_libraries/main.h"
 -'  47  0  ~/0x09-static_libraries/main.h
-|4,39,47,0,1633280708,"~/0x09-static_libraries/main.h"
+|4,39,47,0,1633281159,"~/0x09-static_libraries/main.h"
 -'  47  0  ~/0x09-static_libraries/main.h
-|4,39,47,0,1633280708,"~/0x09-static_libraries/main.h"
+|4,39,47,0,1633281159,"~/0x09-static_libraries/main.h"
 -'  47  0  ~/0x09-static_libraries/main.h
-|4,39,47,0,1633280708,"~/0x09-static_libraries/main.h"
+|4,39,47,0,1633281159,"~/0x09-static_libraries/main.h"
 -'  47  0  ~/0x09-static_libraries/main.h
-|4,39,47,0,1633280708,"~/0x09-static_libraries/main.h"
+|4,39,47,0,1633281159,"~/0x09-static_libraries/main.h"
 -'  47  0  ~/0x09-static_libraries/main.h
-|4,39,47,0,1633280708,"~/0x09-static_libraries/main.h"
+|4,39,47,0,1633281159,"~/0x09-static_libraries/main.h"
+-'  24  0  ~/0x09-static_libraries/main.h
+|4,39,24,0,1633281159,"~/0x09-static_libraries/main.h"
 -'  47  0  ~/0x09-static_libraries/main.h
-|4,39,47,0,1633280708,"~/0x09-static_libraries/main.h"
+|4,39,47,0,1633281159,"~/0x09-static_libraries/main.h"
 -'  47  0  ~/0x09-static_libraries/main.h
-|4,39,47,0,1633280708,"~/0x09-static_libraries/main.h"
+|4,39,47,0,1633281159,"~/0x09-static_libraries/main.h"
 -'  47  0  ~/0x09-static_libraries/main.h
-|4,39,47,0,1633280708,"~/0x09-static_libraries/main.h"
+|4,39,47,0,1633281159,"~/0x09-static_libraries/main.h"
 -'  47  0  ~/0x09-static_libraries/main.h
-|4,39,47,0,1633280708,"~/0x09-static_libraries/main.h"
+|4,39,47,0,1633281159,"~/0x09-static_libraries/main.h"
 -'  47  0  ~/0x09-static_libraries/main.h
-|4,39,47,0,1633280708,"~/0x09-static_libraries/main.h"
--'  47  0  ~/0x09-static_libraries/main.h
-|4,39,47,0,1633280708,"~/0x09-static_libraries/main.h"
--'  47  0  ~/0x09-static_libraries/main.h
-|4,39,47,0,1633280708,"~/0x09-static_libraries/main.h"
+|4,39,47,0,1633281159,"~/0x09-static_libraries/main.h"
+-'  11  1  ~/0x09-static_libraries/libmy.c
+|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
+-'  11  1  ~/0x09-static_libraries/libmy.c
+|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
+-'  11  1  ~/0x09-static_libraries/libmy.c
+|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
+-'  11  1  ~/0x09-static_libraries/libmy.c
+|4,39,11,1,1633280835,"~/0x09-static_libraries/libmy.c"
 
 # History of marks within files (newest to oldest):
 
 > ~/0x09-static_libraries/libmy.c
-	*	1633283157	0
+	*	1633283616	0
 	"	32	0
 	^	6	2
 	.	6	2
