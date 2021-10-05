@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1633391388,,"wq"
+|2,0,1633392764,,"wq"
 :q
 |2,0,1633390816,,"q"
 :wq!
@@ -56,34 +56,76 @@
 |3,1,36,0,1,0,1633390188,"f"
 
 # File marks:
-'0  2  0  ~/0x09-static_libraries/3-islower.c
-|4,48,2,0,1633391388,"~/0x09-static_libraries/3-islower.c"
-'1  3  0  ~/0x09-static_libraries/9-strcpy.c
-|4,49,3,0,1633390991,"~/0x09-static_libraries/9-strcpy.c"
-'2  3  0  ~/0x09-static_libraries/6-abs.c
-|4,50,3,0,1633390930,"~/0x09-static_libraries/6-abs.c"
-'3  3  0  ~/0x09-static_libraries/5-strstr.c
-|4,51,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
-'4  1  0  ~/0x09-static_libraries/4-strstr.c
-|4,52,1,0,1633390816,"~/0x09-static_libraries/4-strstr.c"
-'5  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,53,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
-'6  2  0  ~/0x09-static_libraries/4-isalpha.c
-|4,54,2,0,1633390720,"~/0x09-static_libraries/4-isalpha.c"
-'7  1  0  ~/0x09-static_libraries/3-strspn.c
-|4,55,1,0,1633390665,"~/0x09-static_libraries/3-strspn.c"
-'8  2  0  ~/0x09-static_libraries/3-strcmp.c
-|4,56,2,0,1633390587,"~/0x09-static_libraries/3-strcmp.c"
-'9  2  0  ~/0x09-static_libraries/3-puts.c
-|4,57,2,0,1633390534,"~/0x09-static_libraries/3-puts.c"
+'0  23  0  ~/0x09-static_libraries/100-atoi.c
+|4,48,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
+'1  13  0  ~/0x09-static_libraries/_putchar.c
+|4,49,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
+'2  2  0  ~/0x09-static_libraries/3-islower.c
+|4,50,2,0,1633391388,"~/0x09-static_libraries/3-islower.c"
+'3  3  0  ~/0x09-static_libraries/9-strcpy.c
+|4,51,3,0,1633390991,"~/0x09-static_libraries/9-strcpy.c"
+'4  3  0  ~/0x09-static_libraries/6-abs.c
+|4,52,3,0,1633390930,"~/0x09-static_libraries/6-abs.c"
+'5  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,53,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+'6  1  0  ~/0x09-static_libraries/4-strstr.c
+|4,54,1,0,1633390816,"~/0x09-static_libraries/4-strstr.c"
+'7  4  0  ~/0x09-static_libraries/4-strpbrk.c
+|4,55,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
+'8  2  0  ~/0x09-static_libraries/4-isalpha.c
+|4,56,2,0,1633390720,"~/0x09-static_libraries/4-isalpha.c"
+'9  1  0  ~/0x09-static_libraries/3-strspn.c
+|4,57,1,0,1633390665,"~/0x09-static_libraries/3-strspn.c"
 
 # Jumplist (newest first):
+-'  23  0  ~/0x09-static_libraries/100-atoi.c
+|4,39,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
+-'  1  0  ~/0x09-static_libraries/100-atoi.c
+|4,39,1,0,1633392662,"~/0x09-static_libraries/100-atoi.c"
+-'  13  0  ~/0x09-static_libraries/_putchar.c
+|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
+-'  13  0  ~/0x09-static_libraries/_putchar.c
+|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
+-'  1  0  ~/0x09-static_libraries/_putchar.c
+|4,39,1,0,1633392533,"~/0x09-static_libraries/_putchar.c"
+-'  1  0  ~/0x09-static_libraries/_putchar.c
+|4,39,1,0,1633392533,"~/0x09-static_libraries/_putchar.c"
+-'  2  0  ~/0x09-static_libraries/3-islower.c
+|4,39,2,0,1633391388,"~/0x09-static_libraries/3-islower.c"
+-'  2  0  ~/0x09-static_libraries/3-islower.c
+|4,39,2,0,1633391388,"~/0x09-static_libraries/3-islower.c"
+-'  2  0  ~/0x09-static_libraries/3-islower.c
+|4,39,2,0,1633391388,"~/0x09-static_libraries/3-islower.c"
 -'  2  0  ~/0x09-static_libraries/3-islower.c
 |4,39,2,0,1633391388,"~/0x09-static_libraries/3-islower.c"
 -'  3  0  ~/0x09-static_libraries/9-strcpy.c
 |4,39,3,0,1633390991,"~/0x09-static_libraries/9-strcpy.c"
 -'  3  0  ~/0x09-static_libraries/9-strcpy.c
 |4,39,3,0,1633390991,"~/0x09-static_libraries/9-strcpy.c"
+-'  3  0  ~/0x09-static_libraries/9-strcpy.c
+|4,39,3,0,1633390991,"~/0x09-static_libraries/9-strcpy.c"
+-'  3  0  ~/0x09-static_libraries/9-strcpy.c
+|4,39,3,0,1633390991,"~/0x09-static_libraries/9-strcpy.c"
+-'  3  0  ~/0x09-static_libraries/9-strcpy.c
+|4,39,3,0,1633390991,"~/0x09-static_libraries/9-strcpy.c"
+-'  3  0  ~/0x09-static_libraries/9-strcpy.c
+|4,39,3,0,1633390991,"~/0x09-static_libraries/9-strcpy.c"
+-'  3  0  ~/0x09-static_libraries/9-strcpy.c
+|4,39,3,0,1633390991,"~/0x09-static_libraries/9-strcpy.c"
+-'  3  0  ~/0x09-static_libraries/9-strcpy.c
+|4,39,3,0,1633390991,"~/0x09-static_libraries/9-strcpy.c"
+-'  2  0  ~/0x09-static_libraries/9-strcpy.c
+|4,39,2,0,1633390943,"~/0x09-static_libraries/9-strcpy.c"
+-'  2  0  ~/0x09-static_libraries/9-strcpy.c
+|4,39,2,0,1633390943,"~/0x09-static_libraries/9-strcpy.c"
+-'  2  0  ~/0x09-static_libraries/9-strcpy.c
+|4,39,2,0,1633390943,"~/0x09-static_libraries/9-strcpy.c"
+-'  2  0  ~/0x09-static_libraries/9-strcpy.c
+|4,39,2,0,1633390943,"~/0x09-static_libraries/9-strcpy.c"
+-'  2  0  ~/0x09-static_libraries/9-strcpy.c
+|4,39,2,0,1633390943,"~/0x09-static_libraries/9-strcpy.c"
+-'  2  0  ~/0x09-static_libraries/9-strcpy.c
+|4,39,2,0,1633390943,"~/0x09-static_libraries/9-strcpy.c"
 -'  2  0  ~/0x09-static_libraries/9-strcpy.c
 |4,39,2,0,1633390943,"~/0x09-static_libraries/9-strcpy.c"
 -'  2  0  ~/0x09-static_libraries/9-strcpy.c
@@ -96,6 +138,54 @@
 |4,39,3,0,1633390930,"~/0x09-static_libraries/6-abs.c"
 -'  3  0  ~/0x09-static_libraries/6-abs.c
 |4,39,3,0,1633390930,"~/0x09-static_libraries/6-abs.c"
+-'  3  0  ~/0x09-static_libraries/6-abs.c
+|4,39,3,0,1633390930,"~/0x09-static_libraries/6-abs.c"
+-'  3  0  ~/0x09-static_libraries/6-abs.c
+|4,39,3,0,1633390930,"~/0x09-static_libraries/6-abs.c"
+-'  3  0  ~/0x09-static_libraries/6-abs.c
+|4,39,3,0,1633390930,"~/0x09-static_libraries/6-abs.c"
+-'  3  0  ~/0x09-static_libraries/6-abs.c
+|4,39,3,0,1633390930,"~/0x09-static_libraries/6-abs.c"
+-'  3  0  ~/0x09-static_libraries/6-abs.c
+|4,39,3,0,1633390930,"~/0x09-static_libraries/6-abs.c"
+-'  3  0  ~/0x09-static_libraries/6-abs.c
+|4,39,3,0,1633390930,"~/0x09-static_libraries/6-abs.c"
+-'  3  0  ~/0x09-static_libraries/6-abs.c
+|4,39,3,0,1633390930,"~/0x09-static_libraries/6-abs.c"
+-'  3  0  ~/0x09-static_libraries/6-abs.c
+|4,39,3,0,1633390930,"~/0x09-static_libraries/6-abs.c"
+-'  3  0  ~/0x09-static_libraries/6-abs.c
+|4,39,3,0,1633390930,"~/0x09-static_libraries/6-abs.c"
+-'  3  0  ~/0x09-static_libraries/6-abs.c
+|4,39,3,0,1633390930,"~/0x09-static_libraries/6-abs.c"
+-'  3  0  ~/0x09-static_libraries/6-abs.c
+|4,39,3,0,1633390930,"~/0x09-static_libraries/6-abs.c"
+-'  3  0  ~/0x09-static_libraries/6-abs.c
+|4,39,3,0,1633390930,"~/0x09-static_libraries/6-abs.c"
+-'  2  0  ~/0x09-static_libraries/6-abs.c
+|4,39,2,0,1633390903,"~/0x09-static_libraries/6-abs.c"
+-'  2  0  ~/0x09-static_libraries/6-abs.c
+|4,39,2,0,1633390903,"~/0x09-static_libraries/6-abs.c"
+-'  2  0  ~/0x09-static_libraries/6-abs.c
+|4,39,2,0,1633390903,"~/0x09-static_libraries/6-abs.c"
+-'  2  0  ~/0x09-static_libraries/6-abs.c
+|4,39,2,0,1633390903,"~/0x09-static_libraries/6-abs.c"
+-'  2  0  ~/0x09-static_libraries/6-abs.c
+|4,39,2,0,1633390903,"~/0x09-static_libraries/6-abs.c"
+-'  2  0  ~/0x09-static_libraries/6-abs.c
+|4,39,2,0,1633390903,"~/0x09-static_libraries/6-abs.c"
+-'  2  0  ~/0x09-static_libraries/6-abs.c
+|4,39,2,0,1633390903,"~/0x09-static_libraries/6-abs.c"
+-'  2  0  ~/0x09-static_libraries/6-abs.c
+|4,39,2,0,1633390903,"~/0x09-static_libraries/6-abs.c"
+-'  2  0  ~/0x09-static_libraries/6-abs.c
+|4,39,2,0,1633390903,"~/0x09-static_libraries/6-abs.c"
+-'  2  0  ~/0x09-static_libraries/6-abs.c
+|4,39,2,0,1633390903,"~/0x09-static_libraries/6-abs.c"
+-'  2  0  ~/0x09-static_libraries/6-abs.c
+|4,39,2,0,1633390903,"~/0x09-static_libraries/6-abs.c"
+-'  2  0  ~/0x09-static_libraries/6-abs.c
+|4,39,2,0,1633390903,"~/0x09-static_libraries/6-abs.c"
 -'  2  0  ~/0x09-static_libraries/6-abs.c
 |4,39,2,0,1633390903,"~/0x09-static_libraries/6-abs.c"
 -'  2  0  ~/0x09-static_libraries/6-abs.c
@@ -120,6 +210,54 @@
 |4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
 -'  3  0  ~/0x09-static_libraries/5-strstr.c
 |4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+-'  3  0  ~/0x09-static_libraries/5-strstr.c
+|4,39,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
 -'  1  0  ~/0x09-static_libraries/4-strstr.c
 |4,39,1,0,1633390816,"~/0x09-static_libraries/4-strstr.c"
 -'  1  0  ~/0x09-static_libraries/4-strstr.c
@@ -140,146 +278,52 @@
 |4,39,1,0,1633390816,"~/0x09-static_libraries/4-strstr.c"
 -'  1  0  ~/0x09-static_libraries/4-strstr.c
 |4,39,1,0,1633390816,"~/0x09-static_libraries/4-strstr.c"
--'  1  0  ~/0x09-static_libraries/4-strstr.c
-|4,39,1,0,1633390816,"~/0x09-static_libraries/4-strstr.c"
--'  1  0  ~/0x09-static_libraries/4-strstr.c
-|4,39,1,0,1633390816,"~/0x09-static_libraries/4-strstr.c"
--'  1  0  ~/0x09-static_libraries/4-strstr.c
-|4,39,1,0,1633390816,"~/0x09-static_libraries/4-strstr.c"
--'  1  0  ~/0x09-static_libraries/4-strstr.c
-|4,39,1,0,1633390816,"~/0x09-static_libraries/4-strstr.c"
--'  1  0  ~/0x09-static_libraries/4-strstr.c
-|4,39,1,0,1633390816,"~/0x09-static_libraries/4-strstr.c"
--'  1  0  ~/0x09-static_libraries/4-strstr.c
-|4,39,1,0,1633390816,"~/0x09-static_libraries/4-strstr.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  4  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,4,0,1633390795,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
--'  3  0  ~/0x09-static_libraries/4-strpbrk.c
-|4,39,3,0,1633390736,"~/0x09-static_libraries/4-strpbrk.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x09-static_libraries/100-atoi.c
+	*	1633392762	0
+	"	23	0
+	^	23	0
+	.	24	0
+	+	23	0
+	+	3	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	0
+	+	10	1
+	+	11	0
+	+	12	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	24	0
+
+> ~/0x09-static_libraries/_putchar.c
+	*	1633392624	0
+	"	13	0
+	^	13	0
+	.	14	0
+	+	13	0
+	+	3	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	2
+	+	11	0
+	+	9	0
+	+	11	1
+	+	12	0
+	+	14	0
 
 > ~/0x09-static_libraries/3-islower.c
 	*	1633391386	0
@@ -2419,63 +2463,3 @@
 	.	2	0
 	+	1	16
 	+	2	0
-
-> ~/0x04-more_functions_nested_loops/0-isupper.c
-	*	1632081174	0
-	"	14	0
-	^	14	1
-	.	14	0
-	+	13	12
-	+	1	17
-	+	2	0
-	+	3	3
-	+	5	2
-	+	6	2
-	+	7	3
-	+	8	0
-	+	9	19
-	+	11	26
-	+	12	13
-	+	13	12
-	+	13	0
-	+	14	0
-
-> ~/0x03-debugging/3-print_remaining_days.c
-	*	1632056304	0
-	"	37	0
-	^	37	1
-	.	22	0
-	+	36	2
-	+	1	18
-	+	3	0
-	+	4	3
-	+	5	67
-	+	7	2
-	+	8	2
-	+	9	2
-	+	10	2
-	+	11	3
-	+	12	0
-	+	13	55
-	+	15	64
-	+	16	2
-	+	17	29
-	+	18	3
-	+	19	9
-	+	20	3
-	+	21	39
-	+	23	44
-	+	24	2
-	+	25	5
-	+	26	2
-	+	27	30
-	+	28	3
-	+	29	67
-	+	30	3
-	+	31	6
-	+	32	3
-	+	33	40
-	+	34	45
-	+	35	3
-	+	36	2
-	+	22	0
