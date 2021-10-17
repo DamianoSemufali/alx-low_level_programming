@@ -1,1 +1,1 @@
-Malloc is on fire and we ready to extinguish. 
+# Dynamic Memory allocation using malloc()
