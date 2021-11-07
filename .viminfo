@@ -15,11 +15,13 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1633397444,,"wq"
+|2,0,1636308685,,"wq"
+:wq\
+|2,0,1636308446,,"wq\\"
+:q
+|2,0,1634495262,,"q"
 :Wq
 |2,0,1633397439,,"Wq"
-:q
-|2,0,1633390816,,"q"
 :wq!
 |2,0,1633283159,,"wq!"
 :wqq
@@ -56,230 +58,814 @@
 |3,1,36,0,1,0,1633390188,"f"
 
 # File marks:
-'0  16  0  ~/0x0A-argc_argv/0-whatsmyname.c
-|4,48,16,0,1633397444,"~/0x0A-argc_argv/0-whatsmyname.c"
-'1  27  5  ~/0x0A-argc_argv/main.h
-|4,49,27,5,1633397335,"~/0x0A-argc_argv/main.h"
-'2  1  7  ~/0x0A-argc_argv/README.md
-|4,50,1,7,1633397249,"~/0x0A-argc_argv/README.md"
-'3  2  0  ~/0x09-static_libraries/create_static_lib.sh
-|4,51,2,0,1633393019,"~/0x09-static_libraries/create_static_lib.sh"
-'4  23  0  ~/0x09-static_libraries/100-atoi.c
-|4,52,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
-'5  13  0  ~/0x09-static_libraries/_putchar.c
-|4,53,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
-'6  2  0  ~/0x09-static_libraries/3-islower.c
-|4,54,2,0,1633391388,"~/0x09-static_libraries/3-islower.c"
-'7  3  0  ~/0x09-static_libraries/9-strcpy.c
-|4,55,3,0,1633390991,"~/0x09-static_libraries/9-strcpy.c"
-'8  3  0  ~/0x09-static_libraries/6-abs.c
-|4,56,3,0,1633390930,"~/0x09-static_libraries/6-abs.c"
-'9  3  0  ~/0x09-static_libraries/5-strstr.c
-|4,57,3,0,1633390893,"~/0x09-static_libraries/5-strstr.c"
+'0  61  5  ~/0x12-singly_linked_lists/main.c
+|4,48,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+'1  1  19  ~/0x12-singly_linked_lists/README.md
+|4,49,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
+'2  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,50,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+'3  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,51,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+'4  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,52,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+'5  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,53,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+'6  57  0  ~/0x0B-malloc_free/100-argstostr.c
+|4,54,57,0,1633485501,"~/0x0B-malloc_free/100-argstostr.c"
+'7  21  0  ~/0x0B-malloc_free/4-free_grid.c
+|4,55,21,0,1633485040,"~/0x0B-malloc_free/4-free_grid.c"
+'8  25  1  ~/0x0B-malloc_free/3-alloc_grid.c
+|4,56,25,1,1633484826,"~/0x0B-malloc_free/3-alloc_grid.c"
+'9  36  0  ~/0x0B-malloc_free/3-alloc_grid.c
+|4,57,36,0,1633484776,"~/0x0B-malloc_free/3-alloc_grid.c"
 
 # Jumplist (newest first):
--'  16  0  ~/0x0A-argc_argv/0-whatsmyname.c
-|4,39,16,0,1633397444,"~/0x0A-argc_argv/0-whatsmyname.c"
--'  1  0  ~/0x0A-argc_argv/0-whatsmyname.c
-|4,39,1,0,1633397368,"~/0x0A-argc_argv/0-whatsmyname.c"
--'  27  5  ~/0x0A-argc_argv/main.h
-|4,39,27,5,1633397335,"~/0x0A-argc_argv/main.h"
--'  27  5  ~/0x0A-argc_argv/main.h
-|4,39,27,5,1633397335,"~/0x0A-argc_argv/main.h"
--'  1  0  ~/0x0A-argc_argv/main.h
-|4,39,1,0,1633397254,"~/0x0A-argc_argv/main.h"
--'  1  0  ~/0x0A-argc_argv/main.h
-|4,39,1,0,1633397254,"~/0x0A-argc_argv/main.h"
--'  1  7  ~/0x0A-argc_argv/README.md
-|4,39,1,7,1633397249,"~/0x0A-argc_argv/README.md"
--'  1  7  ~/0x0A-argc_argv/README.md
-|4,39,1,7,1633397249,"~/0x0A-argc_argv/README.md"
--'  1  7  ~/0x0A-argc_argv/README.md
-|4,39,1,7,1633397249,"~/0x0A-argc_argv/README.md"
--'  1  7  ~/0x0A-argc_argv/README.md
-|4,39,1,7,1633397249,"~/0x0A-argc_argv/README.md"
--'  2  0  ~/0x09-static_libraries/create_static_lib.sh
-|4,39,2,0,1633393019,"~/0x09-static_libraries/create_static_lib.sh"
--'  2  0  ~/0x09-static_libraries/create_static_lib.sh
-|4,39,2,0,1633393019,"~/0x09-static_libraries/create_static_lib.sh"
--'  2  0  ~/0x09-static_libraries/create_static_lib.sh
-|4,39,2,0,1633393019,"~/0x09-static_libraries/create_static_lib.sh"
--'  2  0  ~/0x09-static_libraries/create_static_lib.sh
-|4,39,2,0,1633393019,"~/0x09-static_libraries/create_static_lib.sh"
--'  2  0  ~/0x09-static_libraries/create_static_lib.sh
-|4,39,2,0,1633393019,"~/0x09-static_libraries/create_static_lib.sh"
--'  2  0  ~/0x09-static_libraries/create_static_lib.sh
-|4,39,2,0,1633393019,"~/0x09-static_libraries/create_static_lib.sh"
--'  2  0  ~/0x09-static_libraries/create_static_lib.sh
-|4,39,2,0,1633393019,"~/0x09-static_libraries/create_static_lib.sh"
--'  2  0  ~/0x09-static_libraries/create_static_lib.sh
-|4,39,2,0,1633393019,"~/0x09-static_libraries/create_static_lib.sh"
--'  1  0  ~/0x09-static_libraries/create_static_lib.sh
-|4,39,1,0,1633392994,"~/0x09-static_libraries/create_static_lib.sh"
--'  1  0  ~/0x09-static_libraries/create_static_lib.sh
-|4,39,1,0,1633392994,"~/0x09-static_libraries/create_static_lib.sh"
--'  1  0  ~/0x09-static_libraries/create_static_lib.sh
-|4,39,1,0,1633392994,"~/0x09-static_libraries/create_static_lib.sh"
--'  1  0  ~/0x09-static_libraries/create_static_lib.sh
-|4,39,1,0,1633392994,"~/0x09-static_libraries/create_static_lib.sh"
--'  1  0  ~/0x09-static_libraries/create_static_lib.sh
-|4,39,1,0,1633392994,"~/0x09-static_libraries/create_static_lib.sh"
--'  1  0  ~/0x09-static_libraries/create_static_lib.sh
-|4,39,1,0,1633392994,"~/0x09-static_libraries/create_static_lib.sh"
--'  1  0  ~/0x09-static_libraries/create_static_lib.sh
-|4,39,1,0,1633392994,"~/0x09-static_libraries/create_static_lib.sh"
--'  1  0  ~/0x09-static_libraries/create_static_lib.sh
-|4,39,1,0,1633392994,"~/0x09-static_libraries/create_static_lib.sh"
--'  23  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
--'  23  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
--'  23  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
--'  23  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
--'  23  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
--'  23  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
--'  23  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
--'  23  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
--'  23  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
--'  23  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
--'  23  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
--'  23  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
--'  23  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
--'  23  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
--'  23  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
--'  23  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,23,0,1633392764,"~/0x09-static_libraries/100-atoi.c"
--'  1  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,1,0,1633392662,"~/0x09-static_libraries/100-atoi.c"
--'  1  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,1,0,1633392662,"~/0x09-static_libraries/100-atoi.c"
--'  1  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,1,0,1633392662,"~/0x09-static_libraries/100-atoi.c"
--'  1  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,1,0,1633392662,"~/0x09-static_libraries/100-atoi.c"
--'  1  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,1,0,1633392662,"~/0x09-static_libraries/100-atoi.c"
--'  1  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,1,0,1633392662,"~/0x09-static_libraries/100-atoi.c"
--'  1  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,1,0,1633392662,"~/0x09-static_libraries/100-atoi.c"
--'  1  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,1,0,1633392662,"~/0x09-static_libraries/100-atoi.c"
--'  1  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,1,0,1633392662,"~/0x09-static_libraries/100-atoi.c"
--'  1  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,1,0,1633392662,"~/0x09-static_libraries/100-atoi.c"
--'  1  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,1,0,1633392662,"~/0x09-static_libraries/100-atoi.c"
--'  1  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,1,0,1633392662,"~/0x09-static_libraries/100-atoi.c"
--'  1  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,1,0,1633392662,"~/0x09-static_libraries/100-atoi.c"
--'  1  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,1,0,1633392662,"~/0x09-static_libraries/100-atoi.c"
--'  1  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,1,0,1633392662,"~/0x09-static_libraries/100-atoi.c"
--'  1  0  ~/0x09-static_libraries/100-atoi.c
-|4,39,1,0,1633392662,"~/0x09-static_libraries/100-atoi.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  13  0  ~/0x09-static_libraries/_putchar.c
-|4,39,13,0,1633392625,"~/0x09-static_libraries/_putchar.c"
--'  1  0  ~/0x09-static_libraries/_putchar.c
-|4,39,1,0,1633392533,"~/0x09-static_libraries/_putchar.c"
--'  1  0  ~/0x09-static_libraries/_putchar.c
-|4,39,1,0,1633392533,"~/0x09-static_libraries/_putchar.c"
--'  1  0  ~/0x09-static_libraries/_putchar.c
-|4,39,1,0,1633392533,"~/0x09-static_libraries/_putchar.c"
--'  1  0  ~/0x09-static_libraries/_putchar.c
-|4,39,1,0,1633392533,"~/0x09-static_libraries/_putchar.c"
--'  1  0  ~/0x09-static_libraries/_putchar.c
-|4,39,1,0,1633392533,"~/0x09-static_libraries/_putchar.c"
--'  1  0  ~/0x09-static_libraries/_putchar.c
-|4,39,1,0,1633392533,"~/0x09-static_libraries/_putchar.c"
--'  1  0  ~/0x09-static_libraries/_putchar.c
-|4,39,1,0,1633392533,"~/0x09-static_libraries/_putchar.c"
--'  1  0  ~/0x09-static_libraries/_putchar.c
-|4,39,1,0,1633392533,"~/0x09-static_libraries/_putchar.c"
--'  1  0  ~/0x09-static_libraries/_putchar.c
-|4,39,1,0,1633392533,"~/0x09-static_libraries/_putchar.c"
--'  1  0  ~/0x09-static_libraries/_putchar.c
-|4,39,1,0,1633392533,"~/0x09-static_libraries/_putchar.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+-'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+-'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+-'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+-'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+-'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+-'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+-'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+-'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+-'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+-'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+-'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+-'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+-'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+-'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+-'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0B-malloc_free/101-strtow.c
+|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x12-singly_linked_lists/main.c
+	*	1636308683	0
+	"	61	5
+	^	61	6
+	.	61	5
+	+	61	5
+
+> ~/0x12-singly_linked_lists/README.md
+	*	1636308455	0
+	"	1	19
+	^	1	20
+	.	1	20
+	+	1	20
+
+> ~/0x12-singly_linked_lists/0-print_list.c
+	*	1636308102	0
+	"	23	0
+	^	23	0
+	.	22	16
+	+	22	16
+	+	2	0
+	+	4	2
+	+	5	5
+	+	6	2
+	+	7	2
+	+	9	0
+	+	10	1
+	+	11	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	2
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	22	16
+
+> ~/0x0C-more_malloc_free/1-string_nconcat.c
+	*	1634495259	0
+	"	1	0
+
+> ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+	*	1634494586	0
+	"	1	0
+
+> ~/0x0B-malloc_free/101-strtow.c
+	*	1633486472	0
+	"	141	0
+	^	141	0
+	.	142	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	37	9
+	+	38	0
+	+	39	0
+	+	40	0
+	+	41	0
+	+	42	0
+	+	43	0
+	+	44	0
+	+	45	0
+	+	47	0
+	+	48	0
+	+	49	0
+	+	50	0
+	+	51	0
+	+	52	0
+	+	53	0
+	+	55	0
+	+	56	0
+	+	57	2
+	+	58	2
+	+	59	2
+	+	60	2
+	+	61	2
+	+	60	2
+	+	62	2
+	+	61	2
+	+	65	1
+	+	66	0
+	+	67	0
+	+	68	0
+	+	69	0
+	+	70	0
+	+	71	0
+	+	72	0
+	+	73	0
+	+	74	0
+	+	75	0
+	+	76	0
+	+	76	2
+	+	77	0
+	+	79	0
+	+	80	0
+	+	81	2
+	+	82	2
+	+	83	2
+	+	84	2
+	+	83	3
+	+	85	2
+	+	86	2
+	+	87	0
+	+	89	1
+	+	90	0
+	+	92	0
+	+	93	0
+	+	94	0
+	+	95	0
+	+	96	0
+	+	97	0
+	+	98	0
+	+	99	0
+	+	100	0
+	+	101	0
+	+	102	0
+	+	103	0
+	+	104	0
+	+	105	0
+	+	107	0
+	+	108	0
+	+	109	2
+	+	110	2
+	+	111	2
+	+	112	2
+	+	113	2
+	+	114	2
+	+	117	1
+	+	118	0
+	+	120	0
+	+	121	0
+	+	122	0
+	+	123	0
+	+	124	0
+	+	125	0
+	+	127	0
+	+	128	0
+	+	129	2
+	+	130	2
+	+	131	2
+	+	132	2
+	+	133	2
+	+	135	0
+	+	135	1
+	+	136	0
+	+	138	32
+	+	139	16
+	+	140	0
+	+	142	0
+
+> ~/0x0B-malloc_free/100-argstostr.c
+	*	1633485500	0
+	"	57	0
+	^	57	0
+	.	58	0
+	+	57	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	2
+	+	7	2
+	+	8	2
+	+	9	2
+	+	11	0
+	+	12	1
+	+	13	0
+	+	14	2
+	+	16	0
+	+	17	1
+	+	19	0
+	+	21	2
+	+	22	2
+	+	23	2
+	+	24	2
+	+	25	2
+	+	26	0
+	+	28	1
+	+	29	1
+	+	31	0
+	+	15	0
+	+	30	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	39	0
+	+	40	0
+	+	41	0
+	+	42	0
+	+	43	0
+	+	44	0
+	+	45	0
+	+	46	0
+	+	47	0
+	+	47	32
+	+	48	0
+	+	49	0
+	+	50	0
+	+	51	0
+	+	52	0
+	+	54	0
+	+	55	0
+	+	56	0
+	+	58	0
+
+> ~/0x0B-malloc_free/4-free_grid.c
+	*	1633485038	0
+	"	21	0
+	^	21	0
+	.	22	0
+	+	21	0
+	+	3	0
+	+	4	0
+	+	6	2
+	+	7	2
+	+	8	2
+	+	9	2
+	+	10	2
+	+	12	0
+	+	13	1
+	+	14	0
+	+	16	0
+	+	17	0
+	+	17	13
+	+	18	0
+	+	19	0
+	+	20	0
+	+	22	0
+
+> ~/0x0B-malloc_free/3-alloc_grid.c
+	*	1633484823	0
+	"	25	1
+	^	17	1
+	.	17	0
+	+	36	0
+	+	3	0
+	+	5	0
+	+	6	2
+	+	7	2
+	+	8	2
+	+	9	2
+	+	10	2
+	+	12	0
+	+	13	1
+	+	14	3
+	+	15	2
+	+	16	0
+	+	18	3
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	24	40
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	31	3
+	+	32	0
+	+	33	0
+	+	33	18
+	+	34	0
+	+	35	0
+	+	37	0
+	+	17	0
+
+> ~/0x0B-malloc_free/2-str_concat.c
+	*	1633484388	0
+	"	41	0
+	^	41	0
+	.	42	0
+	+	41	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	2
+	+	7	2
+	+	8	2
+	+	9	2
+	+	10	2
+	+	12	0
+	+	13	1
+	+	14	0
+	+	15	0
+	+	16	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	17	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	26	64
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	2
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	38	11
+	+	36	2
+	+	37	0
+	+	38	0
+	+	39	0
+	+	40	0
+	+	42	0
+
+> ~/0x0B-malloc_free/1-strdup.c
+	*	1633483985	0
+	"	32	0
+	^	32	0
+	.	33	0
+	+	32	0
+	+	3	0
+	+	5	0
+	+	6	2
+	+	7	2
+	+	8	2
+	+	9	2
+	+	10	2
+	+	12	0
+	+	13	1
+	+	14	0
+	+	15	0
+	+	17	0
+	+	18	0
+	+	19	1
+	+	20	0
+	+	20	13
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	27	2
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	33	0
+
+> ~/0x0B-malloc_free/0-create_array.c
+	*	1633483692	0
+	"	29	0
+	^	29	0
+	.	30	0
+	+	29	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	2
+	+	7	2
+	+	8	2
+	+	9	2
+	+	10	2
+	+	12	0
+	+	13	1
+	+	14	1
+	+	15	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	27	0
+	+	28	0
+	+	30	0
+
+> ~/0x0B-malloc_free/main.h
+	*	1633483455	0
+	"	25	5
+	^	25	6
+	.	25	5
+	+	25	5
+
+> ~/0x0B-malloc_free/README.md
+	*	1633483405	0
+	"	1	1
+	^	1	2
+	.	1	2
+	+	1	2
+
+> ~/0x0A-argc_argv/100-change.c
+	*	1633398860	0
+	"	40	0
+	^	40	0
+	.	41	0
+	+	40	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	2
+	+	7	2
+	+	8	2
+	+	9	2
+	+	10	2
+	+	11	0
+	+	13	1
+	+	14	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	2
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	29	17
+	+	29	0
+	+	29	17
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	34	11
+	+	35	16
+	+	36	11
+	+	37	16
+	+	38	23
+	+	39	0
+	+	41	0
+
+> ~/0x0A-argc_argv/4-add.c
+	*	1633398444	0
+	"	55	0
+	^	55	0
+	.	56	0
+	+	55	0
+	+	3	0
+	+	4	0
+	+	6	0
+	+	7	2
+	+	8	2
+	+	9	2
+	+	10	0
+	+	12	1
+	+	13	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	14
+	+	18	13
+	+	19	0
+	+	20	0
+	+	22	0
+	+	23	0
+	+	24	2
+	+	25	2
+	+	26	2
+	+	27	2
+	+	28	2
+	+	30	0
+	+	31	1
+	+	32	0
+	+	33	0
+	+	34	0
+	+	36	0
+	+	35	0
+	+	37	0
+	+	38	0
+	+	39	0
+	+	40	0
+	+	41	0
+	+	42	0
+	+	43	0
+	+	44	0
+	+	45	0
+	+	46	0
+	+	46	6
+	+	47	3
+	+	48	0
+	+	49	0
+	+	50	0
+	+	51	0
+	+	52	0
+	+	52	2
+	+	53	0
+	+	54	0
+	+	56	0
+
+> ~/0x0A-argc_argv/3-mul.c
+	*	1633397978	0
+	"	23	0
+	^	23	0
+	.	24	0
+	+	23	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	2
+	+	7	2
+	+	8	2
+	+	9	2
+	+	10	2
+	+	12	0
+	+	13	1
+	+	14	0
+	+	15	0
+	+	15	15
+	+	16	2
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	24	0
+
+> ~/0x0A-argc_argv/2-args.c
+	*	1633397786	0
+	"	18	0
+	^	18	1
+	.	18	1
+	+	18	1
+	+	3	0
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	2
+	+	9	2
+	+	11	0
+	+	12	1
+	+	13	0
+	+	14	0
+	+	16	28
+	+	15	0
+	+	15	17
+	+	16	2
+	+	17	0
+	+	19	0
+	+	18	1
+
+> ~/0x0A-argc_argv/1-args.c
+	*	1633397596	0
+	"	16	0
+	^	16	0
+	.	17	0
+	+	16	0
+	+	3	0
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	2
+	+	9	2
+	+	11	0
+	+	12	1
+	+	13	0
+	+	14	0
+	+	15	0
+	+	17	0
 
 > ~/0x0A-argc_argv/0-whatsmyname.c
 	*	1633397442	0
@@ -1989,463 +2575,3 @@
 	+	30	56
 	+	31	19
 	+	32	2
-
-> ~/0x05-pointers_arrays_strings/5-rev_string.c
-	*	1633047881	0
-	"	39	0
-	^	39	0
-	.	38	2
-	+	38	2
-	+	2	0
-	+	3	3
-	+	5	2
-	+	6	2
-	+	7	3
-	+	8	0
-	+	9	20
-	+	11	13
-	+	13	19
-	+	14	2
-	+	15	8
-	+	16	6
-	+	17	2
-	+	18	14
-	+	19	1
-	+	20	0
-	+	21	3
-	+	23	2
-	+	24	3
-	+	25	0
-	+	26	24
-	+	28	11
-	+	29	26
-	+	30	10
-	+	32	14
-	+	33	2
-	+	34	13
-	+	35	14
-	+	36	13
-	+	37	11
-	+	38	2
-
-> ~/0x05-pointers_arrays_strings/4-print_rev.c
-	*	1633047568	0
-	"	15	0
-	^	15	1
-	.	15	0
-	+	24	16
-	+	1	17
-	+	3	0
-	+	4	3
-	+	6	2
-	+	7	2
-	+	8	3
-	+	9	0
-	+	10	23
-	+	12	7
-	+	13	11
-	+	13	22
-	+	13	53
-	+	17	2
-	+	18	10
-	+	19	2
-	+	20	33
-	+	21	2
-	+	22	17
-	+	23	2
-	+	24	16
-	+	16	0
-	+	15	0
-
-> ~/0x05-pointers_arrays_strings/3-puts.c
-	*	1633047164	0
-	"	13	0
-	^	13	0
-	.	12	16
-	+	13	0
-	+	2	0
-	+	3	3
-	+	5	2
-	+	6	3
-	+	7	0
-	+	8	21
-	+	10	21
-	+	11	19
-	+	12	16
-
-> ~/0x05-pointers_arrays_strings/2-strlen.c
-	*	1633046941	0
-	"	19	0
-	^	19	0
-	.	18	14
-	+	18	14
-	+	1	17
-	+	2	0
-	+	3	3
-	+	5	2
-	+	6	2
-	+	7	3
-	+	8	0
-	+	9	20
-	+	10	1
-	+	11	13
-	+	13	19
-	+	14	2
-	+	15	8
-	+	16	6
-	+	17	2
-	+	18	14
-
-> ~/0x05-pointers_arrays_strings/1-swap.c
-	*	1633046482	0
-	"	13	0
-	^	13	1
-	.	13	0
-	+	17	0
-	+	2	0
-	+	3	3
-	+	5	2
-	+	6	2
-	+	7	3
-	+	8	0
-	+	9	29
-	+	10	1
-	+	10	10
-	+	12	10
-	+	14	9
-	+	15	0
-	+	11	9
-	+	12	0
-	+	13	0
-
-> ~/0x05-pointers_arrays_strings/0-reset_to_98.c
-	*	1633046378	0
-	"	11	0
-	^	11	1
-	.	11	0
-	+	10	10
-	+	2	0
-	+	3	3
-	+	5	2
-	+	6	2
-	+	7	3
-	+	8	0
-	+	9	24
-	+	10	10
-	+	10	1
-	+	11	0
-
-> ~/0x05-pointers_arrays_strings/main.h
-	*	1632798044	0
-	"	187	5
-	^	187	6
-	.	187	5
-	+	187	5
-
-> ~/0x05-pointers_arrays_strings/README.md
-	*	1632797699	0
-	"	3	10
-	^	3	11
-	.	3	10
-	+	3	10
-
-> ~/0x04-more_functions_nested_loops/101-print_number.c
-	*	1632086048	0
-	"	27	1
-	^	27	2
-	.	27	0
-	+	34	2
-	+	2	0
-	+	4	2
-	+	5	2
-	+	6	3
-	+	7	0
-	+	8	24
-	+	9	1
-	+	10	40
-	+	11	18
-	+	12	12
-	+	14	16
-	+	15	5
-	+	15	7
-	+	15	8
-	+	15	5
-	+	16	2
-	+	17	12
-	+	18	3
-	+	19	21
-	+	20	17
-	+	21	3
-	+	22	27
-	+	24	15
-	+	25	20
-	+	26	19
-	+	28	3
-	+	29	27
-	+	30	25
-	+	31	42
-	+	32	14
-	+	33	3
-	+	34	2
-	+	13	0
-	+	23	0
-	+	27	0
-
-> ~/0x04-more_functions_nested_loops/100-prime_factor.c
-	*	1632085639	0
-	"	13	0
-	^	13	1
-	.	13	0
-	+	24	12
-	+	1	18
-	+	2	0
-	+	4	2
-	+	5	2
-	+	6	3
-	+	7	0
-	+	8	14
-	+	9	1
-	+	10	34
-	+	11	27
-	+	12	22
-	+	14	2
-	+	15	25
-	+	16	3
-	+	17	18
-	+	18	15
-	+	19	3
-	+	20	6
-	+	21	13
-	+	22	2
-	+	23	22
-	+	24	12
-	+	13	0
-
-> ~/0x04-more_functions_nested_loops/10-print_triangle.c
-	*	1632085284	0
-	"	25	1
-	^	25	2
-	.	25	0
-	+	26	21
-	+	2	0
-	+	4	2
-	+	5	2
-	+	6	3
-	+	7	0
-	+	8	29
-	+	10	12
-	+	11	11
-	+	12	10
-	+	13	15
-	+	15	17
-	+	16	43
-	+	18	2
-	+	19	52
-	+	20	17
-	+	21	40
-	+	23	17
-	+	24	17
-	+	26	2
-	+	14	0
-	+	17	0
-	+	22	0
-	+	25	0
-
-> ~/0x04-more_functions_nested_loops/9-fizz_buzz.c
-	*	1632084927	0
-	"	26	1
-	^	26	2
-	.	26	0
-	+	30	12
-	+	2	0
-	+	4	2
-	+	5	2
-	+	6	2
-	+	7	2
-	+	8	2
-	+	9	3
-	+	10	0
-	+	10	15
-	+	10	0
-	+	11	14
-	+	13	7
-	+	14	27
-	+	16	2
-	+	17	31
-	+	18	22
-	+	19	22
-	+	20	18
-	+	21	22
-	+	22	18
-	+	23	6
-	+	24	19
-	+	24	33
-	+	27	15
-	+	28	2
-	+	29	14
-	+	30	12
-	+	15	0
-	+	26	0
-
-> ~/0x04-more_functions_nested_loops/8-print_square.c
-	*	1632084563	0
-	"	12	0
-	^	12	1
-	.	12	0
-	+	24	17
-	+	2	0
-	+	4	2
-	+	5	2
-	+	6	3
-	+	7	0
-	+	8	27
-	+	9	1
-	+	10	17
-	+	11	14
-	+	13	2
-	+	14	35
-	+	15	3
-	+	16	45
-	+	17	4
-	+	18	18
-	+	19	4
-	+	20	18
-	+	21	3
-	+	22	2
-	+	23	5
-	+	24	17
-	+	12	0
-
-> ~/0x04-more_functions_nested_loops/7-print_diagonal.c
-	*	1632084216	0
-	"	23	0
-	^	23	1
-	.	13	0
-	+	24	17
-	+	1	17
-	+	2	0
-	+	4	2
-	+	5	2
-	+	6	2
-	+	5	2
-	+	6	3
-	+	7	0
-	+	8	26
-	+	10	10
-	+	11	11
-	+	12	11
-	+	14	2
-	+	15	35
-	+	16	3
-	+	17	41
-	+	18	18
-	+	19	18
-	+	20	18
-	+	21	3
-	+	22	2
-	+	23	5
-	+	24	17
-	+	13	0
-
-> ~/0x04-more_functions_nested_loops/6-print_line.c
-	*	1632083755	0
-	"	12	0
-	^	12	1
-	.	12	0
-	+	14	16
-	+	2	0
-	+	4	2
-	+	5	2
-	+	6	3
-	+	7	0
-	+	8	22
-	+	10	15
-	+	11	36
-	+	13	16
-	+	14	16
-	+	14	0
-	+	15	0
-	+	12	0
-
-> ~/0x04-more_functions_nested_loops/5-more_numbers.c
-	*	1632083510	0
-	"	12	0
-	^	12	1
-	.	12	0
-	+	20	17
-	+	2	0
-	+	4	2
-	+	5	3
-	+	6	0
-	+	7	23
-	+	8	1
-	+	9	8
-	+	10	13
-	+	11	44
-	+	13	2
-	+	14	27
-	+	15	3
-	+	16	18
-	+	17	29
-	+	18	28
-	+	19	3
-	+	20	17
-	+	21	2
-	+	12	0
-
-> ~/0x04-more_functions_nested_loops/4-print_most_numbers.c
-	*	1632083175	0
-	"	11	0
-	^	11	1
-	.	11	0
-	+	16	16
-	+	1	17
-	+	2	0
-	+	4	2
-	+	5	3
-	+	6	0
-	+	7	29
-	+	8	1
-	+	9	8
-	+	10	29
-	+	12	2
-	+	13	27
-	+	14	15
-	+	15	2
-	+	16	16
-	+	11	0
-
-> ~/0x04-more_functions_nested_loops/3-print_numbers.c
-	*	1632082962	0
-	"	14	0
-	^	14	1
-	.	14	0
-	+	13	16
-	+	2	0
-	+	4	2
-	+	5	3
-	+	6	0
-	+	7	24
-	+	9	8
-	+	10	29
-	+	12	14
-	+	13	16
-	+	11	0
-	+	14	0
-
-> ~/0x04-more_functions_nested_loops/2-mul.c
-	*	1632082669	0
-	"	13	0
-	^	13	0
-	.	12	16
-	+	12	16
-	+	2	0
-	+	3	3
-	+	5	2
-	+	6	2
-	+	7	2
-	+	8	3
-	+	9	0
-	+	10	21
-	+	11	1
-	+	12	16
