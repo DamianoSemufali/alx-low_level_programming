@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1636308685,,"wq"
+|2,0,1637054861,,"wq"
 :wq\
 |2,0,1636308446,,"wq\\"
 :q
@@ -58,36 +58,92 @@
 |3,1,36,0,1,0,1633390188,"f"
 
 # File marks:
-'0  61  5  ~/0x12-singly_linked_lists/main.c
-|4,48,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+'0  61  5  ~/0x12-singly_linked_lists/list.h
+|4,48,61,5,1637054861,"~/0x12-singly_linked_lists/list.h"
 '1  1  19  ~/0x12-singly_linked_lists/README.md
-|4,49,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
+|4,49,1,19,1637054749,"~/0x12-singly_linked_lists/README.md"
 '2  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,50,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
-'3  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,51,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
-'4  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,52,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
-'5  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,53,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
-'6  57  0  ~/0x0B-malloc_free/100-argstostr.c
-|4,54,57,0,1633485501,"~/0x0B-malloc_free/100-argstostr.c"
-'7  21  0  ~/0x0B-malloc_free/4-free_grid.c
-|4,55,21,0,1633485040,"~/0x0B-malloc_free/4-free_grid.c"
-'8  25  1  ~/0x0B-malloc_free/3-alloc_grid.c
-|4,56,25,1,1633484826,"~/0x0B-malloc_free/3-alloc_grid.c"
-'9  36  0  ~/0x0B-malloc_free/3-alloc_grid.c
-|4,57,36,0,1633484776,"~/0x0B-malloc_free/3-alloc_grid.c"
+|4,50,23,0,1637054719,"~/0x12-singly_linked_lists/0-print_list.c"
+'3  61  5  ~/0x12-singly_linked_lists/main.c
+|4,51,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+'4  1  19  ~/0x12-singly_linked_lists/README.md
+|4,52,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
+'5  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,53,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+'6  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,54,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+'7  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
+|4,55,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
+'8  141  0  ~/0x0B-malloc_free/101-strtow.c
+|4,56,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
+'9  57  0  ~/0x0B-malloc_free/100-argstostr.c
+|4,57,57,0,1633485501,"~/0x0B-malloc_free/100-argstostr.c"
 
 # Jumplist (newest first):
+-'  61  5  ~/0x12-singly_linked_lists/list.h
+|4,39,61,5,1637054861,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637054834,"~/0x12-singly_linked_lists/list.h"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1637054749,"~/0x12-singly_linked_lists/README.md"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1637054749,"~/0x12-singly_linked_lists/README.md"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637054719,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637054719,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637054719,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637054719,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  61  5  ~/0x12-singly_linked_lists/main.c
 |4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
 -'  1  0  ~/0x12-singly_linked_lists/main.c
 |4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
 -'  1  19  ~/0x12-singly_linked_lists/README.md
 |4,39,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
 -'  1  19  ~/0x12-singly_linked_lists/README.md
 |4,39,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
 -'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
 |4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
@@ -96,6 +152,62 @@
 |4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
 |4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
 |4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
@@ -120,185 +232,73 @@
 |4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
 -'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
 |4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
--'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
--'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
--'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
--'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
--'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
--'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
--'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
--'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
--'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
--'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
--'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
--'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
--'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
--'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
--'  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,39,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
--'  1  0  ~/0x0B-malloc_free/101-strtow.c
-|4,39,1,0,1633485610,"~/0x0B-malloc_free/101-strtow.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
+|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
 
 # History of marks within files (newest to oldest):
 
-> ~/0x12-singly_linked_lists/main.c
-	*	1636308683	0
+> ~/0x12-singly_linked_lists/list.h
+	*	1637054859	0
 	"	61	5
 	^	61	6
 	.	61	5
 	+	61	5
 
 > ~/0x12-singly_linked_lists/README.md
-	*	1636308455	0
+	*	1637054747	0
 	"	1	19
 	^	1	20
 	.	1	20
 	+	1	20
 
 > ~/0x12-singly_linked_lists/0-print_list.c
-	*	1636308102	0
+	*	1637054717	0
 	"	23	0
 	^	23	0
 	.	22	16
@@ -322,6 +322,13 @@
 	+	21	0
 	+	22	0
 	+	22	16
+
+> ~/0x12-singly_linked_lists/main.c
+	*	1636308683	0
+	"	61	5
+	^	61	6
+	.	61	5
+	+	61	5
 
 > ~/0x0C-more_malloc_free/1-string_nconcat.c
 	*	1634495259	0
@@ -2544,34 +2551,3 @@
 	+	39	8
 	+	40	2
 	+	41	16
-
-> ~/0x05-pointers_arrays_strings/6-puts2.c
-	*	1633048341	0
-	"	32	2
-	^	32	3
-	.	32	2
-	+	32	15
-	+	2	0
-	+	3	3
-	+	5	2
-	+	6	2
-	+	7	3
-	+	8	0
-	+	9	20
-	+	11	13
-	+	13	19
-	+	14	2
-	+	15	8
-	+	16	6
-	+	17	2
-	+	18	14
-	+	20	0
-	+	21	3
-	+	23	2
-	+	24	3
-	+	25	0
-	+	26	21
-	+	28	7
-	+	30	56
-	+	31	19
-	+	32	2
