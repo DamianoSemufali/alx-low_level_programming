@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1637054861,,"wq"
+|2,0,1637056210,,"wq"
 :wq\
 |2,0,1636308446,,"wq\\"
 :q
@@ -58,36 +58,70 @@
 |3,1,36,0,1,0,1633390188,"f"
 
 # File marks:
-'0  61  5  ~/0x12-singly_linked_lists/list.h
-|4,48,61,5,1637054861,"~/0x12-singly_linked_lists/list.h"
-'1  1  19  ~/0x12-singly_linked_lists/README.md
-|4,49,1,19,1637054749,"~/0x12-singly_linked_lists/README.md"
-'2  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,50,23,0,1637054719,"~/0x12-singly_linked_lists/0-print_list.c"
-'3  61  5  ~/0x12-singly_linked_lists/main.c
-|4,51,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+'0  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,48,23,0,1637056210,"~/0x12-singly_linked_lists/0-print_list.c"
+'1  1  0  ~/0x12-singly_linked_lists/list.h
+|4,49,1,0,1637056141,"~/0x12-singly_linked_lists/list.h"
+'2  59  5  ~/0x12-singly_linked_lists/list.h
+|4,50,59,5,1637054861,"~/0x12-singly_linked_lists/list.h"
+'3  61  5  ~/0x12-singly_linked_lists/list.h
+|4,51,61,5,1637054861,"~/0x12-singly_linked_lists/list.h"
 '4  1  19  ~/0x12-singly_linked_lists/README.md
-|4,52,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
+|4,52,1,19,1637054749,"~/0x12-singly_linked_lists/README.md"
 '5  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,53,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
-'6  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,54,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
-'7  1  0  ~/0x0C-more_malloc_free/0x0C-more_malloc_free
-|4,55,1,0,1634494587,"~/0x0C-more_malloc_free/0x0C-more_malloc_free"
-'8  141  0  ~/0x0B-malloc_free/101-strtow.c
-|4,56,141,0,1633486473,"~/0x0B-malloc_free/101-strtow.c"
-'9  57  0  ~/0x0B-malloc_free/100-argstostr.c
-|4,57,57,0,1633485501,"~/0x0B-malloc_free/100-argstostr.c"
+|4,53,23,0,1637054719,"~/0x12-singly_linked_lists/0-print_list.c"
+'6  61  5  ~/0x12-singly_linked_lists/main.c
+|4,54,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+'7  1  19  ~/0x12-singly_linked_lists/README.md
+|4,55,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
+'8  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,56,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
+'9  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,57,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
 
 # Jumplist (newest first):
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637056210,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637056141,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637056141,"~/0x12-singly_linked_lists/list.h"
+-'  59  5  ~/0x12-singly_linked_lists/list.h
+|4,39,59,5,1637056087,"~/0x12-singly_linked_lists/list.h"
+-'  59  5  ~/0x12-singly_linked_lists/list.h
+|4,39,59,5,1637056087,"~/0x12-singly_linked_lists/list.h"
 -'  61  5  ~/0x12-singly_linked_lists/list.h
 |4,39,61,5,1637054861,"~/0x12-singly_linked_lists/list.h"
+-'  61  5  ~/0x12-singly_linked_lists/list.h
+|4,39,61,5,1637054861,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637054834,"~/0x12-singly_linked_lists/list.h"
 -'  1  0  ~/0x12-singly_linked_lists/list.h
 |4,39,1,0,1637054834,"~/0x12-singly_linked_lists/list.h"
 -'  1  19  ~/0x12-singly_linked_lists/README.md
 |4,39,1,19,1637054749,"~/0x12-singly_linked_lists/README.md"
 -'  1  19  ~/0x12-singly_linked_lists/README.md
 |4,39,1,19,1637054749,"~/0x12-singly_linked_lists/README.md"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1637054749,"~/0x12-singly_linked_lists/README.md"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1637054749,"~/0x12-singly_linked_lists/README.md"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1637054749,"~/0x12-singly_linked_lists/README.md"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1637054749,"~/0x12-singly_linked_lists/README.md"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1637054749,"~/0x12-singly_linked_lists/README.md"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1637054749,"~/0x12-singly_linked_lists/README.md"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637054719,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637054719,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637054719,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637054719,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
 |4,39,23,0,1637054719,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
@@ -112,6 +146,102 @@
 |4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
 -'  61  5  ~/0x12-singly_linked_lists/main.c
 |4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  61  5  ~/0x12-singly_linked_lists/main.c
+|4,39,61,5,1636308685,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
+-'  1  0  ~/0x12-singly_linked_lists/main.c
+|4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
 -'  1  0  ~/0x12-singly_linked_lists/main.c
 |4,39,1,0,1636308465,"~/0x12-singly_linked_lists/main.c"
 -'  1  0  ~/0x12-singly_linked_lists/main.c
@@ -144,161 +274,17 @@
 |4,39,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
 -'  1  19  ~/0x12-singly_linked_lists/README.md
 |4,39,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1636308104,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1636307894,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
--'  1  0  ~/0x0C-more_malloc_free/1-string_nconcat.c
-|4,39,1,0,1634495262,"~/0x0C-more_malloc_free/1-string_nconcat.c"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
+-'  1  19  ~/0x12-singly_linked_lists/README.md
+|4,39,1,19,1636308457,"~/0x12-singly_linked_lists/README.md"
 
 # History of marks within files (newest to oldest):
 
-> ~/0x12-singly_linked_lists/list.h
-	*	1637054859	0
-	"	61	5
-	^	61	6
-	.	61	5
-	+	61	5
-
-> ~/0x12-singly_linked_lists/README.md
-	*	1637054747	0
-	"	1	19
-	^	1	20
-	.	1	20
-	+	1	20
-
 > ~/0x12-singly_linked_lists/0-print_list.c
-	*	1637054717	0
+	*	1637056207	0
 	"	23	0
 	^	23	0
 	.	22	16
@@ -322,6 +308,23 @@
 	+	21	0
 	+	22	0
 	+	22	16
+
+> ~/0x12-singly_linked_lists/list.h
+	*	1637056136	0
+	"	1	0
+	^	1	0
+	.	56	0
+	+	59	0
+	+	60	0
+	+	58	0
+	+	56	0
+
+> ~/0x12-singly_linked_lists/README.md
+	*	1637054747	0
+	"	1	19
+	^	1	20
+	.	1	20
+	+	1	20
 
 > ~/0x12-singly_linked_lists/main.c
 	*	1636308683	0
