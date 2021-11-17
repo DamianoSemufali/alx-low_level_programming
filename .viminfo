@@ -15,11 +15,15 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1637157052,,"wq"
+|2,0,1637159134,,"wq"
+:q!
+|2,0,1637158778,,"q!"
+:q
+|2,0,1637158766,,"q"
+:WQ
+|2,0,1637158651,,"WQ"
 :Wq
 |2,0,1637129079,,"Wq"
-:q
-|2,0,1637127187,,"q"
 :wq\
 |2,0,1636308446,,"wq\\"
 :wq!
@@ -32,8 +36,6 @@
 |2,0,1632797697,,"wQ"
 :wwq
 |2,0,1632082259,,"wwq"
-:q!
-|2,0,1631341785,,"q!"
 :wNextq
 |2,0,1630543131,,"wNextq"
 
@@ -58,230 +60,308 @@
 |3,1,36,0,1,0,1633390188,"f"
 
 # File marks:
-'0  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,48,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
-'1  1  2  ~/0x14-bit_manipulation/101-password
-|4,49,1,2,1637142849,"~/0x14-bit_manipulation/101-password"
-'2  18  0  ~/0x14-bit_manipulation/100-get_endianness.c
-|4,50,18,0,1637141981,"~/0x14-bit_manipulation/100-get_endianness.c"
-'3  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,51,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
-'4  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,52,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
-'5  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,53,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
-'6  23  0  ~/0x14-bit_manipulation/2-get_bit.c
-|4,54,23,0,1637139977,"~/0x14-bit_manipulation/2-get_bit.c"
-'7  34  0  ~/0x14-bit_manipulation/1-print_binary.c
-|4,55,34,0,1637139641,"~/0x14-bit_manipulation/1-print_binary.c"
-'8  37  0  ~/0x14-bit_manipulation/main.h
-|4,56,37,0,1637139264,"~/0x14-bit_manipulation/main.h"
-'9  1  15  ~/0x14-bit_manipulation/README.md
-|4,57,1,15,1637139227,"~/0x14-bit_manipulation/README.md"
+'0  1  8  ~/0x15-file_io/0-read_textfile.c
+|4,48,1,8,1637159134,"~/0x15-file_io/0-read_textfile.c"
+'1  43  5  ~/0x15-file_io/main.h
+|4,49,43,5,1637158799,"~/0x15-file_io/main.h"
+'2  43  5  ~/0x15-file_io/main.h#ifndef
+|4,50,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+'3  1  7  ~/0x15-file_io/README.md
+|4,51,1,7,1637158663,"~/0x15-file_io/README.md"
+'4  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,52,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
+'5  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,53,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
+'6  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,54,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+'7  1  2  ~/0x14-bit_manipulation/101-password
+|4,55,1,2,1637142849,"~/0x14-bit_manipulation/101-password"
+'8  18  0  ~/0x14-bit_manipulation/100-get_endianness.c
+|4,56,18,0,1637141981,"~/0x14-bit_manipulation/100-get_endianness.c"
+'9  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,57,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
 
 # Jumplist (newest first):
+-'  1  8  ~/0x15-file_io/0-read_textfile.c
+|4,39,1,8,1637159134,"~/0x15-file_io/0-read_textfile.c"
+-'  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,49,0,1637159054,"~/0x15-file_io/0-read_textfile.c"
+-'  43  5  ~/0x15-file_io/main.h
+|4,39,43,5,1637158799,"~/0x15-file_io/main.h"
+-'  43  5  ~/0x15-file_io/main.h
+|4,39,43,5,1637158799,"~/0x15-file_io/main.h"
+-'  1  0  ~/0x15-file_io/main.h
+|4,39,1,0,1637158785,"~/0x15-file_io/main.h"
+-'  1  0  ~/0x15-file_io/main.h
+|4,39,1,0,1637158785,"~/0x15-file_io/main.h"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  1  0  ~/0x15-file_io/main.h#ifndef
+|4,39,1,0,1637158702,"~/0x15-file_io/main.h#ifndef"
+-'  1  0  ~/0x15-file_io/main.h#ifndef
+|4,39,1,0,1637158702,"~/0x15-file_io/main.h#ifndef"
+-'  1  0  ~/0x15-file_io/main.h#ifndef
+|4,39,1,0,1637158702,"~/0x15-file_io/main.h#ifndef"
+-'  1  0  ~/0x15-file_io/main.h#ifndef
+|4,39,1,0,1637158702,"~/0x15-file_io/main.h#ifndef"
+-'  1  7  ~/0x15-file_io/README.md
+|4,39,1,7,1637158663,"~/0x15-file_io/README.md"
+-'  1  7  ~/0x15-file_io/README.md
+|4,39,1,7,1637158663,"~/0x15-file_io/README.md"
+-'  1  7  ~/0x15-file_io/README.md
+|4,39,1,7,1637158663,"~/0x15-file_io/README.md"
+-'  1  7  ~/0x15-file_io/README.md
+|4,39,1,7,1637158663,"~/0x15-file_io/README.md"
+-'  1  7  ~/0x15-file_io/README.md
+|4,39,1,7,1637158663,"~/0x15-file_io/README.md"
+-'  1  7  ~/0x15-file_io/README.md
+|4,39,1,7,1637158663,"~/0x15-file_io/README.md"
+-'  1  7  ~/0x15-file_io/README.md
+|4,39,1,7,1637158663,"~/0x15-file_io/README.md"
+-'  1  7  ~/0x15-file_io/README.md
+|4,39,1,7,1637158663,"~/0x15-file_io/README.md"
+-'  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
+-'  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
+-'  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
+-'  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
+-'  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
+-'  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
+-'  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
+-'  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
+-'  1  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,1,0,1637158044,"~/0x15-file_io/0-read_textfile.c"
+-'  1  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,1,0,1637158044,"~/0x15-file_io/0-read_textfile.c"
+-'  1  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,1,0,1637158044,"~/0x15-file_io/0-read_textfile.c"
+-'  1  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,1,0,1637158044,"~/0x15-file_io/0-read_textfile.c"
+-'  1  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,1,0,1637158044,"~/0x15-file_io/0-read_textfile.c"
+-'  1  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,1,0,1637158044,"~/0x15-file_io/0-read_textfile.c"
+-'  1  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,1,0,1637158044,"~/0x15-file_io/0-read_textfile.c"
+-'  1  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,1,0,1637158044,"~/0x15-file_io/0-read_textfile.c"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
 -'  2  0  ~/0x14-bit_manipulation/Crackme3
 |4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
 -'  1  0  ~/0x14-bit_manipulation/Crackme3
 |4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  2  ~/0x14-bit_manipulation/101-password
-|4,39,1,2,1637142849,"~/0x14-bit_manipulation/101-password"
--'  1  2  ~/0x14-bit_manipulation/101-password
-|4,39,1,2,1637142849,"~/0x14-bit_manipulation/101-password"
--'  18  0  ~/0x14-bit_manipulation/100-get_endianness.c
-|4,39,18,0,1637141981,"~/0x14-bit_manipulation/100-get_endianness.c"
--'  18  0  ~/0x14-bit_manipulation/100-get_endianness.c
-|4,39,18,0,1637141981,"~/0x14-bit_manipulation/100-get_endianness.c"
--'  18  0  ~/0x14-bit_manipulation/100-get_endianness.c
-|4,39,18,0,1637141981,"~/0x14-bit_manipulation/100-get_endianness.c"
--'  18  0  ~/0x14-bit_manipulation/100-get_endianness.c
-|4,39,18,0,1637141981,"~/0x14-bit_manipulation/100-get_endianness.c"
--'  1  0  ~/0x14-bit_manipulation/100-get_endianness.c
-|4,39,1,0,1637141814,"~/0x14-bit_manipulation/100-get_endianness.c"
--'  1  0  ~/0x14-bit_manipulation/100-get_endianness.c
-|4,39,1,0,1637141814,"~/0x14-bit_manipulation/100-get_endianness.c"
--'  1  0  ~/0x14-bit_manipulation/100-get_endianness.c
-|4,39,1,0,1637141814,"~/0x14-bit_manipulation/100-get_endianness.c"
--'  1  0  ~/0x14-bit_manipulation/100-get_endianness.c
-|4,39,1,0,1637141814,"~/0x14-bit_manipulation/100-get_endianness.c"
--'  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,39,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
--'  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,39,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
--'  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,39,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
--'  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,39,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
--'  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,39,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
--'  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,39,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
--'  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,39,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
--'  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,39,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
--'  1  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,39,1,0,1637140865,"~/0x14-bit_manipulation/5-flip_bits.c"
--'  1  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,39,1,0,1637140865,"~/0x14-bit_manipulation/5-flip_bits.c"
--'  1  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,39,1,0,1637140865,"~/0x14-bit_manipulation/5-flip_bits.c"
--'  1  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,39,1,0,1637140865,"~/0x14-bit_manipulation/5-flip_bits.c"
--'  1  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,39,1,0,1637140865,"~/0x14-bit_manipulation/5-flip_bits.c"
--'  1  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,39,1,0,1637140865,"~/0x14-bit_manipulation/5-flip_bits.c"
--'  1  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,39,1,0,1637140865,"~/0x14-bit_manipulation/5-flip_bits.c"
--'  1  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,39,1,0,1637140865,"~/0x14-bit_manipulation/5-flip_bits.c"
--'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
-|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
--'  1  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,1,0,1637140139,"~/0x14-bit_manipulation/3-set_bit.c"
--'  1  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,1,0,1637140139,"~/0x14-bit_manipulation/3-set_bit.c"
--'  1  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,1,0,1637140139,"~/0x14-bit_manipulation/3-set_bit.c"
--'  1  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,1,0,1637140139,"~/0x14-bit_manipulation/3-set_bit.c"
--'  1  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,1,0,1637140139,"~/0x14-bit_manipulation/3-set_bit.c"
--'  1  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,1,0,1637140139,"~/0x14-bit_manipulation/3-set_bit.c"
--'  1  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,1,0,1637140139,"~/0x14-bit_manipulation/3-set_bit.c"
--'  1  0  ~/0x14-bit_manipulation/3-set_bit.c
-|4,39,1,0,1637140139,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x15-file_io/0-read_textfile.c
+	*	1637159133	0
+	"	1	8
+	^	1	9
+	.	39	1
+	+	49	0
+	+	3	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	2
+	+	10	0
+	+	11	1
+	+	12	0
+	+	13	0
+	+	14	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	20	0
+	+	19	0
+	+	21	0
+	+	22	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	34	13
+	+	36	0
+	+	37	0
+	+	39	0
+	+	38	0
+	+	39	47
+	+	40	0
+	+	41	0
+	+	42	0
+	+	43	0
+	+	44	0
+	+	44	13
+	+	45	2
+	+	47	0
+	+	48	0
+	+	50	0
+	+	33	0
+	+	34	13
+	+	34	0
+	+	33	0
+	+	35	0
+	+	39	1
+
+> ~/0x15-file_io/main.h
+	*	1637158798	0
+	"	43	5
+	^	43	6
+	.	43	5
+	+	43	5
+
+> ~/0x15-file_io/main.h#ifndef
+	*	1637158754	0
+	"	43	5
+	^	43	6
+	.	43	0
+	+	43	0
+
+> ~/0x15-file_io/README.md
+	*	1637158651	0
+	"	1	7
+	^	1	8
+	.	1	7
+	+	1	7
 
 > ~/0x14-bit_manipulation/Crackme3
 	*	1637157051	0
@@ -2412,132 +2492,3 @@
 	^	179	6
 	.	179	5
 	+	179	5
-
-> ~/0x07-pointers_arrays_strings/README.md
-	*	1633183211	0
-	"	1	52
-	^	1	53
-	.	1	53
-	+	1	53
-
-> ~/0x06-pointers_arrays_strings/104-print_buffer.c
-	*	1633162098	0
-	"	44	0
-	^	44	0
-	.	43	15
-	+	43	15
-	+	1	17
-	+	3	0
-	+	5	2
-	+	6	2
-	+	7	2
-	+	8	2
-	+	9	2
-	+	10	3
-	+	11	0
-	+	12	36
-	+	13	1
-	+	14	17
-	+	15	0
-	+	16	40
-	+	17	2
-	+	18	25
-	+	19	38
-	+	20	3
-	+	21	30
-	+	22	17
-	+	22	18
-	+	24	40
-	+	23	7
-	+	24	40
-	+	25	38
-	+	26	16
-	+	27	3
-	+	28	38
-	+	29	3
-	+	30	30
-	+	31	10
-	+	32	40
-	+	33	32
-	+	34	38
-	+	35	7
-	+	36	16
-	+	37	3
-	+	38	19
-	+	39	12
-	+	40	15
-	+	41	2
-	+	42	15
-	+	43	15
-
-> ~/0x06-pointers_arrays_strings/103-infinite_add.c
-	*	1633161605	0
-	"	47	0
-	^	47	0
-	.	46	12
-	+	46	12
-	+	2	0
-	+	4	2
-	+	5	3
-	+	6	2
-	+	7	2
-	+	8	2
-	+	9	2
-	+	10	3
-	+	11	0
-	+	12	59
-	+	14	22
-	+	16	24
-	+	17	3
-	+	18	24
-	+	19	3
-	+	20	30
-	+	21	13
-	+	22	7
-	+	23	59
-	+	24	2
-	+	25	8
-	+	26	13
-	+	27	20
-	+	28	13
-	+	29	20
-	+	30	31
-	+	31	3
-	+	32	9
-	+	33	3
-	+	34	13
-	+	35	22
-	+	37	13
-	+	38	27
-	+	39	13
-	+	40	37
-	+	41	2
-	+	42	11
-	+	43	14
-	+	44	11
-	+	45	2
-	+	46	12
-
-> ~/0x06-pointers_arrays_strings/102-magic.c
-	*	1633160938	0
-	"	11	13
-	^	11	14
-	.	12	0
-	+	13	12
-	+	2	0
-	+	3	14
-	+	5	7
-	+	6	10
-	+	7	8
-	+	8	13
-	+	10	0
-	+	11	0
-	+	9	0
-	+	11	4
-	+	11	6
-	+	11	18
-	+	11	48
-	+	12	29
-	+	13	12
-	+	11	1
-	+	12	0
