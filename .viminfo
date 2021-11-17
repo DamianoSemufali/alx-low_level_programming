@@ -15,13 +15,13 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1637127253,,"wq"
+|2,0,1637157052,,"wq"
+:Wq
+|2,0,1637129079,,"Wq"
 :q
 |2,0,1637127187,,"q"
 :wq\
 |2,0,1636308446,,"wq\\"
-:Wq
-|2,0,1633397439,,"Wq"
 :wq!
 |2,0,1633283159,,"wq!"
 :wqq
@@ -58,230 +58,642 @@
 |3,1,36,0,1,0,1633390188,"f"
 
 # File marks:
-'0  22  1  ~/0x12-singly_linked_lists/lists.h
-|4,48,22,1,1637127253,"~/0x12-singly_linked_lists/lists.h"
-'1  1  0  ~/0x12-singly_linked_lists/list.h
-|4,49,1,0,1637127187,"~/0x12-singly_linked_lists/list.h"
-'2  25  1  ~/0x12-singly_linked_lists/0-print_list.c
-|4,50,25,1,1637127006,"~/0x12-singly_linked_lists/0-print_list.c"
-'3  47  0  ~/0x12-singly_linked_lists/lists.h
-|4,51,47,0,1637126531,"~/0x12-singly_linked_lists/lists.h"
-'4  54  0  ~/0x12-singly_linked_lists/lists.h
-|4,52,54,0,1637126531,"~/0x12-singly_linked_lists/lists.h"
-'5  1  0  ~/0x12-singly_linked_lists/lists.h
-|4,53,1,0,1637126081,"~/0x12-singly_linked_lists/lists.h"
-'6  1  0  ~/0x12-singly_linked_lists/lists.h
-|4,54,1,0,1637126081,"~/0x12-singly_linked_lists/lists.h"
-'7  1  0  ~/0x12-singly_linked_lists/lists.h
-|4,55,1,0,1637126081,"~/0x12-singly_linked_lists/lists.h"
-'8  1  0  ~/0x12-singly_linked_lists/lists.h
-|4,56,1,0,1637126081,"~/0x12-singly_linked_lists/lists.h"
-'9  26  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,57,26,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
+'0  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,48,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+'1  1  2  ~/0x14-bit_manipulation/101-password
+|4,49,1,2,1637142849,"~/0x14-bit_manipulation/101-password"
+'2  18  0  ~/0x14-bit_manipulation/100-get_endianness.c
+|4,50,18,0,1637141981,"~/0x14-bit_manipulation/100-get_endianness.c"
+'3  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,51,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
+'4  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,52,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
+'5  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,53,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+'6  23  0  ~/0x14-bit_manipulation/2-get_bit.c
+|4,54,23,0,1637139977,"~/0x14-bit_manipulation/2-get_bit.c"
+'7  34  0  ~/0x14-bit_manipulation/1-print_binary.c
+|4,55,34,0,1637139641,"~/0x14-bit_manipulation/1-print_binary.c"
+'8  37  0  ~/0x14-bit_manipulation/main.h
+|4,56,37,0,1637139264,"~/0x14-bit_manipulation/main.h"
+'9  1  15  ~/0x14-bit_manipulation/README.md
+|4,57,1,15,1637139227,"~/0x14-bit_manipulation/README.md"
 
 # Jumplist (newest first):
--'  22  1  ~/0x12-singly_linked_lists/lists.h
-|4,39,22,1,1637127253,"~/0x12-singly_linked_lists/lists.h"
--'  47  0  ~/0x12-singly_linked_lists/lists.h
-|4,39,47,0,1637127192,"~/0x12-singly_linked_lists/lists.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637127187,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637127187,"~/0x12-singly_linked_lists/list.h"
--'  25  1  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,25,1,1637127006,"~/0x12-singly_linked_lists/0-print_list.c"
--'  25  1  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,25,1,1637127006,"~/0x12-singly_linked_lists/0-print_list.c"
--'  25  1  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,25,1,1637127006,"~/0x12-singly_linked_lists/0-print_list.c"
--'  25  1  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,25,1,1637127006,"~/0x12-singly_linked_lists/0-print_list.c"
--'  26  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,26,0,1637126812,"~/0x12-singly_linked_lists/0-print_list.c"
--'  26  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,26,0,1637126812,"~/0x12-singly_linked_lists/0-print_list.c"
--'  26  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,26,0,1637126812,"~/0x12-singly_linked_lists/0-print_list.c"
--'  26  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,26,0,1637126812,"~/0x12-singly_linked_lists/0-print_list.c"
--'  54  0  ~/0x12-singly_linked_lists/lists.h
-|4,39,54,0,1637126531,"~/0x12-singly_linked_lists/lists.h"
--'  54  0  ~/0x12-singly_linked_lists/lists.h
-|4,39,54,0,1637126531,"~/0x12-singly_linked_lists/lists.h"
--'  54  0  ~/0x12-singly_linked_lists/lists.h
-|4,39,54,0,1637126531,"~/0x12-singly_linked_lists/lists.h"
--'  54  0  ~/0x12-singly_linked_lists/lists.h
-|4,39,54,0,1637126531,"~/0x12-singly_linked_lists/lists.h"
--'  1  0  ~/0x12-singly_linked_lists/lists.h
-|4,39,1,0,1637126415,"~/0x12-singly_linked_lists/lists.h"
--'  1  0  ~/0x12-singly_linked_lists/lists.h
-|4,39,1,0,1637126415,"~/0x12-singly_linked_lists/lists.h"
--'  1  0  ~/0x12-singly_linked_lists/lists.h
-|4,39,1,0,1637126415,"~/0x12-singly_linked_lists/lists.h"
--'  1  0  ~/0x12-singly_linked_lists/lists.h
-|4,39,1,0,1637126415,"~/0x12-singly_linked_lists/lists.h"
--'  1  0  ~/0x12-singly_linked_lists/lists.h
-|4,39,1,0,1637126415,"~/0x12-singly_linked_lists/lists.h"
--'  1  0  ~/0x12-singly_linked_lists/lists.h
-|4,39,1,0,1637126081,"~/0x12-singly_linked_lists/lists.h"
--'  1  0  ~/0x12-singly_linked_lists/lists.h
-|4,39,1,0,1637126081,"~/0x12-singly_linked_lists/lists.h"
--'  1  0  ~/0x12-singly_linked_lists/lists.h
-|4,39,1,0,1637126081,"~/0x12-singly_linked_lists/lists.h"
--'  1  0  ~/0x12-singly_linked_lists/lists.h
-|4,39,1,0,1637126081,"~/0x12-singly_linked_lists/lists.h"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  1  0  ~/0x12-singly_linked_lists/list.h
-|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x14-bit_manipulation/Crackme3
+|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  2  ~/0x14-bit_manipulation/101-password
+|4,39,1,2,1637142849,"~/0x14-bit_manipulation/101-password"
+-'  1  2  ~/0x14-bit_manipulation/101-password
+|4,39,1,2,1637142849,"~/0x14-bit_manipulation/101-password"
+-'  18  0  ~/0x14-bit_manipulation/100-get_endianness.c
+|4,39,18,0,1637141981,"~/0x14-bit_manipulation/100-get_endianness.c"
+-'  18  0  ~/0x14-bit_manipulation/100-get_endianness.c
+|4,39,18,0,1637141981,"~/0x14-bit_manipulation/100-get_endianness.c"
+-'  18  0  ~/0x14-bit_manipulation/100-get_endianness.c
+|4,39,18,0,1637141981,"~/0x14-bit_manipulation/100-get_endianness.c"
+-'  18  0  ~/0x14-bit_manipulation/100-get_endianness.c
+|4,39,18,0,1637141981,"~/0x14-bit_manipulation/100-get_endianness.c"
+-'  1  0  ~/0x14-bit_manipulation/100-get_endianness.c
+|4,39,1,0,1637141814,"~/0x14-bit_manipulation/100-get_endianness.c"
+-'  1  0  ~/0x14-bit_manipulation/100-get_endianness.c
+|4,39,1,0,1637141814,"~/0x14-bit_manipulation/100-get_endianness.c"
+-'  1  0  ~/0x14-bit_manipulation/100-get_endianness.c
+|4,39,1,0,1637141814,"~/0x14-bit_manipulation/100-get_endianness.c"
+-'  1  0  ~/0x14-bit_manipulation/100-get_endianness.c
+|4,39,1,0,1637141814,"~/0x14-bit_manipulation/100-get_endianness.c"
+-'  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,39,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
+-'  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,39,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
+-'  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,39,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
+-'  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,39,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
+-'  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,39,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
+-'  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,39,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
+-'  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,39,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
+-'  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,39,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
+-'  1  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,39,1,0,1637140865,"~/0x14-bit_manipulation/5-flip_bits.c"
+-'  1  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,39,1,0,1637140865,"~/0x14-bit_manipulation/5-flip_bits.c"
+-'  1  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,39,1,0,1637140865,"~/0x14-bit_manipulation/5-flip_bits.c"
+-'  1  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,39,1,0,1637140865,"~/0x14-bit_manipulation/5-flip_bits.c"
+-'  1  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,39,1,0,1637140865,"~/0x14-bit_manipulation/5-flip_bits.c"
+-'  1  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,39,1,0,1637140865,"~/0x14-bit_manipulation/5-flip_bits.c"
+-'  1  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,39,1,0,1637140865,"~/0x14-bit_manipulation/5-flip_bits.c"
+-'  1  0  ~/0x14-bit_manipulation/5-flip_bits.c
+|4,39,1,0,1637140865,"~/0x14-bit_manipulation/5-flip_bits.c"
+-'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,24,0,1637140742,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/4-clear_bit.c
+|4,39,1,0,1637140538,"~/0x14-bit_manipulation/4-clear_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  24  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,24,0,1637140397,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,1,0,1637140139,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,1,0,1637140139,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,1,0,1637140139,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,1,0,1637140139,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,1,0,1637140139,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,1,0,1637140139,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,1,0,1637140139,"~/0x14-bit_manipulation/3-set_bit.c"
+-'  1  0  ~/0x14-bit_manipulation/3-set_bit.c
+|4,39,1,0,1637140139,"~/0x14-bit_manipulation/3-set_bit.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x14-bit_manipulation/Crackme3
+	*	1637157051	0
+	"	2	0
+	^	2	0
+	.	3	0
+	+	4	0
+	+	3	0
+
+> ~/0x14-bit_manipulation/101-password
+	*	1637142848	0
+	"	1	2
+	^	1	3
+	.	1	0
+	+	1	0
+
+> ~/0x14-bit_manipulation/100-get_endianness.c
+	*	1637141978	0
+	"	18	0
+	^	18	0
+	.	19	0
+	+	18	0
+	+	3	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	8	0
+	+	9	1
+	+	10	0
+	+	11	0
+	+	12	0
+	+	14	0
+	+	15	0
+	+	17	0
+	+	19	0
+
+> ~/0x14-bit_manipulation/5-flip_bits.c
+	*	1637141008	0
+	"	25	0
+	^	25	0
+	.	26	0
+	+	25	0
+	+	2	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	2
+	+	10	0
+	+	10	1
+	+	11	0
+	+	12	0
+	+	14	0
+	+	15	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	21	8
+	+	25	0
+	+	22	0
+	+	24	0
+	+	26	0
+
+> ~/0x14-bit_manipulation/4-clear_bit.c
+	*	1637140741	0
+	"	24	0
+	^	24	0
+	.	25	0
+	+	24	0
+	+	3	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	2
+	+	10	0
+	+	10	1
+	+	11	1
+	+	12	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	21	18
+	+	23	1
+	+	25	0
+
+> ~/0x14-bit_manipulation/3-set_bit.c
+	*	1637140395	0
+	"	24	0
+	^	24	0
+	.	25	0
+	+	24	0
+	+	3	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	2
+	+	10	0
+	+	10	1
+	+	11	1
+	+	12	1
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	19	0
+	+	20	1
+	+	21	0
+	+	23	0
+	+	25	0
+
+> ~/0x14-bit_manipulation/2-get_bit.c
+	*	1637139975	0
+	"	23	0
+	^	23	0
+	.	24	0
+	+	23	0
+	+	2	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	2
+	+	10	0
+	+	10	1
+	+	11	0
+	+	12	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	19	0
+	+	20	0
+	+	22	0
+	+	24	0
+
+> ~/0x14-bit_manipulation/1-print_binary.c
+	*	1637139639	0
+	"	34	0
+	^	34	0
+	.	33	2
+	+	33	2
+	+	3	0
+	+	4	0
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	2
+	+	10	0
+	+	11	1
+	+	12	0
+	+	13	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	22	0
+	+	23	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	32	0
+	+	33	2
+
+> ~/0x14-bit_manipulation/main.h
+	*	1637139260	0
+	"	37	0
+	^	37	0
+	.	36	0
+	+	36	0
+
+> ~/0x14-bit_manipulation/README.md
+	*	1637139225	0
+	"	1	15
+	^	1	16
+	.	1	15
+	+	1	15
+
+> ~/0x14-bit_manipulation/0-binary_to_uint.c
+	*	1637139074	0
+	"	55	0
+	^	55	1
+	.	55	0
+	+	56	0
+	+	1	0
+	+	1	4
+	+	1	42
+	+	1	17
+	+	5	0
+	+	6	2
+	+	7	2
+	+	8	2
+	+	9	2
+	+	10	2
+	+	12	0
+	+	13	1
+	+	14	0
+	+	16	0
+	+	17	0
+	+	2	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	28	17
+	+	31	2
+	+	32	2
+	+	33	2
+	+	34	2
+	+	36	0
+	+	37	1
+	+	38	18
+	+	39	18
+	+	38	0
+	+	39	0
+	+	39	18
+	+	40	0
+	+	42	0
+	+	43	0
+	+	44	0
+	+	45	1
+	+	47	0
+	+	48	0
+	+	49	0
+	+	50	0
+	+	51	0
+	+	52	0
+	+	53	0
+	+	53	2
+	+	57	0
+	+	55	0
+
+> ~/0x12-singly_linked_lists/101-hello_holberton.asm
+	*	1637137690	0
+	"	22	0
+	^	22	0
+	.	21	22
+	+	21	22
+
+> ~/0x12-singly_linked_lists/100-first.c
+	*	1637129513	0
+	"	12	0
+	^	12	1
+	.	12	1
+	+	12	1
+	+	3	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	8	0
+	+	9	1
+	+	10	0
+	+	11	0
+	+	13	0
+	+	12	1
+
+> ~/0x12-singly_linked_lists/4-free_list.c
+	*	1637129284	0
+	"	16	0
+	^	16	0
+	.	17	0
+	+	16	0
+	+	3	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	7	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	17	0
+
+> ~/0x12-singly_linked_lists/3-add_node_end.c
+	*	1637129084	0
+	"	53	0
+	^	53	0
+	.	54	0
+	+	53	0
+	+	2	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	7	2
+	+	10	1
+	+	11	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	17	0
+	+	18	0
+	+	19	2
+	+	20	2
+	+	21	2
+	+	22	2
+	+	23	2
+	+	24	0
+	+	25	1
+	+	26	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	37	0
+	+	38	1
+	+	39	0
+	+	41	0
+	+	42	0
+	+	43	0
+	+	44	0
+	+	45	0
+	+	45	14
+	+	47	0
+	+	48	0
+	+	49	0
+	+	50	2
+	+	52	0
+	+	54	0
+
+> ~/0x12-singly_linked_lists/2-add_node.c
+	*	1637128499	0
+	"	50	0
+	^	50	0
+	.	51	0
+	+	50	0
+	+	3	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	0
+	+	10	1
+	+	12	1
+	+	14	0
+	+	14	39
+	+	15	0
+	+	16	0
+	+	18	0
+	+	19	0
+	+	20	2
+	+	21	2
+	+	22	2
+	+	23	2
+	+	24	2
+	+	26	0
+	+	28	0
+	+	28	41
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	39	0
+	+	40	0
+	+	42	0
+	+	43	0
+	+	44	0
+	+	45	0
+	+	45	26
+	+	47	0
+	+	49	0
+	+	51	0
+
+> ~/0x12-singly_linked_lists/1-list_len.c
+	*	1637127944	0
+	"	19	0
+	^	19	1
+	.	19	0
+	+	20	0
+	+	3	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	7	2
+	+	10	0
+	+	10	1
+	+	11	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	21	0
+	+	19	0
 
 > ~/0x12-singly_linked_lists/lists.h
 	*	1637127252	0
@@ -2129,424 +2541,3 @@
 	+	13	12
 	+	11	1
 	+	12	0
-
-> ~/0x06-pointers_arrays_strings/101-print_number.c
-	*	1633159801	0
-	"	33	0
-	^	33	0
-	.	32	2
-	+	32	2
-	+	2	0
-	+	4	2
-	+	5	2
-	+	6	3
-	+	7	0
-	+	8	24
-	+	10	40
-	+	11	18
-	+	13	12
-	+	14	16
-	+	15	5
-	+	16	2
-	+	17	12
-	+	18	3
-	+	19	21
-	+	20	17
-	+	21	3
-	+	22	27
-	+	23	15
-	+	24	20
-	+	25	19
-	+	26	3
-	+	27	27
-	+	28	25
-	+	29	42
-	+	30	14
-	+	31	3
-	+	32	2
-
-> ~/0x06-pointers_arrays_strings/100-rot13.c
-	*	1633159375	0
-	"	24	0
-	^	24	1
-	.	23	12
-	+	23	12
-	+	2	0
-	+	4	2
-	+	5	2
-	+	6	2
-	+	7	3
-	+	8	0
-	+	9	20
-	+	11	73
-	+	11	133
-	+	11	193
-	+	11	253
-	+	12	73
-	+	12	133
-	+	12	253
-	+	12	274
-	+	13	10
-	+	15	55
-	+	16	2
-	+	17	8
-	+	18	65
-	+	19	4
-	+	20	63
-	+	21	15
-	+	22	2
-	+	23	12
-
-> ~/0x06-pointers_arrays_strings/7-leet.c
-	*	1633158982	0
-	"	24	0
-	^	24	1
-	.	23	12
-	+	23	12
-	+	2	0
-	+	4	1
-	+	5	2
-	+	6	2
-	+	7	3
-	+	8	0
-	+	9	19
-	+	11	64
-	+	12	64
-	+	13	10
-	+	15	31
-	+	16	2
-	+	17	32
-	+	18	3
-	+	19	20
-	+	20	16
-	+	21	3
-	+	22	2
-	+	23	12
-
-> ~/0x06-pointers_arrays_strings/6-cap_string.c
-	*	1633158679	0
-	"	35	0
-	^	35	1
-	.	34	14
-	+	34	14
-	+	2	0
-	+	4	2
-	+	5	2
-	+	6	2
-	+	7	3
-	+	8	0
-	+	9	27
-	+	11	15
-	+	13	19
-	+	14	2
-	+	15	51
-	+	16	11
-	+	17	30
-	+	18	31
-	+	19	31
-	+	20	30
-	+	21	30
-	+	22	30
-	+	23	30
-	+	24	30
-	+	25	30
-	+	26	30
-	+	27	30
-	+	28	30
-	+	29	30
-	+	30	17
-	+	31	20
-	+	32	10
-	+	33	2
-	+	34	14
-
-> ~/0x06-pointers_arrays_strings/5-string_toupper.c
-	*	1633158136	0
-	"	21	0
-	^	21	1
-	.	20	14
-	+	20	19
-	+	20	15
-	+	2	0
-	+	3	3
-	+	5	3
-	+	6	2
-	+	7	2
-	+	8	3
-	+	9	0
-	+	11	1
-	+	12	15
-	+	14	19
-	+	15	2
-	+	16	45
-	+	17	20
-	+	18	10
-	+	19	2
-	+	20	14
-
-> ~/0x06-pointers_arrays_strings/4-rev_array.c
-	*	1633157856	0
-	"	21	0
-	^	21	0
-	.	20	2
-	+	20	2
-	+	2	0
-	+	4	2
-	+	5	2
-	+	6	2
-	+	7	3
-	+	8	0
-	+	9	33
-	+	11	18
-	+	12	54
-	+	13	0
-	+	14	18
-	+	15	2
-	+	16	19
-	+	17	26
-	+	18	19
-	+	19	15
-	+	20	2
-
-> ~/0x06-pointers_arrays_strings/3-strcmp.c
-	*	1633157607	0
-	"	20	0
-	^	20	0
-	.	19	13
-	+	19	13
-	+	2	0
-	+	4	2
-	+	5	2
-	+	6	2
-	+	7	2
-	+	8	3
-	+	9	0
-	+	10	31
-	+	12	11
-	+	13	0
-	+	14	44
-	+	15	6
-	+	16	15
-	+	17	33
-	+	18	5
-	+	19	13
-
-> ~/0x06-pointers_arrays_strings/2-strncpy.c
-	*	1633157311	0
-	"	23	0
-	^	23	0
-	.	22	15
-	+	22	15
-	+	2	0
-	+	4	2
-	+	5	2
-	+	6	2
-	+	7	2
-	+	8	2
-	+	9	3
-	+	10	0
-	+	11	44
-	+	12	1
-	+	13	7
-	+	15	42
-	+	16	19
-	+	17	14
-	+	18	2
-	+	19	17
-	+	20	6
-	+	21	2
-	+	22	15
-
-> ~/0x06-pointers_arrays_strings/1-strncat.c
-	*	1633157010	0
-	"	26	0
-	^	26	0
-	.	25	15
-	+	25	15
-	+	13	22
-	+	11	45
-	+	11	55
-	+	13	22
-	+	14	11
-	+	1	17
-	+	2	0
-	+	4	2
-	+	5	2
-	+	6	2
-	+	7	2
-	+	8	2
-	+	9	3
-	+	10	0
-	+	11	44
-	+	13	11
-	+	14	11
-	+	16	58
-	+	17	6
-	+	18	62
-	+	19	2
-	+	20	19
-	+	21	6
-	+	22	6
-	+	23	2
-	+	24	16
-	+	25	15
-
-> ~/0x06-pointers_arrays_strings/main.h
-	*	1633156568	0
-	"	215	5
-	^	215	6
-	.	215	5
-	+	215	5
-
-> ~/0x06-pointers_arrays_strings/README.md
-	*	1633156327	0
-	"	1	45
-	^	1	46
-	.	1	45
-	+	1	45
-
-> ~/.git/MERGE_MSG
-	*	1633156200	0
-	"	1	0
-	^	1	0
-	.	2	0
-	+	1	0
-	+	2	0
-	i	1	0
-
-> ~/0x06-pointers_arrays_strings/0-strcat.c
-	*	1633155997	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
-
-> ~/0-strcat.c
-	*	1633154509	0
-	"	25	0
-	^	25	0
-	.	24	15
-	+	24	15
-	+	1	17
-	+	2	0
-	+	3	3
-	+	5	2
-	+	6	2
-	+	7	2
-	+	8	3
-	+	9	0
-	+	10	36
-	+	12	11
-	+	13	11
-	+	15	24
-	+	16	6
-	+	17	23
-	+	18	2
-	+	19	19
-	+	20	6
-	+	21	6
-	+	22	2
-	+	23	16
-	+	24	15
-
-> ~/0x05-pointers_arrays_strings/101-keygen.c
-	*	1633050228	0
-	"	48	0
-	^	48	0
-	.	47	12
-	+	47	12
-	+	1	18
-	+	2	19
-	+	4	0
-	+	5	3
-	+	7	2
-	+	8	2
-	+	9	3
-	+	10	0
-	+	11	14
-	+	12	1
-	+	13	19
-	+	14	48
-	+	16	16
-	+	17	19
-	+	18	2
-	+	19	37
-	+	20	27
-	+	21	2
-	+	22	24
-	+	23	17
-	+	24	2
-	+	25	32
-	+	26	32
-	+	27	28
-	+	28	16
-	+	29	43
-	+	30	3
-	+	31	44
-	+	32	4
-	+	33	34
-	+	34	10
-	+	35	4
-	+	36	3
-	+	37	43
-	+	38	3
-	+	38	2
-	+	39	44
-	+	38	3
-	+	39	44
-	+	40	4
-	+	41	34
-	+	42	10
-	+	43	4
-	+	44	3
-	+	45	2
-	+	46	24
-	+	47	12
-
-> ~/0x05-pointers_arrays_strings/100-atoi.c
-	*	1633049599	0
-	"	23	0
-	^	23	0
-	.	22	21
-	+	22	21
-	+	2	0
-	+	3	3
-	+	5	2
-	+	6	2
-	+	7	3
-	+	8	0
-	+	9	18
-	+	11	14
-	+	12	22
-	+	14	5
-	+	15	16
-	+	16	14
-	+	17	34
-	+	18	33
-	+	19	19
-	+	20	9
-	+	21	16
-	+	22	21
-
-> ~/0x05-pointers_arrays_strings/9-strcpy.c
-	*	1633049255	0
-	"	20	0
-	^	20	0
-	.	19	15
-	+	19	15
-	+	2	0
-	+	3	3
-	+	5	2
-	+	6	2
-	+	7	2
-	+	8	2
-	+	9	2
-	+	10	3
-	+	11	0
-	+	12	36
-	+	14	16
-	+	16	33
-	+	16	35
-	+	17	19
-	+	18	16
-	+	19	15
