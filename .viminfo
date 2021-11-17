@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1637159134,,"wq"
+|2,0,1637160342,,"wq"
 :q!
 |2,0,1637158778,,"q!"
 :q
@@ -60,36 +60,144 @@
 |3,1,36,0,1,0,1633390188,"f"
 
 # File marks:
-'0  1  8  ~/0x15-file_io/0-read_textfile.c
-|4,48,1,8,1637159134,"~/0x15-file_io/0-read_textfile.c"
-'1  43  5  ~/0x15-file_io/main.h
-|4,49,43,5,1637158799,"~/0x15-file_io/main.h"
-'2  43  5  ~/0x15-file_io/main.h#ifndef
-|4,50,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
-'3  1  7  ~/0x15-file_io/README.md
-|4,51,1,7,1637158663,"~/0x15-file_io/README.md"
-'4  49  0  ~/0x15-file_io/0-read_textfile.c
-|4,52,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
-'5  49  0  ~/0x15-file_io/0-read_textfile.c
-|4,53,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
-'6  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,54,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
-'7  1  2  ~/0x14-bit_manipulation/101-password
-|4,55,1,2,1637142849,"~/0x14-bit_manipulation/101-password"
-'8  18  0  ~/0x14-bit_manipulation/100-get_endianness.c
-|4,56,18,0,1637141981,"~/0x14-bit_manipulation/100-get_endianness.c"
-'9  25  0  ~/0x14-bit_manipulation/5-flip_bits.c
-|4,57,25,0,1637141010,"~/0x14-bit_manipulation/5-flip_bits.c"
+'0  57  0  ~/0x15-file_io/2-append_text_to_file.c
+|4,48,57,0,1637160342,"~/0x15-file_io/2-append_text_to_file.c"
+'1  56  0  ~/0x15-file_io/2-append_text_to_file.c
+|4,49,56,0,1637160037,"~/0x15-file_io/2-append_text_to_file.c"
+'2  57  0  ~/0x15-file_io/1-create_file.c
+|4,50,57,0,1637159646,"~/0x15-file_io/1-create_file.c"
+'3  1  8  ~/0x15-file_io/0-read_textfile.c
+|4,51,1,8,1637159134,"~/0x15-file_io/0-read_textfile.c"
+'4  43  5  ~/0x15-file_io/main.h
+|4,52,43,5,1637158799,"~/0x15-file_io/main.h"
+'5  43  5  ~/0x15-file_io/main.h#ifndef
+|4,53,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+'6  1  7  ~/0x15-file_io/README.md
+|4,54,1,7,1637158663,"~/0x15-file_io/README.md"
+'7  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,55,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
+'8  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,56,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
+'9  2  0  ~/0x14-bit_manipulation/Crackme3
+|4,57,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
 
 # Jumplist (newest first):
+-'  57  0  ~/0x15-file_io/2-append_text_to_file.c
+|4,39,57,0,1637160342,"~/0x15-file_io/2-append_text_to_file.c"
+-'  56  0  ~/0x15-file_io/2-append_text_to_file.c
+|4,39,56,0,1637160037,"~/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1637159763,"~/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1637159763,"~/0x15-file_io/2-append_text_to_file.c"
+-'  57  0  ~/0x15-file_io/1-create_file.c
+|4,39,57,0,1637159646,"~/0x15-file_io/1-create_file.c"
+-'  57  0  ~/0x15-file_io/1-create_file.c
+|4,39,57,0,1637159646,"~/0x15-file_io/1-create_file.c"
+-'  57  0  ~/0x15-file_io/1-create_file.c
+|4,39,57,0,1637159646,"~/0x15-file_io/1-create_file.c"
+-'  57  0  ~/0x15-file_io/1-create_file.c
+|4,39,57,0,1637159646,"~/0x15-file_io/1-create_file.c"
+-'  1  0  ~/0x15-file_io/1-create_file.c
+|4,39,1,0,1637159228,"~/0x15-file_io/1-create_file.c"
+-'  1  0  ~/0x15-file_io/1-create_file.c
+|4,39,1,0,1637159228,"~/0x15-file_io/1-create_file.c"
+-'  1  0  ~/0x15-file_io/1-create_file.c
+|4,39,1,0,1637159228,"~/0x15-file_io/1-create_file.c"
+-'  1  0  ~/0x15-file_io/1-create_file.c
+|4,39,1,0,1637159228,"~/0x15-file_io/1-create_file.c"
 -'  1  8  ~/0x15-file_io/0-read_textfile.c
 |4,39,1,8,1637159134,"~/0x15-file_io/0-read_textfile.c"
+-'  1  8  ~/0x15-file_io/0-read_textfile.c
+|4,39,1,8,1637159134,"~/0x15-file_io/0-read_textfile.c"
+-'  1  8  ~/0x15-file_io/0-read_textfile.c
+|4,39,1,8,1637159134,"~/0x15-file_io/0-read_textfile.c"
+-'  1  8  ~/0x15-file_io/0-read_textfile.c
+|4,39,1,8,1637159134,"~/0x15-file_io/0-read_textfile.c"
+-'  1  8  ~/0x15-file_io/0-read_textfile.c
+|4,39,1,8,1637159134,"~/0x15-file_io/0-read_textfile.c"
+-'  1  8  ~/0x15-file_io/0-read_textfile.c
+|4,39,1,8,1637159134,"~/0x15-file_io/0-read_textfile.c"
+-'  1  8  ~/0x15-file_io/0-read_textfile.c
+|4,39,1,8,1637159134,"~/0x15-file_io/0-read_textfile.c"
+-'  1  8  ~/0x15-file_io/0-read_textfile.c
+|4,39,1,8,1637159134,"~/0x15-file_io/0-read_textfile.c"
+-'  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,49,0,1637159054,"~/0x15-file_io/0-read_textfile.c"
+-'  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,49,0,1637159054,"~/0x15-file_io/0-read_textfile.c"
+-'  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,49,0,1637159054,"~/0x15-file_io/0-read_textfile.c"
+-'  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,49,0,1637159054,"~/0x15-file_io/0-read_textfile.c"
+-'  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,49,0,1637159054,"~/0x15-file_io/0-read_textfile.c"
+-'  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,49,0,1637159054,"~/0x15-file_io/0-read_textfile.c"
+-'  49  0  ~/0x15-file_io/0-read_textfile.c
+|4,39,49,0,1637159054,"~/0x15-file_io/0-read_textfile.c"
 -'  49  0  ~/0x15-file_io/0-read_textfile.c
 |4,39,49,0,1637159054,"~/0x15-file_io/0-read_textfile.c"
 -'  43  5  ~/0x15-file_io/main.h
 |4,39,43,5,1637158799,"~/0x15-file_io/main.h"
 -'  43  5  ~/0x15-file_io/main.h
 |4,39,43,5,1637158799,"~/0x15-file_io/main.h"
+-'  43  5  ~/0x15-file_io/main.h
+|4,39,43,5,1637158799,"~/0x15-file_io/main.h"
+-'  43  5  ~/0x15-file_io/main.h
+|4,39,43,5,1637158799,"~/0x15-file_io/main.h"
+-'  43  5  ~/0x15-file_io/main.h
+|4,39,43,5,1637158799,"~/0x15-file_io/main.h"
+-'  43  5  ~/0x15-file_io/main.h
+|4,39,43,5,1637158799,"~/0x15-file_io/main.h"
+-'  43  5  ~/0x15-file_io/main.h
+|4,39,43,5,1637158799,"~/0x15-file_io/main.h"
+-'  43  5  ~/0x15-file_io/main.h
+|4,39,43,5,1637158799,"~/0x15-file_io/main.h"
+-'  43  5  ~/0x15-file_io/main.h
+|4,39,43,5,1637158799,"~/0x15-file_io/main.h"
+-'  43  5  ~/0x15-file_io/main.h
+|4,39,43,5,1637158799,"~/0x15-file_io/main.h"
+-'  43  5  ~/0x15-file_io/main.h
+|4,39,43,5,1637158799,"~/0x15-file_io/main.h"
+-'  43  5  ~/0x15-file_io/main.h
+|4,39,43,5,1637158799,"~/0x15-file_io/main.h"
+-'  43  5  ~/0x15-file_io/main.h
+|4,39,43,5,1637158799,"~/0x15-file_io/main.h"
+-'  43  5  ~/0x15-file_io/main.h
+|4,39,43,5,1637158799,"~/0x15-file_io/main.h"
+-'  43  5  ~/0x15-file_io/main.h
+|4,39,43,5,1637158799,"~/0x15-file_io/main.h"
+-'  43  5  ~/0x15-file_io/main.h
+|4,39,43,5,1637158799,"~/0x15-file_io/main.h"
+-'  1  0  ~/0x15-file_io/main.h
+|4,39,1,0,1637158785,"~/0x15-file_io/main.h"
+-'  1  0  ~/0x15-file_io/main.h
+|4,39,1,0,1637158785,"~/0x15-file_io/main.h"
+-'  1  0  ~/0x15-file_io/main.h
+|4,39,1,0,1637158785,"~/0x15-file_io/main.h"
+-'  1  0  ~/0x15-file_io/main.h
+|4,39,1,0,1637158785,"~/0x15-file_io/main.h"
+-'  1  0  ~/0x15-file_io/main.h
+|4,39,1,0,1637158785,"~/0x15-file_io/main.h"
+-'  1  0  ~/0x15-file_io/main.h
+|4,39,1,0,1637158785,"~/0x15-file_io/main.h"
+-'  1  0  ~/0x15-file_io/main.h
+|4,39,1,0,1637158785,"~/0x15-file_io/main.h"
+-'  1  0  ~/0x15-file_io/main.h
+|4,39,1,0,1637158785,"~/0x15-file_io/main.h"
+-'  1  0  ~/0x15-file_io/main.h
+|4,39,1,0,1637158785,"~/0x15-file_io/main.h"
+-'  1  0  ~/0x15-file_io/main.h
+|4,39,1,0,1637158785,"~/0x15-file_io/main.h"
+-'  1  0  ~/0x15-file_io/main.h
+|4,39,1,0,1637158785,"~/0x15-file_io/main.h"
+-'  1  0  ~/0x15-file_io/main.h
+|4,39,1,0,1637158785,"~/0x15-file_io/main.h"
+-'  1  0  ~/0x15-file_io/main.h
+|4,39,1,0,1637158785,"~/0x15-file_io/main.h"
+-'  1  0  ~/0x15-file_io/main.h
+|4,39,1,0,1637158785,"~/0x15-file_io/main.h"
 -'  1  0  ~/0x15-file_io/main.h
 |4,39,1,0,1637158785,"~/0x15-file_io/main.h"
 -'  1  0  ~/0x15-file_io/main.h
@@ -102,6 +210,62 @@
 |4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
 -'  43  5  ~/0x15-file_io/main.h#ifndef
 |4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
+-'  43  5  ~/0x15-file_io/main.h#ifndef
+|4,39,43,5,1637158778,"~/0x15-file_io/main.h#ifndef"
 -'  1  0  ~/0x15-file_io/main.h#ifndef
 |4,39,1,0,1637158702,"~/0x15-file_io/main.h#ifndef"
 -'  1  0  ~/0x15-file_io/main.h#ifndef
@@ -110,180 +274,123 @@
 |4,39,1,0,1637158702,"~/0x15-file_io/main.h#ifndef"
 -'  1  0  ~/0x15-file_io/main.h#ifndef
 |4,39,1,0,1637158702,"~/0x15-file_io/main.h#ifndef"
--'  1  7  ~/0x15-file_io/README.md
-|4,39,1,7,1637158663,"~/0x15-file_io/README.md"
--'  1  7  ~/0x15-file_io/README.md
-|4,39,1,7,1637158663,"~/0x15-file_io/README.md"
--'  1  7  ~/0x15-file_io/README.md
-|4,39,1,7,1637158663,"~/0x15-file_io/README.md"
--'  1  7  ~/0x15-file_io/README.md
-|4,39,1,7,1637158663,"~/0x15-file_io/README.md"
--'  1  7  ~/0x15-file_io/README.md
-|4,39,1,7,1637158663,"~/0x15-file_io/README.md"
--'  1  7  ~/0x15-file_io/README.md
-|4,39,1,7,1637158663,"~/0x15-file_io/README.md"
--'  1  7  ~/0x15-file_io/README.md
-|4,39,1,7,1637158663,"~/0x15-file_io/README.md"
--'  1  7  ~/0x15-file_io/README.md
-|4,39,1,7,1637158663,"~/0x15-file_io/README.md"
--'  49  0  ~/0x15-file_io/0-read_textfile.c
-|4,39,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
--'  49  0  ~/0x15-file_io/0-read_textfile.c
-|4,39,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
--'  49  0  ~/0x15-file_io/0-read_textfile.c
-|4,39,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
--'  49  0  ~/0x15-file_io/0-read_textfile.c
-|4,39,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
--'  49  0  ~/0x15-file_io/0-read_textfile.c
-|4,39,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
--'  49  0  ~/0x15-file_io/0-read_textfile.c
-|4,39,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
--'  49  0  ~/0x15-file_io/0-read_textfile.c
-|4,39,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
--'  49  0  ~/0x15-file_io/0-read_textfile.c
-|4,39,49,0,1637158545,"~/0x15-file_io/0-read_textfile.c"
--'  1  0  ~/0x15-file_io/0-read_textfile.c
-|4,39,1,0,1637158044,"~/0x15-file_io/0-read_textfile.c"
--'  1  0  ~/0x15-file_io/0-read_textfile.c
-|4,39,1,0,1637158044,"~/0x15-file_io/0-read_textfile.c"
--'  1  0  ~/0x15-file_io/0-read_textfile.c
-|4,39,1,0,1637158044,"~/0x15-file_io/0-read_textfile.c"
--'  1  0  ~/0x15-file_io/0-read_textfile.c
-|4,39,1,0,1637158044,"~/0x15-file_io/0-read_textfile.c"
--'  1  0  ~/0x15-file_io/0-read_textfile.c
-|4,39,1,0,1637158044,"~/0x15-file_io/0-read_textfile.c"
--'  1  0  ~/0x15-file_io/0-read_textfile.c
-|4,39,1,0,1637158044,"~/0x15-file_io/0-read_textfile.c"
--'  1  0  ~/0x15-file_io/0-read_textfile.c
-|4,39,1,0,1637158044,"~/0x15-file_io/0-read_textfile.c"
--'  1  0  ~/0x15-file_io/0-read_textfile.c
-|4,39,1,0,1637158044,"~/0x15-file_io/0-read_textfile.c"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  2  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,2,0,1637157052,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
--'  1  0  ~/0x14-bit_manipulation/Crackme3
-|4,39,1,0,1637157006,"~/0x14-bit_manipulation/Crackme3"
+-'  1  0  ~/0x15-file_io/main.h#ifndef
+|4,39,1,0,1637158702,"~/0x15-file_io/main.h#ifndef"
+-'  1  0  ~/0x15-file_io/main.h#ifndef
+|4,39,1,0,1637158702,"~/0x15-file_io/main.h#ifndef"
+-'  1  0  ~/0x15-file_io/main.h#ifndef
+|4,39,1,0,1637158702,"~/0x15-file_io/main.h#ifndef"
+-'  1  0  ~/0x15-file_io/main.h#ifndef
+|4,39,1,0,1637158702,"~/0x15-file_io/main.h#ifndef"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x15-file_io/2-append_text_to_file.c
+	*	1637160341	0
+	"	57	0
+	^	57	1
+	.	16	0
+	+	57	0
+	+	3	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	7	2
+	+	9	0
+	+	10	1
+	+	11	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	17	0
+	+	18	0
+	+	20	2
+	+	21	2
+	+	22	2
+	+	23	2
+	+	24	2
+	+	25	2
+	+	27	0
+	+	28	1
+	+	29	0
+	+	30	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	40	0
+	+	41	0
+	+	42	0
+	+	43	0
+	+	44	0
+	+	45	0
+	+	47	0
+	+	48	0
+	+	49	1
+	+	50	0
+	+	51	0
+	+	52	0
+	+	53	0
+	+	55	0
+	+	56	0
+	+	57	0
+	+	16	0
+
+> ~/0x15-file_io/1-create_file.c
+	*	1637159644	0
+	"	57	0
+	^	57	1
+	.	57	0
+	+	57	0
+	+	3	0
+	+	4	2
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	0
+	+	10	1
+	+	11	0
+	+	13	0
+	+	14	0
+	+	14	3
+	+	16	0
+	+	18	0
+	+	19	0
+	+	20	2
+	+	21	2
+	+	22	2
+	+	23	2
+	+	24	2
+	+	25	2
+	+	27	0
+	+	28	1
+	+	29	0
+	+	30	0
+	+	32	0
+	+	33	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	40	0
+	+	41	0
+	+	42	0
+	+	43	0
+	+	44	0
+	+	45	0
+	+	47	0
+	+	48	0
+	+	49	0
+	+	50	0
+	+	51	0
+	+	52	0
+	+	53	0
+	+	55	0
+	+	56	0
+	+	57	0
 
 > ~/0x15-file_io/0-read_textfile.c
 	*	1637159133	0
@@ -2481,14 +2588,3 @@
 > ~/0x07-pointers_arrays_strings/0-memeset.c
 	*	1633184034	0
 	"	1	0
-
-> ~/0x07-pointers_arrays_strings/0-memset
-	*	1633184021	0
-	"	1	0
-
-> ~/0x07-pointers_arrays_strings/main.h
-	*	1633183277	0
-	"	179	5
-	^	179	6
-	.	179	5
-	+	179	5
