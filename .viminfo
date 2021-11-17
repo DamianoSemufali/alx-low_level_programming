@@ -15,11 +15,11 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1637127006,,"wq"
+|2,0,1637127253,,"wq"
+:q
+|2,0,1637127187,,"q"
 :wq\
 |2,0,1636308446,,"wq\\"
-:q
-|2,0,1634495262,,"q"
 :Wq
 |2,0,1633397439,,"Wq"
 :wq!
@@ -58,40 +58,74 @@
 |3,1,36,0,1,0,1633390188,"f"
 
 # File marks:
-'0  25  1  ~/0x12-singly_linked_lists/0-print_list.c
-|4,48,25,1,1637127006,"~/0x12-singly_linked_lists/0-print_list.c"
-'1  54  0  ~/0x12-singly_linked_lists/lists.h
-|4,49,54,0,1637126531,"~/0x12-singly_linked_lists/lists.h"
-'2  1  0  ~/0x12-singly_linked_lists/lists.h
-|4,50,1,0,1637126081,"~/0x12-singly_linked_lists/lists.h"
-'3  1  0  ~/0x12-singly_linked_lists/lists.h
-|4,51,1,0,1637126081,"~/0x12-singly_linked_lists/lists.h"
-'4  26  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,52,26,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
-'5  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,53,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
-'6  1  0  ~/0x12-singly_linked_lists/list.h
-|4,54,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
-'7  26  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,55,26,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
-'8  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,56,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
-'9  12  19  ~/0x12-singly_linked_lists/0-print_list.c
-|4,57,12,19,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
+'0  22  1  ~/0x12-singly_linked_lists/lists.h
+|4,48,22,1,1637127253,"~/0x12-singly_linked_lists/lists.h"
+'1  1  0  ~/0x12-singly_linked_lists/list.h
+|4,49,1,0,1637127187,"~/0x12-singly_linked_lists/list.h"
+'2  25  1  ~/0x12-singly_linked_lists/0-print_list.c
+|4,50,25,1,1637127006,"~/0x12-singly_linked_lists/0-print_list.c"
+'3  47  0  ~/0x12-singly_linked_lists/lists.h
+|4,51,47,0,1637126531,"~/0x12-singly_linked_lists/lists.h"
+'4  54  0  ~/0x12-singly_linked_lists/lists.h
+|4,52,54,0,1637126531,"~/0x12-singly_linked_lists/lists.h"
+'5  1  0  ~/0x12-singly_linked_lists/lists.h
+|4,53,1,0,1637126081,"~/0x12-singly_linked_lists/lists.h"
+'6  1  0  ~/0x12-singly_linked_lists/lists.h
+|4,54,1,0,1637126081,"~/0x12-singly_linked_lists/lists.h"
+'7  1  0  ~/0x12-singly_linked_lists/lists.h
+|4,55,1,0,1637126081,"~/0x12-singly_linked_lists/lists.h"
+'8  1  0  ~/0x12-singly_linked_lists/lists.h
+|4,56,1,0,1637126081,"~/0x12-singly_linked_lists/lists.h"
+'9  26  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,57,26,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
 
 # Jumplist (newest first):
+-'  22  1  ~/0x12-singly_linked_lists/lists.h
+|4,39,22,1,1637127253,"~/0x12-singly_linked_lists/lists.h"
+-'  47  0  ~/0x12-singly_linked_lists/lists.h
+|4,39,47,0,1637127192,"~/0x12-singly_linked_lists/lists.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637127187,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637127187,"~/0x12-singly_linked_lists/list.h"
 -'  25  1  ~/0x12-singly_linked_lists/0-print_list.c
 |4,39,25,1,1637127006,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  25  1  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,25,1,1637127006,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  25  1  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,25,1,1637127006,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  25  1  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,25,1,1637127006,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  26  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,26,0,1637126812,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  26  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,26,0,1637126812,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  26  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,26,0,1637126812,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  26  0  ~/0x12-singly_linked_lists/0-print_list.c
 |4,39,26,0,1637126812,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  54  0  ~/0x12-singly_linked_lists/lists.h
 |4,39,54,0,1637126531,"~/0x12-singly_linked_lists/lists.h"
 -'  54  0  ~/0x12-singly_linked_lists/lists.h
 |4,39,54,0,1637126531,"~/0x12-singly_linked_lists/lists.h"
+-'  54  0  ~/0x12-singly_linked_lists/lists.h
+|4,39,54,0,1637126531,"~/0x12-singly_linked_lists/lists.h"
+-'  54  0  ~/0x12-singly_linked_lists/lists.h
+|4,39,54,0,1637126531,"~/0x12-singly_linked_lists/lists.h"
 -'  1  0  ~/0x12-singly_linked_lists/lists.h
 |4,39,1,0,1637126415,"~/0x12-singly_linked_lists/lists.h"
 -'  1  0  ~/0x12-singly_linked_lists/lists.h
 |4,39,1,0,1637126415,"~/0x12-singly_linked_lists/lists.h"
+-'  1  0  ~/0x12-singly_linked_lists/lists.h
+|4,39,1,0,1637126415,"~/0x12-singly_linked_lists/lists.h"
+-'  1  0  ~/0x12-singly_linked_lists/lists.h
+|4,39,1,0,1637126415,"~/0x12-singly_linked_lists/lists.h"
+-'  1  0  ~/0x12-singly_linked_lists/lists.h
+|4,39,1,0,1637126415,"~/0x12-singly_linked_lists/lists.h"
+-'  1  0  ~/0x12-singly_linked_lists/lists.h
+|4,39,1,0,1637126081,"~/0x12-singly_linked_lists/lists.h"
+-'  1  0  ~/0x12-singly_linked_lists/lists.h
+|4,39,1,0,1637126081,"~/0x12-singly_linked_lists/lists.h"
 -'  1  0  ~/0x12-singly_linked_lists/lists.h
 |4,39,1,0,1637126081,"~/0x12-singly_linked_lists/lists.h"
 -'  1  0  ~/0x12-singly_linked_lists/lists.h
@@ -104,6 +138,62 @@
 |4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
 |4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637125919,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
+-'  1  0  ~/0x12-singly_linked_lists/list.h
+|4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
 -'  1  0  ~/0x12-singly_linked_lists/list.h
 |4,39,1,0,1637125826,"~/0x12-singly_linked_lists/list.h"
 -'  1  0  ~/0x12-singly_linked_lists/list.h
@@ -152,136 +242,71 @@
 |4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
 |4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1637124635,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1637124635,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1637124635,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1637124635,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1637124635,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1637124635,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1637124635,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1637124635,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1637124635,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1637124635,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1637124635,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1637124635,"~/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1637124635,"~/0x12-singly_linked_lists/0-print_list.c"
--'  12  19  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,12,19,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
--'  11  19  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,11,19,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
--'  11  19  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,11,19,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
--'  11  19  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,11,19,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
--'  11  19  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,11,19,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
--'  11  19  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,11,19,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
--'  11  19  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,11,19,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
--'  11  19  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,11,19,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
--'  11  19  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,11,19,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
--'  11  19  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,11,19,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
--'  11  19  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,11,19,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
--'  11  19  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,11,19,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
--'  11  19  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,11,19,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
 -'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
-|4,39,23,0,1637062462,"~/0x12-singly_linked_lists/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
--'  23  0  /0-print_list.c
-|4,39,23,0,1637062361,"/0-print_list.c"
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
+-'  23  0  ~/0x12-singly_linked_lists/0-print_list.c
+|4,39,23,0,1637124814,"~/0x12-singly_linked_lists/0-print_list.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x12-singly_linked_lists/lists.h
+	*	1637127252	0
+	"	22	1
+	^	22	2
+	.	22	2
+	+	1	1
+	+	24	2
+	+	16	2
+	+	17	2
+	+	18	2
+	+	19	2
+	+	20	2
+	+	21	2
+	+	22	2
+
+> ~/0x12-singly_linked_lists/list.h
+	*	1637127186	0
+	"	1	0
+	^	1	0
+	.	56	0
+	+	59	0
+	+	60	0
+	+	58	0
+	+	56	0
 
 > ~/0x12-singly_linked_lists/0-print_list.c
 	*	1637127005	0
@@ -327,23 +352,6 @@
 	+	11	0
 	+	21	0
 	+	25	0
-
-> ~/0x12-singly_linked_lists/lists.h
-	*	1637126529	0
-	"	54	0
-	^	54	0
-	.	1	1
-	+	1	1
-
-> ~/0x12-singly_linked_lists/list.h
-	*	1637125823	0
-	"	1	0
-	^	1	0
-	.	56	0
-	+	59	0
-	+	60	0
-	+	58	0
-	+	56	0
 
 > /0-print_list.c
 	*	1637062357	0
